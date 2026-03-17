@@ -1,0 +1,11 @@
+facility_id,facility_name,facility_type,district,crs,risk_level,last_updated,complete_address,street_address,addr:city,addr:district,addr:subdistrict,addr:postcode,addr:state
+node/6956627669,Raipur Institute Of Medical Sciences Hospital,Hospital,RAIPUR,0.375,High,14-03-2026 02:31,"Bhansoj Road, N.H-6,M.M.Funcit",,,Raipur,,492101.0,Chhattisgarh
+node/7148125239,Government hospital arang,Hospital,RAIPUR,0.375,High,14-03-2026 02:31,"Ward No 07, Near Police Station",,,Raipur,Arang,493441.0,Chhattisgarh
+node/7148125257,Goverment hospital Gobra Nawapara,Hospital,RAIPUR,0.375,High,14-03-2026 02:31,"Gobra, NEAR THE NAGAR PALIKA",,,Raipur,Abhanpur,493881.0,Chhattisgarh
+node/12276858430,"Campion School, Raipur",School,RAIPUR,0.375,High,14-03-2026 02:31,"Vidhan Sabha Road, Amaseoni, Raipur, Raipur,  49311.0","Vidhan Sabha Road, Amaseoni",Raipur,Raipur,,49311.0,
+node/6965834182,Jyoti Hospital and Prasuti Griha,Hospital,RAIPUR,0.39430115,High,14-03-2026 02:31,"Setpal Nagar, Tilda Neora Post",,,Raipur,,493114.0,Chhattisgarh
+node/7148125143,"Government Hospital, Tilda",Hospital,RAIPUR,0.39430115,High,14-03-2026 02:31,Railway Station Road,,,Raipur,Tilda,493114.0,Chhattisgarh
+node/6966792004,Evangelical Mission Hospital,Hospital,RAIPUR,0.39430115,High,14-03-2026 02:31,"Tilda, Po - Neora",,,Raipur,,493114.0,Chhattisgarh
+node/6966522779,Mgm Eye Hospital,Hospital,RAIPUR,0.401228651,Medium,14-03-2026 02:31,"5Th Mile, Vidhan Sabha Road",,,Raipur,,492001.0,Chhattisgarh
+node/4445255005,Bharatiya vidya bhuvans R.K. sarda vidya mandir,School,RAIPUR,0.401228651,Medium,14-03-2026 02:31,"saddu-baronda roadraronda raipur,, raipur,  492007.0",saddu-baronda roadraronda raipur,raipur,,,492007.0,
+node/7148125120,Government Hospital Uparwara,Hospital,RAIPUR,0.451953957,Medium,14-03-2026 02:31,NEAR THE Government H S SCHOOL UPARWARA,,,Raipur,Abhanpur,493661.0,Chhattisgarh

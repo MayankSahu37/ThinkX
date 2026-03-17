@@ -1,0 +1,149 @@
+facility_id,facility_name,row_index,feature_1,shap_1,feature_2,shap_2,feature_3,shap_3,risk_type,horizon
+node/4445104811,Ramkrishna Care Hospital,0,month,-0.12100840282914867,gwl,-0.10938749729652186,dist_to_river_km,0.08932978838335902,sanitation_failure,7d
+node/4445112827,Narayana Hrudayalaya Mmi Hospital (Managed By Narayana Hrudayalaya Pvt Ltd - Bangalore) - Raipur,1,month,-0.12108881767390804,gwl,-0.10980275889856381,dist_to_river_km,0.08663565877414685,sanitation_failure,7d
+node/4445113471,Suyash Superspeciality Hospital,2,month,-0.1303656209272314,gwl,-0.12298008148963882,dist_to_river_km,-0.05642172575935893,sanitation_failure,7d
+node/4445129008,Vardaan Hospital (Unit Of Jindal Medicare),3,month,-0.13290420314971207,gwl,-0.1246693586863357,dist_to_river_km,-0.0992636816542427,sanitation_failure,7d
+node/4445137285,Bal Gopal Children Hospital and Research Institute,4,month,-0.12527665318430586,gwl,-0.11406752729406425,river_level,0.06315812996931972,sanitation_failure,7d
+node/5556568170,Navkar Hospital and Maternity Home,5,month,-0.12364976009928945,gwl,-0.11269390623332876,river_level,0.06441022378467709,sanitation_failure,7d
+node/6950645744,Karma Hospital,6,month,-0.1312875531653901,gwl,-0.12295529615792902,dist_to_river_km,-0.058079034337154965,sanitation_failure,7d
+node/6950645749,Chhattisgarh Eye Hospital,7,month,-0.13059739303722312,gwl,-0.12258183543381658,river_level,0.056082703993666,sanitation_failure,7d
+node/6950645773,Devi Laxmi Hospital,8,month,-0.12361469813491767,gwl,-0.11172788801273231,dist_to_river_km,0.06911568315116144,sanitation_failure,7d
+node/6950646487,Sanjeevani Cbcc Usa Cancer Hospital,9,month,-0.1208300530253732,gwl,-0.1093102836670862,dist_to_river_km,0.0899907399530389,sanitation_failure,7d
+node/6953541281,Aashirwad Fertility and Endoscopy Center,10,month,-0.1229099331594008,gwl,-0.11136065380795537,dist_to_river_km,0.0777501984675134,sanitation_failure,7d
+node/6956627645,"Samarpan Hospital, Raipur",11,month,-0.12899056064257386,gwl,-0.12059649147697356,dist_to_river_km,-0.10712405318277815,sanitation_failure,7d
+node/6956627650,Sai Sushrusha Hospital,12,month,-0.12518633670173002,gwl,-0.11405939258090741,river_level,0.0634064079806804,sanitation_failure,7d
+node/6956627655,Sai Kalayan Hospital And Icu,13,month,-0.1323239943471962,gwl,-0.12463639439886728,dist_to_river_km,-0.09954221301752518,sanitation_failure,7d
+node/6956627660,Sai Baba Eye Hospital,14,month,-0.13502734899340665,gwl,-0.12478006442836974,dist_to_river_km,-0.09538950999074165,sanitation_failure,7d
+node/6956627669,Raipur Institute Of Medical Sciences Hospital,15,month,-0.09251253075820708,dist_to_river_km,-0.08906082213312515,gwl,-0.08898415534709055,sanitation_failure,7d
+node/6956629791,Prannath Mission Hospital,16,month,-0.12995063839439724,gwl,-0.12230832324014577,dist_to_river_km,-0.10361548348858003,sanitation_failure,7d
+node/6956629796,Piles Care Hospital,17,month,-0.13025035258356935,gwl,-0.12268859976662866,river_level,0.05609825303609379,sanitation_failure,7d
+node/6956629801,Tharani Children Hospital And Dental Clinic,18,month,-0.12330248336816783,gwl,-0.11240017725254867,dist_to_river_km,0.06470161048671359,sanitation_failure,7d
+node/6956629810,Dr. M.R. Bhagwat Memorial Hospital,19,month,-0.12578316820889635,gwl,-0.113592473210088,river_level,0.06337111330077512,sanitation_failure,7d
+node/6956629815,Kalda Plastic and Cosmetic Surgery Institute and Burn Centre,20,month,-0.12417097327632595,gwl,-0.1117817745195856,dist_to_river_km,0.07411722239878922,sanitation_failure,7d
+node/6956629976,Vidya Hospital And Kidney Centre,21,month,-0.1362036445565719,gwl,-0.12473718873421681,dist_to_river_km,-0.09479025565022554,sanitation_failure,7d
+node/6956655133,Shri Aurobindo Medical Research Centre,22,month,-0.12127079025018786,gwl,-0.10980943899572654,dist_to_river_km,0.08688963988879583,sanitation_failure,7d
+node/6956655140,Shree Sai Care Hospital,23,month,-0.13764398435436326,gwl,-0.12610594879338619,dist_to_river_km,-0.08943794777083959,sanitation_failure,7d
+node/6956655145,Shree Medishine Hospital - Raipur,24,month,-0.12339089207116702,gwl,-0.11236052318088258,dist_to_river_km,0.06529794092294348,sanitation_failure,7d
+node/6956655152,Sarvodaya Hospital and Maternity Center,25,month,-0.12897067042278462,gwl,-0.12058638014005582,dist_to_river_km,-0.10739898366195313,sanitation_failure,7d
+node/6957120029,Visharad Hospital,26,month,-0.12959922059856277,gwl,-0.11742701570543443,river_level,0.058828625023770606,sanitation_failure,7d
+node/6957120034,Urmila Memorial Multispeciality Hospital,27,month,-0.1313138519034361,gwl,-0.12389837835170749,dist_to_river_km,-0.10151638571843567,sanitation_failure,7d
+node/6957120039,"Upadhyay Hospital, Raipur",28,month,-0.13829886685814943,gwl,-0.12620669070182028,dist_to_river_km,-0.08847002297927009,sanitation_failure,7d
+node/6957120057,Subham Hospital and Maternity Home,29,month,-0.1366803238632144,gwl,-0.1255964485549971,dist_to_river_km,-0.09080252188843048,sanitation_failure,7d
+node/6957120062,Subba Rao Hospital,30,month,-0.13669232101566556,gwl,-0.12562107846937842,dist_to_river_km,-0.09071769534055928,sanitation_failure,7d
+node/6957120067,Srimaa Sarada Arogyadham,31,month,-0.1199308921417108,gwl,-0.10929970925154733,dist_to_river_km,0.0910438087503744,sanitation_failure,7d
+node/6957120077,Sobhagya Hospital,32,month,-0.12901226451656272,gwl,-0.12077528531823538,dist_to_river_km,-0.10695920076687995,sanitation_failure,7d
+node/6957120082,"Shri Ram Hospital, Raipur",33,month,-0.12397732959096701,gwl,-0.11181225409791345,dist_to_river_km,0.07116966966818741,sanitation_failure,7d
+node/6957133287,Shri Balaji Institute Of Medical Science Pvt Ltd,34,month,-0.12897067042278462,gwl,-0.12058620324873226,dist_to_river_km,-0.10740911906680767,sanitation_failure,7d
+node/6957503647,"Pathak Hospital, Raipur",35,month,-0.13224622673728553,gwl,-0.12432974456603882,dist_to_river_km,-0.09996370830270228,sanitation_failure,7d
+node/6957503652,Gbg Kidney Care Hospital,36,month,-0.12341926618351814,gwl,-0.11268386893961121,river_level,0.06444164943895048,sanitation_failure,7d
+node/6965495354,Modi Hospital,37,month,-0.12916410971705813,gwl,-0.11743341262116652,river_level,0.058528297247986694,sanitation_failure,7d
+node/6965495359,Jagjivan Urology Centre,38,month,-0.1282702954313998,gwl,-0.1228520017631925,river_level,0.056174831892320774,sanitation_failure,7d
+node/6965495374,Sahai Hospital,39,month,-0.12364166915368381,gwl,-0.11197802780012883,dist_to_river_km,0.06657472846998493,sanitation_failure,7d
+node/6965495384,"Pragya Hospital, Raipur",40,month,-0.1380557470458994,gwl,-0.1261225373385537,dist_to_river_km,-0.0890326068485295,sanitation_failure,7d
+node/6965497689,P D Jethani Memorial Hospital and Diagnostic Center,41,month,-0.1289703018602308,gwl,-0.1205918956010834,dist_to_river_km,-0.10739004265672156,sanitation_failure,7d
+node/6965497699,Nigam Ent Hospital,42,month,-0.13701454052557155,gwl,-0.12593859542808777,dist_to_river_km,-0.0901672480385201,sanitation_failure,7d
+node/6965497709,Ganpati Hospital (Banthia Hospital),43,month,-0.13069124722664285,gwl,-0.12275488124161714,river_level,0.05603911374666747,sanitation_failure,7d
+node/6965497714,"Yashwant Hospital, Raipur",44,month,-0.125023107827254,gwl,-0.11360457403479576,river_level,0.06348201088728951,sanitation_failure,7d
+node/6965497719,"Tripathi Hospital, Raipur",45,month,-0.13660825946305472,gwl,-0.125443163821795,dist_to_river_km,-0.09104108722013078,sanitation_failure,7d
+node/6965497724,Jeewan Memorial Hospital For Plastic Surgery and Uro,46,month,-0.1363326474280297,gwl,-0.12522982003535968,dist_to_river_km,-0.09313647969815504,sanitation_failure,7d
+node/6965497729,Om Netra Kendra,47,month,-0.13496412268881586,gwl,-0.12226327916063881,dist_to_river_km,-0.06676439915604551,sanitation_failure,7d
+node/6965497734,Roopjeevan Hospital,48,month,-0.13657240829023903,gwl,-0.12479674056382116,dist_to_river_km,-0.09370151439951123,sanitation_failure,7d
+node/6965497739,Jubesta Hospital,49,month,-0.13518276562509338,gwl,-0.12477634837729408,dist_to_river_km,-0.09505979103288677,sanitation_failure,7d
+node/6965497744,"Jain Hospital, Raipur",50,month,-0.1362525563338427,gwl,-0.12472023343813597,dist_to_river_km,-0.09461520156450985,sanitation_failure,7d
+node/6965497749,Dr. Rajehwari Kulkarni Surgical Hospital And Dia,51,month,-0.1330796020428005,gwl,-0.1253109533599881,dist_to_river_km,-0.09886286318714209,sanitation_failure,7d
+node/6965497759,Ekta Institute Of Child Health,52,month,-0.13742933149384462,gwl,-0.12594849797534768,dist_to_river_km,-0.08982452462042238,sanitation_failure,7d
+node/6965834116,Ayush Hospital and Maternity Home,53,month,-0.12898999300386618,gwl,-0.12059592383826588,dist_to_river_km,-0.10712640770362164,sanitation_failure,7d
+node/6965834121,Ayushman Hospital and Diagnostic Institute,54,month,-0.12417037172063178,gwl,-0.11178608185187108,dist_to_river_km,0.074126607570244,sanitation_failure,7d
+node/6965834122,Bachpan Hospital,55,month,-0.1198759900411505,gwl,-0.10933394131346175,dist_to_river_km,0.09120486877154224,sanitation_failure,7d
+node/6965834136,Bhattar Hospital,56,month,-0.12698230760917043,gwl,-0.12378732002861771,river_level,0.05615875432168484,sanitation_failure,7d
+node/6965834146,City Hospital And Research Centre,57,month,-0.12938885272607598,gwl,-0.11483114500138966,river_level,0.058449651983619594,sanitation_failure,7d
+node/6965834156,Devkripa Hospital and Doctor Plaza,58,month,-0.1322463172810933,gwl,-0.12452651194610642,dist_to_river_km,-0.09978766728990689,sanitation_failure,7d
+node/6965834161,Dr. Jaulkar Ent Hospital,59,month,-0.12974582040123858,gwl,-0.11602403036240333,river_level,0.05854253682331406,sanitation_failure,7d
+node/6965834166,Dr. Sandeep Bhagwat Orthopedic Hospital,60,month,-0.137704359971241,gwl,-0.12457126056457511,dist_to_river_km,-0.08247479178977057,sanitation_failure,7d
+node/6965834176,Eye and Ent Hospital,61,month,-0.13805699363186233,gwl,-0.1261438229298419,dist_to_river_km,-0.08688992891438233,sanitation_failure,7d
+node/6965834177,"Heritage Hospital, Raipur",62,month,-0.13296624714552105,gwl,-0.12533747628391026,dist_to_river_km,-0.09916701372716229,sanitation_failure,7d
+node/6965834182,Jyoti Hospital and Prasuti Griha,63,gwl,-0.09055925609452871,month,-0.08687971625346481,crs,-0.06840704190582503,sanitation_failure,7d
+node/6965836187,K G N Surical and Maternity Centre,64,month,-0.12723390548895663,gwl,-0.1144641083437111,river_level,0.06082641165741219,sanitation_failure,7d
+node/6965836192,K.M. Hospital,65,month,-0.12587683368546518,gwl,-0.12320908820003858,river_level,0.056542297754326246,sanitation_failure,7d
+node/6965836197,M. M. Hospital,66,month,-0.13399432020329693,gwl,-0.12510826987838233,dist_to_river_km,-0.09773430728898409,sanitation_failure,7d
+node/6965836202,Mahadev Hospital,67,month,-0.11973067222486078,gwl,-0.10939140922463828,dist_to_river_km,0.09150383458922444,sanitation_failure,7d
+node/6965836211,Mishra Speciality Hospital,68,month,-0.13298950009236007,gwl,-0.12533534301586438,dist_to_river_km,-0.09908133666430745,sanitation_failure,7d
+node/6965836216,Matra Smriti Hospital,69,month,-0.1322720134645013,gwl,-0.12454338849264093,dist_to_river_km,-0.09967017410341976,sanitation_failure,7d
+node/6965836221,M D Hospital and Iccu,70,month,-0.1284099437796624,gwl,-0.12301982879005556,river_level,0.0560656858934574,sanitation_failure,7d
+node/6966522779,Mgm Eye Hospital,71,dist_to_river_km,-0.11255172613289924,gwl,-0.09234884622408497,month,-0.09073527385553179,sanitation_failure,7d
+node/6966551463,Suprita Hospital,72,month,-0.13669965735190634,gwl,-0.12564200613299062,dist_to_river_km,-0.09068428488138873,sanitation_failure,7d
+node/6966792004,Evangelical Mission Hospital,73,month,-0.09231072530768368,gwl,-0.09119881748214431,dist_to_river_km,-0.08575613099985667,sanitation_failure,7d
+node/6966792010,Lifeworth Super Speciality Hospital,74,month,-0.12945168561943837,gwl,-0.11639825244691046,river_level,0.058691587327358345,sanitation_failure,7d
+node/6966904907,Shri Manulal Memorial Medical Centre,75,month,-0.12368436626461081,gwl,-0.11173095095222826,dist_to_river_km,0.06837167338637891,sanitation_failure,7d
+node/6966904930,"Sahu Hospital, Raipur",76,month,-0.1366937642230811,gwl,-0.12574735465070966,dist_to_river_km,-0.09056024761687732,sanitation_failure,7d
+node/6966904976,Agrasen Hospital,77,month,-0.12891514389788183,gwl,-0.12155862426798693,river_level,0.056917217005597785,sanitation_failure,7d
+node/6968263373,Pt.J N M Medical College Hospital,78,month,-0.13806590953733267,gwl,-0.12617589663268353,dist_to_river_km,-0.0867702376667886,sanitation_failure,7d
+node/6968280740,"Kanwar Hospital, Raipur",79,month,-0.13194851332465973,gwl,-0.1241282248510713,dist_to_river_km,-0.10055929775289303,sanitation_failure,7d
+node/6968280745,Raipur Hospital,80,month,-0.12969164261488572,gwl,-0.12253970282029246,river_level,0.05663400918644852,sanitation_failure,7d
+node/6968280774,"Sanjeewan Hospital, Raipur",81,month,-0.12119150882891087,gwl,-0.10948299871726136,dist_to_river_km,0.088807780737213,sanitation_failure,7d
+node/6968280856,Arihant Netralaya,82,month,-0.12428546163648575,gwl,-0.1128325556249728,river_level,0.06381757136063898,sanitation_failure,7d
+node/7148125099,Govt. T.B. Hospital,83,month,-0.12332531160466535,gwl,-0.11238492632121519,dist_to_river_km,0.06477298167864258,sanitation_failure,7d
+node/7148125111,Government Hospital Farfoud,84,gwl_value,0.11963153670331993,dist_to_river_km,0.10319936481328404,crs,0.09375472539674853,sanitation_failure,7d
+node/7148125120,Government Hospital Uparwara,85,dist_to_river_km,-0.1060629680559445,gwl,-0.09890996334333836,month,-0.09858456683915977,sanitation_failure,7d
+node/7148125143,"Government Hospital, Tilda",86,gwl,-0.09141389925939412,month,-0.08708752910458432,crs,-0.06882591756211094,sanitation_failure,7d
+node/7148125202,"Government hospital,Khokhopara",87,month,-0.12383086657363078,gwl,-0.11177437719282979,dist_to_river_km,0.07345239488149287,sanitation_failure,7d
+node/7148125239,Government hospital arang,88,dist_to_river_km,0.09611683705893385,gwl,-0.09326616152451005,month,-0.0890890454603172,sanitation_failure,7d
+node/7148125255,District Hospital Raipur,89,month,-0.12343737311565985,gwl,-0.11213230974705679,dist_to_river_km,0.06600760661894446,sanitation_failure,7d
+node/7148125257,Goverment hospital Gobra Nawapara,90,dist_to_river_km,-0.1084335535576833,gwl,-0.0927367722874173,month,-0.08734217726336087,sanitation_failure,7d
+node/7148125258,Shri Khudadad Dungaji Government Ayurved College Hospital,91,month,-0.12479673835496838,gwl,-0.11341688549035314,river_level,0.06346627833350729,sanitation_failure,7d
+node/7148125308,Government Hospital,92,month,-0.12918170325325867,gwl,-0.11659618802804635,river_level,0.05856126447046396,sanitation_failure,7d
+node/7148125312,Labhandhi Government Hospital,93,month,-0.1289703018602308,gwl,-0.1205918956010834,dist_to_river_km,-0.10739004265672156,sanitation_failure,7d
+node/7288964595,Shri Balaji Hospital,94,month,-0.12380044729038085,gwl,-0.1118315587458715,dist_to_river_km,0.07316450238524516,sanitation_failure,7d
+node/7288964599,Jeevan Anmol Hospital,95,month,-0.12359375656026361,gwl,-0.11208093427287497,dist_to_river_km,0.06620901795771518,sanitation_failure,7d
+node/7288964602,Madhumeet Hospital,96,month,-0.13745513563910405,gwl,-0.12597578241858895,dist_to_river_km,-0.08976026129641419,sanitation_failure,7d
+node/7288964603,Shri Krishna Hospital,97,month,-0.12341525829793323,gwl,-0.1123799630063029,dist_to_river_km,0.06524196453262852,sanitation_failure,7d
+node/7288964610,Raipura Hospital,98,month,-0.12119156297625144,gwl,-0.10947600862424747,dist_to_river_km,0.08886236633320309,sanitation_failure,7d
+node/7288964613,Awasthi Hospital,99,month,-0.12931569400184353,gwl,-0.11579521089107636,river_level,0.058735586033813125,sanitation_failure,7d
+node/7288964616,Om Superspeciality Hospital,100,month,-0.11965145672388192,gwl,-0.10940258167131786,dist_to_river_km,0.0916221855802974,sanitation_failure,7d
+node/7288964641,Kankali Hospital Parisar,101,month,-0.12334537931078805,gwl,-0.11239793534220777,dist_to_river_km,0.06504175931739072,sanitation_failure,7d
+node/7288964642,Anjali Children Hospital,102,month,-0.12381039379283022,gwl,-0.1117687921716648,dist_to_river_km,0.07350859010015437,sanitation_failure,7d
+node/7288964644,We Care Super Specialty Hospital,103,month,-0.130701053169583,gwl,-0.12275862593335689,river_level,0.05604132422975524,sanitation_failure,7d
+node/7288964648,District Police Hospital,104,month,-0.12340170420698238,gwl,-0.11213771973507014,dist_to_river_km,0.0658991788089774,sanitation_failure,7d
+node/7288964653,Dr Manoj Agrwal,105,month,-0.12972613373809302,gwl,-0.12253889620562325,river_level,0.056629933393473865,sanitation_failure,7d
+node/7288964658,Avanti Hospital,106,month,-0.1369104525525766,gwl,-0.12585937811154269,dist_to_river_km,-0.09033504162353571,sanitation_failure,7d
+node/7288964664,Anand Shree Hospital,107,month,-0.12125310954163891,gwl,-0.10981901486212717,dist_to_river_km,0.08620277816201594,sanitation_failure,7d
+node/7288964666,Life Line Hospital,108,month,-0.12111352679578802,gwl,-0.10980621136712246,dist_to_river_km,0.08669855125909172,sanitation_failure,7d
+node/7288964673,Shri Jagannath Multispeciality Hospital,109,month,-0.11992890163017429,gwl,-0.10933353293533699,dist_to_river_km,0.0911105502739416,sanitation_failure,7d
+node/7288964676,Gayatri Hospital,110,month,-0.12344790331210535,gwl,-0.11167015311306844,dist_to_river_km,0.069734283385918,sanitation_failure,7d
+node/7288964679,Vijaya durga hospital,111,month,-0.12334528334325943,gwl,-0.11241422971433868,dist_to_river_km,0.06509965698665514,sanitation_failure,7d
+node/7288964681,Rajdhani Super Speciality Hospital,112,month,-0.12147806439520169,gwl,-0.10986478592900129,dist_to_river_km,0.08580211052256896,sanitation_failure,7d
+node/7288964683,Dr Nigam Hospital,113,month,-0.12932521611449474,gwl,-0.12090018555336045,river_level,0.05717606337434529,sanitation_failure,7d
+node/7288964686,Shubham Hospital,114,month,-0.12400995769485121,gwl,-0.11133083436873092,dist_to_river_km,0.07524268948060246,sanitation_failure,7d
+node/7291844243,Virdi Hospital,115,month,-0.12938481824266682,gwl,-0.12256560064733103,river_level,0.057079050824647294,sanitation_failure,7d
+node/7291844245,DKS Super Speciality Hospital,116,month,-0.1295137228642911,gwl,-0.12291519609342046,river_level,0.05704633215391292,sanitation_failure,7d
+node/7291844258,Mamta Hospital,117,month,-0.1296059655434857,gwl,-0.12293996991842747,river_level,0.056429274567276005,sanitation_failure,7d
+node/7291844264,"Om Hospital , Burn Plastic & Cosmetic Surgery Center",118,month,-0.12830158988546017,gwl,-0.1227496791543491,river_level,0.056570982992450475,sanitation_failure,7d
+node/7291844275,Shri Mahaveer Hospital,119,month,-0.13461025865219176,gwl,-0.12495650915363607,dist_to_river_km,-0.09645176906775225,sanitation_failure,7d
+node/7291844281,Lotus Hospital & Advance Urology Center,120,month,-0.13126735992645275,gwl,-0.12290274647579787,dist_to_river_km,-0.05850085949173313,sanitation_failure,7d
+node/7291844299,Chand Rani Sardari Lal Speciality EYE And ENT Hospital,121,month,-0.13813953430096954,gwl,-0.12614802667517344,dist_to_river_km,-0.08890921255544039,sanitation_failure,7d
+node/7291844302,Petals Newborn And Children Hospital,122,month,-0.12987339347710739,gwl,-0.11805976439017309,river_level,0.05854623830135375,sanitation_failure,7d
+node/7291844307,Shashwat Hospital,123,month,-0.12864221761340858,gwl,-0.12147490854585975,river_level,0.05686197520208178,sanitation_failure,7d
+node/7291844314,Sagar Multi Speciality Hospital,124,month,-0.1329152894216845,gwl,-0.12466741209187333,dist_to_river_km,-0.09931536557826083,sanitation_failure,7d
+node/7291844320,Sankalp Hospital,125,month,-0.12336614380767046,gwl,-0.11284282627820905,river_level,0.06432373658584566,sanitation_failure,7d
+node/12276858430,"Campion School, Raipur",126,dist_to_river_km,-0.1079341799737033,gwl,-0.08655628139727546,month,-0.08648617596033442,sanitation_failure,7d
+node/3774564938,bagri nursing home,127,month,-0.12532342269760954,gwl,-0.11404059018728535,river_level,0.06340813099189098,sanitation_failure,7d
+node/4445117924,Krishna Public School,128,month,-0.11894689378531906,gwl,-0.1100579230156434,dist_to_river_km,0.09488709790087539,sanitation_failure,7d
+node/4445119946,Shri Ganesh Vinayak Eye Hospital,129,month,-0.12123418397248209,gwl,-0.10944327795529313,dist_to_river_km,0.08867877268407802,sanitation_failure,7d
+node/4445120486,Holy Heartseducational academy,130,month,-0.12899339184544584,gwl,-0.12237544809644633,river_level,0.0560722207366169,sanitation_failure,7d
+node/4445126014,Mayoor school,131,month,-0.12961753892093644,gwl,-0.11603518102007582,river_level,0.058549596615146075,sanitation_failure,7d
+node/4445146001,Yashwant Hospital,132,month,-0.1255107435946727,gwl,-0.11371661718310552,river_level,0.06355095442330949,sanitation_failure,7d
+node/4445158557,Bharat Mata higher secondary school,133,month,-0.13058737013512217,gwl,-0.12262102128819628,river_level,0.05616740865078276,sanitation_failure,7d
+node/4445165297,Dronacharya public school,134,month,-0.12410224968402613,gwl,-0.11174251631227838,dist_to_river_km,0.07426416739228067,sanitation_failure,7d
+node/4445176350,The Radient Way School,135,month,-0.12339496235579638,gwl,-0.11214052844974023,dist_to_river_km,0.06585132848006552,sanitation_failure,7d
+node/4445182024,Holy cross senior secondary school,136,month,-0.12928232404365997,gwl,-0.12158217068888376,dist_to_river_km,-0.10593730881611792,sanitation_failure,7d
+node/4445255005,Bharatiya vidya bhuvans R.K. sarda vidya mandir,137,dist_to_river_km,-0.11218224064749063,gwl,-0.09235261411567289,month,-0.0908443558924294,sanitation_failure,7d
+node/4445258453,MGM school,138,month,-0.129500840073991,gwl,-0.12241182986479297,dist_to_river_km,-0.10482338715535881,sanitation_failure,7d
+node/4445382462,Ryan International School,139,month,-0.1291981039836332,gwl,-0.1211480025434606,dist_to_river_km,-0.10650255209748734,sanitation_failure,7d
+node/4446574875,Grass Memorial Ground,140,month,-0.12935429091992987,gwl,-0.1218430642268975,river_level,0.05603943055421004,sanitation_failure,7d
+node/4711002386,Mittal Hospital,141,month,-0.1292929656121135,gwl,-0.12206093845552056,dist_to_river_km,-0.10552131299819521,sanitation_failure,7d
+node/4994374903,primary government hospital Bangoli,142,gwl_value,0.12514894794481887,dist_to_river_km,0.11048835945399893,crs,0.1001478077790348,sanitation_failure,7d
+node/6283904436,Dispensary,143,month,-0.12722886554253537,gwl,-0.12383516614293394,river_level,0.05614855219949283,sanitation_failure,7d
+node/7736593775,Shri Venkatesh School,144,month,-0.12896704125886646,gwl,-0.12058870096800017,dist_to_river_km,-0.10740776175311464,sanitation_failure,7d
+node/8322190354,Daffodils English School,145,month,-0.13024723551166534,gwl,-0.1227708335324525,river_level,0.0560497804071635,sanitation_failure,7d
+node/10939721749,A.S.M DENTAL CLINIC,146,month,-0.12343051646047477,gwl,-0.11184439492404966,dist_to_river_km,0.07398650564549412,sanitation_failure,7d
+node/10939807399,Shreevedam Dental and Aryuvedic Clinic,147,month,-0.12111027401385503,gwl,-0.10980600761887926,dist_to_river_km,0.08669177995975698,sanitation_failure,7d

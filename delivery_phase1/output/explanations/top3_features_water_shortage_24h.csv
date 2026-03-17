@@ -1,0 +1,149 @@
+facility_id,facility_name,row_index,feature_1,shap_1,feature_2,shap_2,feature_3,shap_3,risk_type,horizon
+node/4445104811,Ramkrishna Care Hospital,0,gwl,-8.127426147460938,rainfall,-3.4155919551849365,gwl_value,-0.7185829281806946,water_shortage,24h
+node/4445112827,Narayana Hrudayalaya Mmi Hospital (Managed By Narayana Hrudayalaya Pvt Ltd - Bangalore) - Raipur,1,gwl,-8.127082824707031,rainfall,-3.4156835079193115,gwl_value,-0.7185829281806946,water_shortage,24h
+node/4445113471,Suyash Superspeciality Hospital,2,gwl,-8.114472389221191,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/4445129008,Vardaan Hospital (Unit Of Jindal Medicare),3,gwl,-8.114395141601562,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/4445137285,Bal Gopal Children Hospital and Research Institute,4,gwl,-8.12320327758789,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/5556568170,Navkar Hospital and Maternity Home,5,gwl,-8.12320327758789,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/6950645744,Karma Hospital,6,gwl,-8.114472389221191,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/6950645749,Chhattisgarh Eye Hospital,7,gwl,-8.114472389221191,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/6950645773,Devi Laxmi Hospital,8,gwl,-8.12320327758789,rainfall,-3.41640567779541,gwl_value,-0.7185829281806946,water_shortage,24h
+node/6950646487,Sanjeevani Cbcc Usa Cancer Hospital,9,gwl,-8.127426147460938,rainfall,-3.4155919551849365,gwl_value,-0.7185829281806946,water_shortage,24h
+node/6953541281,Aashirwad Fertility and Endoscopy Center,10,gwl,-8.126909255981445,rainfall,-3.4155094623565674,gwl_value,-0.7185829281806946,water_shortage,24h
+node/6956627645,"Samarpan Hospital, Raipur",11,gwl,-8.132468223571777,rainfall,-3.4043524265289307,gwl_value,-0.7186555862426758,water_shortage,24h
+node/6956627650,Sai Sushrusha Hospital,12,gwl,-8.12320327758789,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/6956627655,Sai Kalayan Hospital And Icu,13,gwl,-8.114395141601562,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/6956627660,Sai Baba Eye Hospital,14,gwl,-8.114395141601562,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/6956627669,Raipur Institute Of Medical Sciences Hospital,15,gwl,-6.908267974853516,rainfall,-2.7557199001312256,crs,-1.727723240852356,water_shortage,24h
+node/6956629791,Prannath Mission Hospital,16,gwl,-8.114593505859375,rainfall,-3.4175336360931396,gwl_value,-0.7185829281806946,water_shortage,24h
+node/6956629796,Piles Care Hospital,17,gwl,-8.114472389221191,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/6956629801,Tharani Children Hospital And Dental Clinic,18,gwl,-8.12320327758789,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/6956629810,Dr. M.R. Bhagwat Memorial Hospital,19,gwl,-8.12320327758789,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/6956629815,Kalda Plastic and Cosmetic Surgery Institute and Burn Centre,20,gwl,-8.125481605529785,rainfall,-3.4155304431915283,gwl_value,-0.7185829281806946,water_shortage,24h
+node/6956629976,Vidya Hospital And Kidney Centre,21,gwl,-8.114395141601562,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/6956655133,Shri Aurobindo Medical Research Centre,22,gwl,-8.127426147460938,rainfall,-3.4155919551849365,gwl_value,-0.7185829281806946,water_shortage,24h
+node/6956655140,Shree Sai Care Hospital,23,gwl,-8.114395141601562,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/6956655145,Shree Medishine Hospital - Raipur,24,gwl,-8.12320327758789,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/6956655152,Sarvodaya Hospital and Maternity Center,25,gwl,-8.131755828857422,rainfall,-3.391857385635376,gwl_value,-0.7186555862426758,water_shortage,24h
+node/6957120029,Visharad Hospital,26,gwl,-8.12320327758789,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/6957120034,Urmila Memorial Multispeciality Hospital,27,gwl,-8.114395141601562,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/6957120039,"Upadhyay Hospital, Raipur",28,gwl,-8.114395141601562,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/6957120057,Subham Hospital and Maternity Home,29,gwl,-8.114395141601562,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/6957120062,Subba Rao Hospital,30,gwl,-8.114395141601562,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/6957120067,Srimaa Sarada Arogyadham,31,gwl,-8.127426147460938,rainfall,-3.4155919551849365,gwl_value,-0.7185829281806946,water_shortage,24h
+node/6957120077,Sobhagya Hospital,32,gwl,-8.132773399353027,rainfall,-3.404658317565918,gwl_value,-0.7186555862426758,water_shortage,24h
+node/6957120082,"Shri Ram Hospital, Raipur",33,gwl,-8.12320327758789,rainfall,-3.41640567779541,gwl_value,-0.7185829281806946,water_shortage,24h
+node/6957133287,Shri Balaji Institute Of Medical Science Pvt Ltd,34,gwl,-8.131755828857422,rainfall,-3.391857385635376,gwl_value,-0.7186555862426758,water_shortage,24h
+node/6957503647,"Pathak Hospital, Raipur",35,gwl,-8.114395141601562,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/6957503652,Gbg Kidney Care Hospital,36,gwl,-8.12320327758789,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/6965495354,Modi Hospital,37,gwl,-8.12320327758789,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/6965495359,Jagjivan Urology Centre,38,gwl,-8.12320327758789,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/6965495374,Sahai Hospital,39,gwl,-8.12320327758789,rainfall,-3.4162838459014893,gwl_value,-0.7185829281806946,water_shortage,24h
+node/6965495384,"Pragya Hospital, Raipur",40,gwl,-8.114395141601562,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/6965497689,P D Jethani Memorial Hospital and Diagnostic Center,41,gwl,-8.132468223571777,rainfall,-3.4043524265289307,gwl_value,-0.7186555862426758,water_shortage,24h
+node/6965497699,Nigam Ent Hospital,42,gwl,-8.114395141601562,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/6965497709,Ganpati Hospital (Banthia Hospital),43,gwl,-8.114472389221191,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/6965497714,"Yashwant Hospital, Raipur",44,gwl,-8.12320327758789,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/6965497719,"Tripathi Hospital, Raipur",45,gwl,-8.114395141601562,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/6965497724,Jeewan Memorial Hospital For Plastic Surgery and Uro,46,gwl,-8.114395141601562,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/6965497729,Om Netra Kendra,47,gwl,-8.114472389221191,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/6965497734,Roopjeevan Hospital,48,gwl,-8.114395141601562,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/6965497739,Jubesta Hospital,49,gwl,-8.114395141601562,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/6965497744,"Jain Hospital, Raipur",50,gwl,-8.114395141601562,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/6965497749,Dr. Rajehwari Kulkarni Surgical Hospital And Dia,51,gwl,-8.114395141601562,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/6965497759,Ekta Institute Of Child Health,52,gwl,-8.114395141601562,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/6965834116,Ayush Hospital and Maternity Home,53,gwl,-8.132468223571777,rainfall,-3.4043524265289307,gwl_value,-0.7186555862426758,water_shortage,24h
+node/6965834121,Ayushman Hospital and Diagnostic Institute,54,gwl,-8.125481605529785,rainfall,-3.4155304431915283,gwl_value,-0.7185829281806946,water_shortage,24h
+node/6965834122,Bachpan Hospital,55,gwl,-8.127426147460938,rainfall,-3.4155919551849365,gwl_value,-0.7185829281806946,water_shortage,24h
+node/6965834136,Bhattar Hospital,56,gwl,-8.12320327758789,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/6965834146,City Hospital And Research Centre,57,gwl,-8.12320327758789,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/6965834156,Devkripa Hospital and Doctor Plaza,58,gwl,-8.114395141601562,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/6965834161,Dr. Jaulkar Ent Hospital,59,gwl,-8.12320327758789,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/6965834166,Dr. Sandeep Bhagwat Orthopedic Hospital,60,gwl,-8.114472389221191,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/6965834176,Eye and Ent Hospital,61,gwl,-8.114395141601562,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/6965834177,"Heritage Hospital, Raipur",62,gwl,-8.114395141601562,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/6965834182,Jyoti Hospital and Prasuti Griha,63,gwl,-7.080530643463135,rainfall,-2.689967155456543,crs,-1.4525190591812134,water_shortage,24h
+node/6965836187,K G N Surical and Maternity Centre,64,gwl,-8.12320327758789,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/6965836192,K.M. Hospital,65,gwl,-8.12320327758789,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/6965836197,M. M. Hospital,66,gwl,-8.114395141601562,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/6965836202,Mahadev Hospital,67,gwl,-8.127214431762695,rainfall,-3.416184186935425,gwl_value,-0.7185829281806946,water_shortage,24h
+node/6965836211,Mishra Speciality Hospital,68,gwl,-8.114395141601562,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/6965836216,Matra Smriti Hospital,69,gwl,-8.114395141601562,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/6965836221,M D Hospital and Iccu,70,gwl,-8.12320327758789,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/6966522779,Mgm Eye Hospital,71,gwl,-7.227590084075928,rainfall,-2.730654239654541,crs,-1.3031116724014282,water_shortage,24h
+node/6966551463,Suprita Hospital,72,gwl,-8.114395141601562,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/6966792004,Evangelical Mission Hospital,73,gwl,-7.080530643463135,rainfall,-2.689967155456543,crs,-1.4525190591812134,water_shortage,24h
+node/6966792010,Lifeworth Super Speciality Hospital,74,gwl,-8.12320327758789,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/6966904907,Shri Manulal Memorial Medical Centre,75,gwl,-8.12320327758789,rainfall,-3.41640567779541,gwl_value,-0.7185829281806946,water_shortage,24h
+node/6966904930,"Sahu Hospital, Raipur",76,gwl,-8.114395141601562,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/6966904976,Agrasen Hospital,77,gwl,-8.12320327758789,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/6968263373,Pt.J N M Medical College Hospital,78,gwl,-8.114395141601562,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/6968280740,"Kanwar Hospital, Raipur",79,gwl,-8.114395141601562,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/6968280745,Raipur Hospital,80,gwl,-8.114472389221191,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/6968280774,"Sanjeewan Hospital, Raipur",81,gwl,-8.127426147460938,rainfall,-3.4155919551849365,gwl_value,-0.7185829281806946,water_shortage,24h
+node/6968280856,Arihant Netralaya,82,gwl,-8.12320327758789,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/7148125099,Govt. T.B. Hospital,83,gwl,-8.12320327758789,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/7148125111,Government Hospital Farfoud,84,gwl,-8.63956069946289,rainfall,-3.951610803604126,gwl_value,2.6421701908111572,water_shortage,24h
+node/7148125120,Government Hospital Uparwara,85,gwl,-7.337534427642822,rainfall,-2.8119773864746094,crs,-1.1066794395446777,water_shortage,24h
+node/7148125143,"Government Hospital, Tilda",86,gwl,-7.080530643463135,rainfall,-2.689967155456543,crs,-1.4525190591812134,water_shortage,24h
+node/7148125202,"Government hospital,Khokhopara",87,gwl,-8.125481605529785,rainfall,-3.4155304431915283,gwl_value,-0.7185829281806946,water_shortage,24h
+node/7148125239,Government hospital arang,88,gwl,-6.928216457366943,rainfall,-2.7795300483703613,crs,-1.728408694267273,water_shortage,24h
+node/7148125255,District Hospital Raipur,89,gwl,-8.12320327758789,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/7148125257,Goverment hospital Gobra Nawapara,90,gwl,-6.930003643035889,rainfall,-2.734269142150879,crs,-1.727691650390625,water_shortage,24h
+node/7148125258,Shri Khudadad Dungaji Government Ayurved College Hospital,91,gwl,-8.12320327758789,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/7148125308,Government Hospital,92,gwl,-8.12320327758789,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/7148125312,Labhandhi Government Hospital,93,gwl,-8.132468223571777,rainfall,-3.4043524265289307,gwl_value,-0.7186555862426758,water_shortage,24h
+node/7288964595,Shri Balaji Hospital,94,gwl,-8.125481605529785,rainfall,-3.4155304431915283,gwl_value,-0.7185829281806946,water_shortage,24h
+node/7288964599,Jeevan Anmol Hospital,95,gwl,-8.12320327758789,rainfall,-3.416177988052368,gwl_value,-0.7185829281806946,water_shortage,24h
+node/7288964602,Madhumeet Hospital,96,gwl,-8.114395141601562,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/7288964603,Shri Krishna Hospital,97,gwl,-8.12320327758789,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/7288964610,Raipura Hospital,98,gwl,-8.127426147460938,rainfall,-3.4155919551849365,gwl_value,-0.7185829281806946,water_shortage,24h
+node/7288964613,Awasthi Hospital,99,gwl,-8.12320327758789,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/7288964616,Om Superspeciality Hospital,100,gwl,-8.127214431762695,rainfall,-3.416184186935425,gwl_value,-0.7185829281806946,water_shortage,24h
+node/7288964641,Kankali Hospital Parisar,101,gwl,-8.12320327758789,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/7288964642,Anjali Children Hospital,102,gwl,-8.125481605529785,rainfall,-3.4155304431915283,gwl_value,-0.7185829281806946,water_shortage,24h
+node/7288964644,We Care Super Specialty Hospital,103,gwl,-8.114472389221191,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/7288964648,District Police Hospital,104,gwl,-8.12320327758789,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/7288964653,Dr Manoj Agrwal,105,gwl,-8.114472389221191,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/7288964658,Avanti Hospital,106,gwl,-8.114395141601562,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/7288964664,Anand Shree Hospital,107,gwl,-8.127082824707031,rainfall,-3.4156835079193115,gwl_value,-0.7185829281806946,water_shortage,24h
+node/7288964666,Life Line Hospital,108,gwl,-8.127082824707031,rainfall,-3.4156835079193115,gwl_value,-0.7185829281806946,water_shortage,24h
+node/7288964673,Shri Jagannath Multispeciality Hospital,109,gwl,-8.127426147460938,rainfall,-3.4155919551849365,gwl_value,-0.7185829281806946,water_shortage,24h
+node/7288964676,Gayatri Hospital,110,gwl,-8.12320327758789,rainfall,-3.41640567779541,gwl_value,-0.7185829281806946,water_shortage,24h
+node/7288964679,Vijaya durga hospital,111,gwl,-8.12320327758789,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/7288964681,Rajdhani Super Speciality Hospital,112,gwl,-8.126999855041504,rainfall,-3.415600538253784,gwl_value,-0.7185829281806946,water_shortage,24h
+node/7288964683,Dr Nigam Hospital,113,gwl,-8.12320327758789,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/7288964686,Shubham Hospital,114,gwl,-8.126215934753418,rainfall,-3.4155595302581787,gwl_value,-0.7185829281806946,water_shortage,24h
+node/7291844243,Virdi Hospital,115,gwl,-8.114472389221191,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/7291844245,DKS Super Speciality Hospital,116,gwl,-8.114472389221191,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/7291844258,Mamta Hospital,117,gwl,-8.114472389221191,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/7291844264,"Om Hospital , Burn Plastic & Cosmetic Surgery Center",118,gwl,-8.12320327758789,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/7291844275,Shri Mahaveer Hospital,119,gwl,-8.114395141601562,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/7291844281,Lotus Hospital & Advance Urology Center,120,gwl,-8.114472389221191,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/7291844299,Chand Rani Sardari Lal Speciality EYE And ENT Hospital,121,gwl,-8.114395141601562,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/7291844302,Petals Newborn And Children Hospital,122,gwl,-8.12320327758789,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/7291844307,Shashwat Hospital,123,gwl,-8.12320327758789,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/7291844314,Sagar Multi Speciality Hospital,124,gwl,-8.114395141601562,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/7291844320,Sankalp Hospital,125,gwl,-8.12320327758789,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/12276858430,"Campion School, Raipur",126,gwl,-6.90818977355957,rainfall,-2.7557199001312256,crs,-1.727723240852356,water_shortage,24h
+node/3774564938,bagri nursing home,127,gwl,-8.12320327758789,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/4445117924,Krishna Public School,128,gwl,-8.132259368896484,rainfall,-3.4371681213378906,gwl_value,-0.7185829281806946,water_shortage,24h
+node/4445119946,Shri Ganesh Vinayak Eye Hospital,129,gwl,-8.127426147460938,rainfall,-3.4155919551849365,gwl_value,-0.7185829281806946,water_shortage,24h
+node/4445120486,Holy Heartseducational academy,130,gwl,-8.12320327758789,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/4445126014,Mayoor school,131,gwl,-8.12320327758789,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/4445146001,Yashwant Hospital,132,gwl,-8.12320327758789,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/4445158557,Bharat Mata higher secondary school,133,gwl,-8.114472389221191,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/4445165297,Dronacharya public school,134,gwl,-8.125481605529785,rainfall,-3.4155304431915283,gwl_value,-0.7185829281806946,water_shortage,24h
+node/4445176350,The Radient Way School,135,gwl,-8.12320327758789,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/4445182024,Holy cross senior secondary school,136,gwl,-8.132773399353027,rainfall,-3.404658317565918,gwl_value,-0.7186555862426758,water_shortage,24h
+node/4445255005,Bharatiya vidya bhuvans R.K. sarda vidya mandir,137,gwl,-7.228302478790283,rainfall,-2.7431492805480957,crs,-1.3031116724014282,water_shortage,24h
+node/4445258453,MGM school,138,gwl,-8.13305377960205,rainfall,-3.4049389362335205,gwl_value,-0.7186053991317749,water_shortage,24h
+node/4445382462,Ryan International School,139,gwl,-8.132773399353027,rainfall,-3.404658317565918,gwl_value,-0.7186555862426758,water_shortage,24h
+node/4446574875,Grass Memorial Ground,140,gwl,-8.12320327758789,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/4711002386,Mittal Hospital,141,gwl,-8.132773399353027,rainfall,-3.404658317565918,gwl_value,-0.7186555862426758,water_shortage,24h
+node/4994374903,primary government hospital Bangoli,142,gwl,-8.608718872070312,rainfall,-3.95461106300354,gwl_value,2.6417431831359863,water_shortage,24h
+node/6283904436,Dispensary,143,gwl,-8.12320327758789,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/7736593775,Shri Venkatesh School,144,gwl,-8.131755828857422,rainfall,-3.391857385635376,gwl_value,-0.7186555862426758,water_shortage,24h
+node/8322190354,Daffodils English School,145,gwl,-8.114472389221191,rainfall,-3.4173343181610107,gwl_value,-0.7185829281806946,water_shortage,24h
+node/10939721749,A.S.M DENTAL CLINIC,146,gwl,-8.125481605529785,rainfall,-3.4155304431915283,gwl_value,-0.7185829281806946,water_shortage,24h
+node/10939807399,Shreevedam Dental and Aryuvedic Clinic,147,gwl,-8.127082824707031,rainfall,-3.4156835079193115,gwl_value,-0.7185829281806946,water_shortage,24h

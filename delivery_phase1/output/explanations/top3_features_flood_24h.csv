@@ -1,0 +1,149 @@
+facility_id,facility_name,row_index,feature_1,shap_1,feature_2,shap_2,feature_3,shap_3,risk_type,horizon
+node/4445104811,Ramkrishna Care Hospital,0,rainfall,4.746611595153809,river_level,3.893693208694458,dist_to_river_km,3.4170639514923096,flood,24h
+node/4445112827,Narayana Hrudayalaya Mmi Hospital (Managed By Narayana Hrudayalaya Pvt Ltd - Bangalore) - Raipur,1,rainfall,4.775626182556152,river_level,4.168747901916504,dist_to_river_km,2.8738651275634766,flood,24h
+node/4445113471,Suyash Superspeciality Hospital,2,rainfall,6.23771333694458,river_level,3.756800651550293,dist_to_river_km,-2.4781949520111084,flood,24h
+node/4445129008,Vardaan Hospital (Unit Of Jindal Medicare),3,rainfall,6.5065155029296875,dist_to_river_km,-4.076379776000977,river_level,3.619288444519043,flood,24h
+node/4445137285,Bal Gopal Children Hospital and Research Institute,4,rainfall,5.378157138824463,river_level,4.510385990142822,dist_to_river_km,0.7727625370025635,flood,24h
+node/5556568170,Navkar Hospital and Maternity Home,5,rainfall,5.34712553024292,river_level,4.536013126373291,dist_to_river_km,0.9856119155883789,flood,24h
+node/6950645744,Karma Hospital,6,rainfall,6.276813507080078,river_level,3.7347335815429688,dist_to_river_km,-2.537954807281494,flood,24h
+node/6950645749,Chhattisgarh Eye Hospital,7,rainfall,6.267853736877441,river_level,3.814326524734497,dist_to_river_km,-2.3564453125,flood,24h
+node/6950645773,Devi Laxmi Hospital,8,rainfall,5.116952896118164,river_level,4.409879207611084,dist_to_river_km,1.9469019174575806,flood,24h
+node/6950646487,Sanjeevani Cbcc Usa Cancer Hospital,9,rainfall,4.731709003448486,river_level,3.8795950412750244,dist_to_river_km,3.4733755588531494,flood,24h
+node/6953541281,Aashirwad Fertility and Endoscopy Center,10,rainfall,4.860560417175293,river_level,4.27054500579834,dist_to_river_km,2.632225513458252,flood,24h
+node/6956627645,"Samarpan Hospital, Raipur",11,rainfall,6.205596446990967,dist_to_river_km,-5.163381099700928,river_level,3.9115350246429443,flood,24h
+node/6956627650,Sai Sushrusha Hospital,12,rainfall,5.428843975067139,river_level,4.5101118087768555,dist_to_river_km,0.6464525461196899,flood,24h
+node/6956627655,Sai Kalayan Hospital And Icu,13,rainfall,6.504528045654297,dist_to_river_km,-4.156426906585693,river_level,3.6650736331939697,flood,24h
+node/6956627660,Sai Baba Eye Hospital,14,rainfall,6.457862377166748,river_level,3.730038642883301,dist_to_river_km,-3.5186996459960938,flood,24h
+node/6956627669,Raipur Institute Of Medical Sciences Hospital,15,rainfall,6.398484706878662,river_level,3.9790773391723633,dist_to_river_km,-2.737692356109619,flood,24h
+node/6956629791,Prannath Mission Hospital,16,rainfall,6.350268840789795,dist_to_river_km,-4.722866535186768,river_level,3.5528080463409424,flood,24h
+node/6956629796,Piles Care Hospital,17,rainfall,6.196193218231201,river_level,3.783865451812744,dist_to_river_km,-2.0193991661071777,flood,24h
+node/6956629801,Tharani Children Hospital And Dental Clinic,18,rainfall,5.358118534088135,river_level,4.524298667907715,dist_to_river_km,1.0936152935028076,flood,24h
+node/6956629810,Dr. M.R. Bhagwat Memorial Hospital,19,rainfall,5.436407089233398,river_level,4.497793674468994,dist_to_river_km,0.616913914680481,flood,24h
+node/6956629815,Kalda Plastic and Cosmetic Surgery Institute and Burn Centre,20,rainfall,4.94938325881958,river_level,4.274327754974365,dist_to_river_km,2.3281729221343994,flood,24h
+node/6956629976,Vidya Hospital And Kidney Centre,21,rainfall,6.349903106689453,river_level,3.6524202823638916,dist_to_river_km,-3.3960652351379395,flood,24h
+node/6956655133,Shri Aurobindo Medical Research Centre,22,rainfall,4.7375030517578125,river_level,4.042087554931641,dist_to_river_km,3.1108486652374268,flood,24h
+node/6956655140,Shree Sai Care Hospital,23,rainfall,6.448833465576172,river_level,3.7083473205566406,dist_to_river_km,-2.9547953605651855,flood,24h
+node/6956655145,Shree Medishine Hospital - Raipur,24,rainfall,5.230436325073242,river_level,4.4616312980651855,dist_to_river_km,1.3814561367034912,flood,24h
+node/6956655152,Sarvodaya Hospital and Maternity Center,25,rainfall,6.26410436630249,dist_to_river_km,-5.29224967956543,river_level,3.902710437774658,flood,24h
+node/6957120029,Visharad Hospital,26,rainfall,5.556730270385742,river_level,4.19857120513916,dist_to_river_km,-0.18273697793483734,flood,24h
+node/6957120034,Urmila Memorial Multispeciality Hospital,27,rainfall,6.4049553871154785,dist_to_river_km,-4.548935413360596,river_level,3.5842554569244385,flood,24h
+node/6957120039,"Upadhyay Hospital, Raipur",28,rainfall,6.388739109039307,river_level,3.733842134475708,dist_to_river_km,-2.7809958457946777,flood,24h
+node/6957120057,Subham Hospital and Maternity Home,29,rainfall,6.433823585510254,river_level,3.664435863494873,dist_to_river_km,-3.090628147125244,flood,24h
+node/6957120062,Subba Rao Hospital,30,rainfall,6.423025608062744,river_level,3.6737430095672607,dist_to_river_km,-3.0873465538024902,flood,24h
+node/6957120067,Srimaa Sarada Arogyadham,31,rainfall,4.739710807800293,river_level,3.8488571643829346,dist_to_river_km,3.5517122745513916,flood,24h
+node/6957120077,Sobhagya Hospital,32,rainfall,6.1805949211120605,dist_to_river_km,-5.110640525817871,river_level,3.924379587173462,flood,24h
+node/6957120082,"Shri Ram Hospital, Raipur",33,rainfall,5.0746989250183105,river_level,4.3505635261535645,dist_to_river_km,2.0942065715789795,flood,24h
+node/6957133287,Shri Balaji Institute Of Medical Science Pvt Ltd,34,rainfall,6.26410436630249,dist_to_river_km,-5.29224967956543,river_level,3.902710437774658,flood,24h
+node/6957503647,"Pathak Hospital, Raipur",35,rainfall,6.459943771362305,dist_to_river_km,-4.304858684539795,river_level,3.6311402320861816,flood,24h
+node/6957503652,Gbg Kidney Care Hospital,36,rainfall,5.36673641204834,river_level,4.547685146331787,dist_to_river_km,1.0759958028793335,flood,24h
+node/6965495354,Modi Hospital,37,rainfall,5.606109619140625,river_level,4.204419136047363,latitude,-0.16297703981399536,flood,24h
+node/6965495359,Jagjivan Urology Centre,38,rainfall,5.712003707885742,river_level,4.1014723777771,dist_to_river_km,-0.7706476449966431,flood,24h
+node/6965495374,Sahai Hospital,39,rainfall,5.160818576812744,river_level,4.442909240722656,dist_to_river_km,1.870526671409607,flood,24h
+node/6965495384,"Pragya Hospital, Raipur",40,rainfall,6.463310241699219,river_level,3.733996629714966,dist_to_river_km,-2.8888401985168457,flood,24h
+node/6965497689,P D Jethani Memorial Hospital and Diagnostic Center,41,rainfall,6.263781547546387,dist_to_river_km,-5.291280746459961,river_level,3.902710437774658,flood,24h
+node/6965497699,Nigam Ent Hospital,42,rainfall,6.410121440887451,river_level,3.6866540908813477,dist_to_river_km,-3.0644564628601074,flood,24h
+node/6965497709,Ganpati Hospital (Banthia Hospital),43,rainfall,6.237612724304199,river_level,3.809675455093384,dist_to_river_km,-2.313171863555908,flood,24h
+node/6965497714,"Yashwant Hospital, Raipur",44,rainfall,5.38346004486084,river_level,4.499449729919434,dist_to_river_km,0.920778751373291,flood,24h
+node/6965497719,"Tripathi Hospital, Raipur",45,rainfall,6.424999237060547,river_level,3.6021642684936523,dist_to_river_km,-3.169044017791748,flood,24h
+node/6965497724,Jeewan Memorial Hospital For Plastic Surgery and Uro,46,rainfall,6.410341262817383,river_level,3.597184658050537,dist_to_river_km,-3.206052303314209,flood,24h
+node/6965497729,Om Netra Kendra,47,rainfall,6.313778877258301,river_level,3.7294681072235107,dist_to_river_km,-2.5617282390594482,flood,24h
+node/6965497734,Roopjeevan Hospital,48,rainfall,6.391811847686768,river_level,3.617884397506714,dist_to_river_km,-3.2431559562683105,flood,24h
+node/6965497739,Jubesta Hospital,49,rainfall,6.401156902313232,river_level,3.719731092453003,dist_to_river_km,-3.3823752403259277,flood,24h
+node/6965497744,"Jain Hospital, Raipur",50,rainfall,6.356001377105713,river_level,3.61110782623291,dist_to_river_km,-3.321927547454834,flood,24h
+node/6965497749,Dr. Rajehwari Kulkarni Surgical Hospital And Dia,51,rainfall,6.509645938873291,dist_to_river_km,-3.9203543663024902,river_level,3.6131746768951416,flood,24h
+node/6965497759,Ekta Institute Of Child Health,52,rainfall,6.431948661804199,river_level,3.703211784362793,dist_to_river_km,-3.035261631011963,flood,24h
+node/6965834116,Ayush Hospital and Maternity Home,53,rainfall,6.205596446990967,dist_to_river_km,-5.163381099700928,river_level,3.9115350246429443,flood,24h
+node/6965834121,Ayushman Hospital and Diagnostic Institute,54,rainfall,4.924232482910156,river_level,4.291579246520996,dist_to_river_km,2.434394598007202,flood,24h
+node/6965834122,Bachpan Hospital,55,rainfall,4.773867130279541,river_level,3.8299624919891357,dist_to_river_km,3.8185527324676514,flood,24h
+node/6965834136,Bhattar Hospital,56,rainfall,5.927311897277832,river_level,3.8868560791015625,dist_to_river_km,-1.2016232013702393,flood,24h
+node/6965834146,City Hospital And Research Centre,57,rainfall,5.478542804718018,river_level,4.39747953414917,dist_to_river_km,0.3766680061817169,flood,24h
+node/6965834156,Devkripa Hospital and Doctor Plaza,58,rainfall,6.459943771362305,dist_to_river_km,-4.304858684539795,river_level,3.6311402320861816,flood,24h
+node/6965834161,Dr. Jaulkar Ent Hospital,59,rainfall,5.498971462249756,river_level,4.404716968536377,dist_to_river_km,0.3421051800251007,flood,24h
+node/6965834166,Dr. Sandeep Bhagwat Orthopedic Hospital,60,rainfall,6.349220275878906,river_level,3.7015419006347656,dist_to_river_km,-2.781425952911377,flood,24h
+node/6965834176,Eye and Ent Hospital,61,rainfall,6.387697696685791,river_level,3.7328004837036133,dist_to_river_km,-2.7789125442504883,flood,24h
+node/6965834177,"Heritage Hospital, Raipur",62,rainfall,6.447102069854736,dist_to_river_km,-4.0431413650512695,river_level,3.622544050216675,flood,24h
+node/6965834182,Jyoti Hospital and Prasuti Griha,63,rainfall,6.354864597320557,river_level,4.0181756019592285,dist_to_river_km,-1.8354136943817139,flood,24h
+node/6965836187,K G N Surical and Maternity Centre,64,rainfall,5.4782395362854,river_level,4.398360729217529,dist_to_river_km,0.38614484667778015,flood,24h
+node/6965836192,K.M. Hospital,65,rainfall,5.968999862670898,river_level,3.822251319885254,dist_to_river_km,-1.3139104843139648,flood,24h
+node/6965836197,M. M. Hospital,66,rainfall,6.451712608337402,dist_to_river_km,-3.7560558319091797,river_level,3.6751091480255127,flood,24h
+node/6965836202,Mahadev Hospital,67,rainfall,4.801998615264893,dist_to_river_km,3.949103832244873,river_level,3.8106486797332764,flood,24h
+node/6965836211,Mishra Speciality Hospital,68,rainfall,6.506579875946045,dist_to_river_km,-3.9548401832580566,river_level,3.610193967819214,flood,24h
+node/6965836216,Matra Smriti Hospital,69,rainfall,6.4832444190979,dist_to_river_km,-4.256710529327393,river_level,3.6457080841064453,flood,24h
+node/6965836221,M D Hospital and Iccu,70,rainfall,5.825705528259277,river_level,3.9438464641571045,dist_to_river_km,-0.9595112204551697,flood,24h
+node/6966522779,Mgm Eye Hospital,71,rainfall,6.421837329864502,dist_to_river_km,-5.41117000579834,river_level,4.266636848449707,flood,24h
+node/6966551463,Suprita Hospital,72,rainfall,6.404860019683838,river_level,3.6751835346221924,dist_to_river_km,-3.076488971710205,flood,24h
+node/6966792004,Evangelical Mission Hospital,73,rainfall,6.525243282318115,river_level,3.9261975288391113,dist_to_river_km,-2.6007747650146484,flood,24h
+node/6966792010,Lifeworth Super Speciality Hospital,74,rainfall,5.5053839683532715,river_level,4.383075714111328,dist_to_river_km,0.3769069314002991,flood,24h
+node/6966904907,Shri Manulal Memorial Medical Centre,75,rainfall,5.124288082122803,river_level,4.424113750457764,dist_to_river_km,1.92671799659729,flood,24h
+node/6966904930,"Sahu Hospital, Raipur",76,rainfall,6.40890645980835,river_level,3.686516284942627,dist_to_river_km,-3.09365177154541,flood,24h
+node/6966904976,Agrasen Hospital,77,rainfall,5.579855442047119,river_level,4.163512229919434,dist_to_river_km,-0.4615202248096466,flood,24h
+node/6968263373,Pt.J N M Medical College Hospital,78,rainfall,6.363333225250244,river_level,3.7311184406280518,dist_to_river_km,-2.791593074798584,flood,24h
+node/6968280740,"Kanwar Hospital, Raipur",79,rainfall,6.444665908813477,dist_to_river_km,-4.41267204284668,river_level,3.5860462188720703,flood,24h
+node/6968280745,Raipur Hospital,80,rainfall,6.186619281768799,river_level,3.7763757705688477,dist_to_river_km,-1.9891129732131958,flood,24h
+node/6968280774,"Sanjeewan Hospital, Raipur",81,rainfall,4.743228912353516,river_level,3.9799182415008545,dist_to_river_km,3.246511697769165,flood,24h
+node/6968280856,Arihant Netralaya,82,rainfall,5.355452060699463,river_level,4.5137619972229,dist_to_river_km,0.9467387199401855,flood,24h
+node/7148125099,Govt. T.B. Hospital,83,rainfall,5.354400157928467,river_level,4.524725437164307,dist_to_river_km,1.0990850925445557,flood,24h
+node/7148125111,Government Hospital Farfoud,84,rainfall,4.745461463928223,dist_to_river_km,4.122021198272705,river_level,3.6987767219543457,flood,24h
+node/7148125120,Government Hospital Uparwara,85,rainfall,6.378623008728027,dist_to_river_km,-4.784895896911621,river_level,3.9036996364593506,flood,24h
+node/7148125143,"Government Hospital, Tilda",86,rainfall,6.280310153961182,river_level,4.0074381828308105,dist_to_river_km,-1.4460716247558594,flood,24h
+node/7148125202,"Government hospital,Khokhopara",87,rainfall,5.007724761962891,river_level,4.339511871337891,dist_to_river_km,2.190164566040039,flood,24h
+node/7148125239,Government hospital arang,88,rainfall,4.833849906921387,river_level,3.9794673919677734,dist_to_river_km,3.8812575340270996,flood,24h
+node/7148125255,District Hospital Raipur,89,rainfall,5.185876846313477,river_level,4.465417385101318,dist_to_river_km,1.7871828079223633,flood,24h
+node/7148125257,Goverment hospital Gobra Nawapara,90,rainfall,6.403378009796143,dist_to_river_km,-5.336350440979004,river_level,4.258307933807373,flood,24h
+node/7148125258,Shri Khudadad Dungaji Government Ayurved College Hospital,91,rainfall,5.378823757171631,river_level,4.509035587310791,dist_to_river_km,0.9164562225341797,flood,24h
+node/7148125308,Government Hospital,92,rainfall,5.604976654052734,river_level,4.203286647796631,latitude,-0.16297703981399536,flood,24h
+node/7148125312,Labhandhi Government Hospital,93,rainfall,6.231917858123779,dist_to_river_km,-5.228538513183594,river_level,3.9098455905914307,flood,24h
+node/7288964595,Shri Balaji Hospital,94,rainfall,5.022902488708496,river_level,4.341522693634033,dist_to_river_km,2.172572374343872,flood,24h
+node/7288964599,Jeevan Anmol Hospital,95,rainfall,5.170969009399414,river_level,4.466104030609131,dist_to_river_km,1.8215527534484863,flood,24h
+node/7288964602,Madhumeet Hospital,96,rainfall,6.432774066925049,river_level,3.705556631088257,dist_to_river_km,-2.994483470916748,flood,24h
+node/7288964603,Shri Krishna Hospital,97,rainfall,5.251991271972656,river_level,4.469571590423584,dist_to_river_km,1.318632960319519,flood,24h
+node/7288964610,Raipura Hospital,98,rainfall,4.751751899719238,river_level,3.9640016555786133,dist_to_river_km,3.311051607131958,flood,24h
+node/7288964613,Awasthi Hospital,99,rainfall,5.5055928230285645,river_level,4.383075714111328,dist_to_river_km,0.3764874339103699,flood,24h
+node/7288964616,Om Superspeciality Hospital,100,rainfall,4.801678657531738,dist_to_river_km,3.996744394302368,river_level,3.8034727573394775,flood,24h
+node/7288964641,Kankali Hospital Parisar,101,rainfall,5.3044304847717285,river_level,4.471872806549072,dist_to_river_km,1.1809781789779663,flood,24h
+node/7288964642,Anjali Children Hospital,102,rainfall,4.992044448852539,river_level,4.345834255218506,dist_to_river_km,2.2343523502349854,flood,24h
+node/7288964644,We Care Super Specialty Hospital,103,rainfall,6.266718864440918,river_level,3.8131911754608154,dist_to_river_km,-2.354174852371216,flood,24h
+node/7288964648,District Police Hospital,104,rainfall,5.197363376617432,river_level,4.467861175537109,dist_to_river_km,1.7053320407867432,flood,24h
+node/7288964653,Dr Manoj Agrwal,105,rainfall,6.184506416320801,river_level,3.7789838314056396,dist_to_river_km,-2.0093801021575928,flood,24h
+node/7288964658,Avanti Hospital,106,rainfall,6.40890645980835,river_level,3.686516284942627,dist_to_river_km,-3.09365177154541,flood,24h
+node/7288964664,Anand Shree Hospital,107,rainfall,4.833528518676758,river_level,4.210747718811035,dist_to_river_km,2.7927048206329346,flood,24h
+node/7288964666,Life Line Hospital,108,rainfall,4.7459025382995605,river_level,4.130791187286377,dist_to_river_km,2.964413642883301,flood,24h
+node/7288964673,Shri Jagannath Multispeciality Hospital,109,rainfall,4.763540744781494,river_level,3.8288915157318115,dist_to_river_km,3.7336459159851074,flood,24h
+node/7288964676,Gayatri Hospital,110,rainfall,5.083431243896484,river_level,4.36853551864624,dist_to_river_km,2.0448672771453857,flood,24h
+node/7288964679,Vijaya durga hospital,111,rainfall,5.2753376960754395,river_level,4.456636905670166,dist_to_river_km,1.2744899988174438,flood,24h
+node/7288964681,Rajdhani Super Speciality Hospital,112,rainfall,4.86366081237793,river_level,4.23922872543335,dist_to_river_km,2.6791274547576904,flood,24h
+node/7288964683,Dr Nigam Hospital,113,rainfall,5.597540378570557,river_level,4.167614459991455,dist_to_river_km,-0.4200776219367981,flood,24h
+node/7288964686,Shubham Hospital,114,rainfall,4.901142597198486,river_level,4.285388469696045,dist_to_river_km,2.57236647605896,flood,24h
+node/7291844243,Virdi Hospital,115,rainfall,6.081980228424072,river_level,3.751267910003662,dist_to_river_km,-1.842358946800232,flood,24h
+node/7291844245,DKS Super Speciality Hospital,116,rainfall,6.070148468017578,river_level,3.761624574661255,dist_to_river_km,-1.8075127601623535,flood,24h
+node/7291844258,Mamta Hospital,117,rainfall,6.117309093475342,river_level,3.7830350399017334,dist_to_river_km,-1.5841563940048218,flood,24h
+node/7291844264,"Om Hospital , Burn Plastic & Cosmetic Surgery Center",118,rainfall,5.950056076049805,river_level,3.9073855876922607,dist_to_river_km,-1.0122671127319336,flood,24h
+node/7291844275,Shri Mahaveer Hospital,119,rainfall,6.455013275146484,river_level,3.7154884338378906,dist_to_river_km,-3.6597189903259277,flood,24h
+node/7291844281,Lotus Hospital & Advance Urology Center,120,rainfall,6.297056674957275,river_level,3.7326745986938477,dist_to_river_km,-2.547531843185425,flood,24h
+node/7291844299,Chand Rani Sardari Lal Speciality EYE And ENT Hospital,121,rainfall,6.450179100036621,river_level,3.733311891555786,dist_to_river_km,-2.904477596282959,flood,24h
+node/7291844302,Petals Newborn And Children Hospital,122,rainfall,5.55113410949707,river_level,4.1769843101501465,dist_to_river_km,-0.22340287268161774,flood,24h
+node/7291844307,Shashwat Hospital,123,rainfall,5.609231472015381,river_level,4.162935733795166,dist_to_river_km,-0.4897706210613251,flood,24h
+node/7291844314,Sagar Multi Speciality Hospital,124,rainfall,6.516645908355713,dist_to_river_km,-4.120355606079102,river_level,3.6557300090789795,flood,24h
+node/7291844320,Sankalp Hospital,125,rainfall,5.357022762298584,river_level,4.528115272521973,dist_to_river_km,1.0908690690994263,flood,24h
+node/12276858430,"Campion School, Raipur",126,rainfall,6.436871528625488,dist_to_river_km,-4.666999816894531,river_level,3.8015329837799072,flood,24h
+node/3774564938,bagri nursing home,127,rainfall,5.388965129852295,river_level,4.5023980140686035,dist_to_river_km,0.7578482627868652,flood,24h
+node/4445117924,Krishna Public School,128,rainfall,4.804039478302002,dist_to_river_km,4.160521984100342,river_level,3.8045623302459717,flood,24h
+node/4445119946,Shri Ganesh Vinayak Eye Hospital,129,rainfall,4.726372241973877,river_level,4.027439117431641,dist_to_river_km,3.171971321105957,flood,24h
+node/4445120486,Holy Heartseducational academy,130,rainfall,5.702722072601318,river_level,4.1230902671813965,dist_to_river_km,-0.7376556396484375,flood,24h
+node/4445126014,Mayoor school,131,rainfall,5.594579219818115,river_level,4.284116268157959,latitude,-0.1620522290468216,flood,24h
+node/4445146001,Yashwant Hospital,132,rainfall,5.467416763305664,river_level,4.454294681549072,dist_to_river_km,0.5133495330810547,flood,24h
+node/4445158557,Bharat Mata higher secondary school,133,rainfall,6.23845911026001,river_level,3.779759645462036,dist_to_river_km,-2.408118963241577,flood,24h
+node/4445165297,Dronacharya public school,134,rainfall,4.9121809005737305,river_level,4.292227745056152,dist_to_river_km,2.5054779052734375,flood,24h
+node/4445176350,The Radient Way School,135,rainfall,5.191644191741943,river_level,4.453657627105713,dist_to_river_km,1.6365770101547241,flood,24h
+node/4445182024,Holy cross senior secondary school,136,rainfall,6.283282279968262,dist_to_river_km,-4.851437568664551,river_level,3.6684019565582275,flood,24h
+node/4445255005,Bharatiya vidya bhuvans R.K. sarda vidya mandir,137,rainfall,6.3633294105529785,dist_to_river_km,-5.2823004722595215,river_level,4.275461673736572,flood,24h
+node/4445258453,MGM school,138,rainfall,6.267534255981445,dist_to_river_km,-4.852757453918457,river_level,3.6382429599761963,flood,24h
+node/4445382462,Ryan International School,139,rainfall,6.28068208694458,dist_to_river_km,-4.85669469833374,river_level,3.675654411315918,flood,24h
+node/4446574875,Grass Memorial Ground,140,rainfall,5.650454998016357,river_level,4.156024932861328,dist_to_river_km,-0.5636929273605347,flood,24h
+node/4711002386,Mittal Hospital,141,rainfall,6.283282279968262,dist_to_river_km,-4.851437568664551,river_level,3.6684019565582275,flood,24h
+node/4994374903,primary government hospital Bangoli,142,rainfall,4.707271575927734,dist_to_river_km,4.150574207305908,river_level,3.7006661891937256,flood,24h
+node/6283904436,Dispensary,143,rainfall,5.948175430297852,river_level,3.9117209911346436,dist_to_river_km,-1.0147207975387573,flood,24h
+node/7736593775,Shri Venkatesh School,144,rainfall,6.26410436630249,dist_to_river_km,-5.29224967956543,river_level,3.902710437774658,flood,24h
+node/8322190354,Daffodils English School,145,rainfall,6.209083080291748,river_level,3.778357982635498,dist_to_river_km,-2.1054277420043945,flood,24h
+node/10939721749,A.S.M DENTAL CLINIC,146,rainfall,4.958439350128174,river_level,4.322510719299316,dist_to_river_km,2.272021770477295,flood,24h
+node/10939807399,Shreevedam Dental and Aryuvedic Clinic,147,rainfall,4.769402027130127,river_level,4.150893211364746,dist_to_river_km,2.92154860496521,flood,24h

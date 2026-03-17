@@ -1,0 +1,11 @@
+SlNo,Station,Agency,State LGD Code,State,District LGD Code,District,Tehsil,Block,Village,River,Basin,Tributary,Subtributary,SubSubtributary,Local River,Latitude,Longitude,Is_DischargeDataAvailable,RL_of_zeroGauge,MeanSeaLevel,Data Acquisition Time,River Water Level Telemetry Hourly (meter)
+3441,Ballar,Chhattisgarh SW,22,Chhattisgarh,387,RAIPUR,KASDOL,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,21.53257,82.48972,No,0.0,0.0,01-01-2026 00:00,308.608
+3442,Ballar,Chhattisgarh SW,22,Chhattisgarh,387,RAIPUR,KASDOL,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,21.53257,82.48972,No,0.0,0.0,01-01-2026 01:00,308.608
+3443,Ballar,Chhattisgarh SW,22,Chhattisgarh,387,RAIPUR,KASDOL,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,21.53257,82.48972,No,0.0,0.0,01-01-2026 02:00,308.599
+3444,Ballar,Chhattisgarh SW,22,Chhattisgarh,387,RAIPUR,KASDOL,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,21.53257,82.48972,No,0.0,0.0,01-01-2026 03:00,308.607
+3445,Ballar,Chhattisgarh SW,22,Chhattisgarh,387,RAIPUR,KASDOL,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,21.53257,82.48972,No,0.0,0.0,01-01-2026 04:00,308.603
+3446,Ballar,Chhattisgarh SW,22,Chhattisgarh,387,RAIPUR,KASDOL,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,21.53257,82.48972,No,0.0,0.0,01-01-2026 05:00,308.607
+3447,Ballar,Chhattisgarh SW,22,Chhattisgarh,387,RAIPUR,KASDOL,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,21.53257,82.48972,No,0.0,0.0,01-01-2026 06:00,308.61
+3448,Ballar,Chhattisgarh SW,22,Chhattisgarh,387,RAIPUR,KASDOL,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,21.53257,82.48972,No,0.0,0.0,01-01-2026 07:00,308.612
+3449,Ballar,Chhattisgarh SW,22,Chhattisgarh,387,RAIPUR,KASDOL,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,21.53257,82.48972,No,0.0,0.0,01-01-2026 08:00,308.612
+3450,Ballar,Chhattisgarh SW,22,Chhattisgarh,387,RAIPUR,KASDOL,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,21.53257,82.48972,No,0.0,0.0,01-01-2026 09:00,308.607

@@ -1,0 +1,149 @@
+facility_id,facility_name,row_index,feature_1,shap_1,feature_2,shap_2,feature_3,shap_3,risk_type,horizon
+node/4445104811,Ramkrishna Care Hospital,0,gwl,-3.7602055072784424,dist_to_river_km,2.4637339115142822,weather_stress_index,-2.3701634407043457,outage,24h
+node/4445112827,Narayana Hrudayalaya Mmi Hospital (Managed By Narayana Hrudayalaya Pvt Ltd - Bangalore) - Raipur,1,gwl,-3.9117987155914307,weather_stress_index,-2.4646730422973633,river_level,2.0302574634552,outage,24h
+node/4445113471,Suyash Superspeciality Hospital,2,gwl,-3.893752336502075,weather_stress_index,-2.8959696292877197,dist_to_river_km,-2.784938097000122,outage,24h
+node/4445129008,Vardaan Hospital (Unit Of Jindal Medicare),3,gwl,-3.6277968883514404,dist_to_river_km,-3.480919122695923,weather_stress_index,-3.0452632904052734,outage,24h
+node/4445137285,Bal Gopal Children Hospital and Research Institute,4,gwl,-4.214053153991699,weather_stress_index,-2.8047683238983154,river_level,2.244774580001831,outage,24h
+node/5556568170,Navkar Hospital and Maternity Home,5,gwl,-4.233758449554443,weather_stress_index,-2.8104023933410645,river_level,2.2445435523986816,outage,24h
+node/6950645744,Karma Hospital,6,gwl,-3.8853671550750732,weather_stress_index,-2.8904056549072266,dist_to_river_km,-2.8281595706939697,outage,24h
+node/6950645749,Chhattisgarh Eye Hospital,7,gwl,-3.866760492324829,weather_stress_index,-2.952454090118408,dist_to_river_km,-2.699430227279663,outage,24h
+node/6950645773,Devi Laxmi Hospital,8,gwl,-3.8259963989257812,weather_stress_index,-2.604013204574585,river_level,2.2628161907196045,outage,24h
+node/6950646487,Sanjeevani Cbcc Usa Cancer Hospital,9,gwl,-3.7560267448425293,dist_to_river_km,2.5464627742767334,weather_stress_index,-2.340747594833374,outage,24h
+node/6953541281,Aashirwad Fertility and Endoscopy Center,10,gwl,-3.910709857940674,weather_stress_index,-2.455228567123413,river_level,2.1192736625671387,outage,24h
+node/6956627645,"Samarpan Hospital, Raipur",11,dist_to_river_km,-4.523012638092041,gwl,-3.504945755004883,weather_stress_index,-3.074829578399658,outage,24h
+node/6956627650,Sai Sushrusha Hospital,12,gwl,-4.176578044891357,weather_stress_index,-2.808464288711548,river_level,2.2611165046691895,outage,24h
+node/6956627655,Sai Kalayan Hospital And Icu,13,gwl,-3.6085941791534424,dist_to_river_km,-3.531075954437256,weather_stress_index,-3.0414109230041504,outage,24h
+node/6956627660,Sai Baba Eye Hospital,14,gwl,-3.6629292964935303,dist_to_river_km,-3.1611711978912354,weather_stress_index,-2.8705263137817383,outage,24h
+node/6956627669,Raipur Institute Of Medical Sciences Hospital,15,gwl,-3.727147102355957,dist_to_river_km,-2.9244887828826904,weather_stress_index,-2.88818621635437,outage,24h
+node/6956629791,Prannath Mission Hospital,16,dist_to_river_km,-4.3196916580200195,gwl,-3.5502560138702393,weather_stress_index,-3.0337424278259277,outage,24h
+node/6956629796,Piles Care Hospital,17,gwl,-3.8661086559295654,weather_stress_index,-3.0080716609954834,dist_to_river_km,-2.510969877243042,outage,24h
+node/6956629801,Tharani Children Hospital And Dental Clinic,18,gwl,-4.17894983291626,weather_stress_index,-2.786524534225464,river_level,2.2709152698516846,outage,24h
+node/6956629810,Dr. M.R. Bhagwat Memorial Hospital,19,gwl,-4.176578044891357,weather_stress_index,-2.808464288711548,river_level,2.2611165046691895,outage,24h
+node/6956629815,Kalda Plastic and Cosmetic Surgery Institute and Burn Centre,20,gwl,-3.8849587440490723,weather_stress_index,-2.5447046756744385,river_level,2.2340712547302246,outage,24h
+node/6956629976,Vidya Hospital And Kidney Centre,21,gwl,-3.6742353439331055,dist_to_river_km,-3.126072645187378,weather_stress_index,-2.8645081520080566,outage,24h
+node/6956655133,Shri Aurobindo Medical Research Centre,22,gwl,-3.8407931327819824,weather_stress_index,-2.424706220626831,dist_to_river_km,2.253685712814331,outage,24h
+node/6956655140,Shree Sai Care Hospital,23,gwl,-3.872668504714966,dist_to_river_km,-2.9546124935150146,weather_stress_index,-2.8901522159576416,outage,24h
+node/6956655145,Shree Medishine Hospital - Raipur,24,gwl,-3.945401430130005,weather_stress_index,-2.745161294937134,river_level,2.280550003051758,outage,24h
+node/6956655152,Sarvodaya Hospital and Maternity Center,25,dist_to_river_km,-4.53687858581543,gwl,-3.504945755004883,weather_stress_index,-3.068570613861084,outage,24h
+node/6957120029,Visharad Hospital,26,gwl,-4.0375657081604,weather_stress_index,-2.9133667945861816,river_level,2.2248497009277344,outage,24h
+node/6957120034,Urmila Memorial Multispeciality Hospital,27,dist_to_river_km,-3.7900640964508057,gwl,-3.5954883098602295,weather_stress_index,-3.0655384063720703,outage,24h
+node/6957120039,"Upadhyay Hospital, Raipur",28,gwl,-3.870408535003662,dist_to_river_km,-2.8988747596740723,weather_stress_index,-2.8889873027801514,outage,24h
+node/6957120057,Subham Hospital and Maternity Home,29,gwl,-3.731590986251831,dist_to_river_km,-2.982654094696045,weather_stress_index,-2.8804357051849365,outage,24h
+node/6957120062,Subba Rao Hospital,30,gwl,-3.7323174476623535,dist_to_river_km,-2.998875617980957,weather_stress_index,-2.882858991622925,outage,24h
+node/6957120067,Srimaa Sarada Arogyadham,31,gwl,-3.7273807525634766,dist_to_river_km,2.734299659729004,weather_stress_index,-2.313040256500244,outage,24h
+node/6957120077,Sobhagya Hospital,32,dist_to_river_km,-4.49768590927124,gwl,-3.5050134658813477,weather_stress_index,-3.074854850769043,outage,24h
+node/6957120082,"Shri Ram Hospital, Raipur",33,gwl,-3.800441026687622,weather_stress_index,-2.596501350402832,river_level,2.259911298751831,outage,24h
+node/6957133287,Shri Balaji Institute Of Medical Science Pvt Ltd,34,dist_to_river_km,-4.53687858581543,gwl,-3.504945755004883,weather_stress_index,-3.068570613861084,outage,24h
+node/6957503647,"Pathak Hospital, Raipur",35,dist_to_river_km,-3.7456376552581787,gwl,-3.6015708446502686,weather_stress_index,-3.0538759231567383,outage,24h
+node/6957503652,Gbg Kidney Care Hospital,36,gwl,-4.198227882385254,weather_stress_index,-2.7943313121795654,river_level,2.2464656829833984,outage,24h
+node/6965495354,Modi Hospital,37,gwl,-4.040586948394775,weather_stress_index,-2.9130237102508545,river_level,2.2227139472961426,outage,24h
+node/6965495359,Jagjivan Urology Centre,38,gwl,-4.043050289154053,weather_stress_index,-2.7808055877685547,river_level,2.2230851650238037,outage,24h
+node/6965495374,Sahai Hospital,39,gwl,-3.8379323482513428,weather_stress_index,-2.633958101272583,river_level,2.2529797554016113,outage,24h
+node/6965495384,"Pragya Hospital, Raipur",40,gwl,-3.872668504714966,dist_to_river_km,-2.9546124935150146,weather_stress_index,-2.8901522159576416,outage,24h
+node/6965497689,P D Jethani Memorial Hospital and Diagnostic Center,41,dist_to_river_km,-4.531367778778076,gwl,-3.504945755004883,weather_stress_index,-3.0761427879333496,outage,24h
+node/6965497699,Nigam Ent Hospital,42,gwl,-3.7763304710388184,dist_to_river_km,-2.984616279602051,weather_stress_index,-2.9115405082702637,outage,24h
+node/6965497709,Ganpati Hospital (Banthia Hospital),43,gwl,-3.868792772293091,weather_stress_index,-2.9896576404571533,dist_to_river_km,-2.599121332168579,outage,24h
+node/6965497714,"Yashwant Hospital, Raipur",44,gwl,-4.233626842498779,weather_stress_index,-2.8051905632019043,river_level,2.2433583736419678,outage,24h
+node/6965497719,"Tripathi Hospital, Raipur",45,gwl,-3.7122955322265625,dist_to_river_km,-2.980163097381592,weather_stress_index,-2.8744680881500244,outage,24h
+node/6965497724,Jeewan Memorial Hospital For Plastic Surgery and Uro,46,gwl,-3.7180893421173096,dist_to_river_km,-3.0111396312713623,weather_stress_index,-2.848888874053955,outage,24h
+node/6965497729,Om Netra Kendra,47,gwl,-3.8713111877441406,weather_stress_index,-2.886681079864502,dist_to_river_km,-2.84507155418396,outage,24h
+node/6965497734,Roopjeevan Hospital,48,gwl,-3.7141261100769043,dist_to_river_km,-3.043626546859741,weather_stress_index,-2.8550004959106445,outage,24h
+node/6965497739,Jubesta Hospital,49,gwl,-3.6742353439331055,dist_to_river_km,-3.126072645187378,weather_stress_index,-2.8645081520080566,outage,24h
+node/6965497744,"Jain Hospital, Raipur",50,gwl,-3.6748669147491455,dist_to_river_km,-3.1049294471740723,weather_stress_index,-2.8609976768493652,outage,24h
+node/6965497749,Dr. Rajehwari Kulkarni Surgical Hospital And Dia,51,gwl,-3.6398754119873047,dist_to_river_km,-3.3975582122802734,weather_stress_index,-3.0071306228637695,outage,24h
+node/6965497759,Ekta Institute Of Child Health,52,gwl,-3.7763304710388184,dist_to_river_km,-2.983668088912964,weather_stress_index,-2.9122705459594727,outage,24h
+node/6965834116,Ayush Hospital and Maternity Home,53,dist_to_river_km,-4.523012638092041,gwl,-3.504945755004883,weather_stress_index,-3.074829578399658,outage,24h
+node/6965834121,Ayushman Hospital and Diagnostic Institute,54,gwl,-3.884955406188965,weather_stress_index,-2.5204484462738037,river_level,2.273787021636963,outage,24h
+node/6965834122,Bachpan Hospital,55,gwl,-3.7343318462371826,dist_to_river_km,2.7719037532806396,weather_stress_index,-2.3129377365112305,outage,24h
+node/6965834136,Bhattar Hospital,56,gwl,-4.0222344398498535,weather_stress_index,-2.751291513442993,river_level,2.2773890495300293,outage,24h
+node/6965834146,City Hospital And Research Centre,57,gwl,-4.032687664031982,weather_stress_index,-2.8250889778137207,river_level,2.260317325592041,outage,24h
+node/6965834156,Devkripa Hospital and Doctor Plaza,58,dist_to_river_km,-3.6860899925231934,gwl,-3.6031949520111084,weather_stress_index,-3.0706605911254883,outage,24h
+node/6965834161,Dr. Jaulkar Ent Hospital,59,gwl,-4.031575679779053,weather_stress_index,-2.8077709674835205,river_level,2.2540383338928223,outage,24h
+node/6965834166,Dr. Sandeep Bhagwat Orthopedic Hospital,60,gwl,-3.869503974914551,weather_stress_index,-2.8916263580322266,dist_to_river_km,-2.870715856552124,outage,24h
+node/6965834176,Eye and Ent Hospital,61,gwl,-3.861753225326538,weather_stress_index,-2.886826276779175,dist_to_river_km,-2.8720357418060303,outage,24h
+node/6965834177,"Heritage Hospital, Raipur",62,gwl,-3.6315767765045166,dist_to_river_km,-3.3972535133361816,weather_stress_index,-3.0207037925720215,outage,24h
+node/6965834182,Jyoti Hospital and Prasuti Griha,63,gwl,-3.71606707572937,weather_stress_index,-3.0507702827453613,dist_to_river_km,-2.365410804748535,outage,24h
+node/6965836187,K G N Surical and Maternity Centre,64,gwl,-4.073856830596924,weather_stress_index,-2.8393661975860596,river_level,2.252331495285034,outage,24h
+node/6965836192,K.M. Hospital,65,gwl,-3.9947710037231445,weather_stress_index,-2.7498154640197754,river_level,2.2468466758728027,outage,24h
+node/6965836197,M. M. Hospital,66,gwl,-3.6542325019836426,dist_to_river_km,-3.135761022567749,weather_stress_index,-2.893958568572998,outage,24h
+node/6965836202,Mahadev Hospital,67,gwl,-3.6838176250457764,dist_to_river_km,2.9101998805999756,weather_stress_index,-2.3075175285339355,outage,24h
+node/6965836211,Mishra Speciality Hospital,68,gwl,-3.6398754119873047,dist_to_river_km,-3.3975582122802734,weather_stress_index,-3.0071306228637695,outage,24h
+node/6965836216,Matra Smriti Hospital,69,gwl,-3.6085941791534424,dist_to_river_km,-3.557183265686035,weather_stress_index,-3.051431179046631,outage,24h
+node/6965836221,M D Hospital and Iccu,70,gwl,-4.0508809089660645,weather_stress_index,-2.786590814590454,river_level,2.229546546936035,outage,24h
+node/6966522779,Mgm Eye Hospital,71,dist_to_river_km,-4.655396938323975,gwl,-3.389000415802002,weather_stress_index,-2.8302228450775146,outage,24h
+node/6966551463,Suprita Hospital,72,gwl,-3.747936487197876,dist_to_river_km,-3.0041723251342773,weather_stress_index,-2.8856923580169678,outage,24h
+node/6966792004,Evangelical Mission Hospital,73,gwl,-3.719825267791748,weather_stress_index,-2.906045913696289,dist_to_river_km,-2.8581182956695557,outage,24h
+node/6966792010,Lifeworth Super Speciality Hospital,74,gwl,-4.019481182098389,weather_stress_index,-2.783686637878418,river_level,2.264302968978882,outage,24h
+node/6966904907,Shri Manulal Memorial Medical Centre,75,gwl,-3.8178138732910156,weather_stress_index,-2.604387044906616,river_level,2.265054702758789,outage,24h
+node/6966904930,"Sahu Hospital, Raipur",76,gwl,-3.7510008811950684,dist_to_river_km,-2.99699068069458,weather_stress_index,-2.8878705501556396,outage,24h
+node/6966904976,Agrasen Hospital,77,gwl,-4.050391674041748,weather_stress_index,-2.8319802284240723,river_level,2.209200382232666,outage,24h
+node/6968263373,Pt.J N M Medical College Hospital,78,gwl,-3.861753225326538,weather_stress_index,-2.886714220046997,dist_to_river_km,-2.8715035915374756,outage,24h
+node/6968280740,"Kanwar Hospital, Raipur",79,dist_to_river_km,-3.747765302658081,gwl,-3.599590539932251,weather_stress_index,-3.0538759231567383,outage,24h
+node/6968280745,Raipur Hospital,80,gwl,-3.875702142715454,weather_stress_index,-3.0095958709716797,dist_to_river_km,-2.4966506958007812,outage,24h
+node/6968280774,"Sanjeewan Hospital, Raipur",81,gwl,-3.802604913711548,weather_stress_index,-2.4349420070648193,dist_to_river_km,2.31648325920105,outage,24h
+node/6968280856,Arihant Netralaya,82,gwl,-4.233695983886719,weather_stress_index,-2.810183048248291,river_level,2.2445435523986816,outage,24h
+node/7148125099,Govt. T.B. Hospital,83,gwl,-4.185956001281738,weather_stress_index,-2.795656204223633,river_level,2.2631936073303223,outage,24h
+node/7148125111,Government Hospital Farfoud,84,gwl,-3.521294355392456,dist_to_river_km,3.245670795440674,weather_stress_index,-2.031959295272827,outage,24h
+node/7148125120,Government Hospital Uparwara,85,dist_to_river_km,-4.554364204406738,gwl,-3.419658660888672,weather_stress_index,-2.8918018341064453,outage,24h
+node/7148125143,"Government Hospital, Tilda",86,gwl,-3.7565269470214844,weather_stress_index,-2.7814688682556152,river_level,2.1026883125305176,outage,24h
+node/7148125202,"Government hospital,Khokhopara",87,gwl,-3.8284027576446533,weather_stress_index,-2.6111178398132324,river_level,2.246229648590088,outage,24h
+node/7148125239,Government hospital arang,88,gwl,-3.5929205417633057,dist_to_river_km,3.1481966972351074,weather_stress_index,-2.3188278675079346,outage,24h
+node/7148125255,District Hospital Raipur,89,gwl,-3.925156831741333,weather_stress_index,-2.7315115928649902,river_level,2.286238431930542,outage,24h
+node/7148125257,Goverment hospital Gobra Nawapara,90,dist_to_river_km,-4.681957244873047,gwl,-3.37614369392395,weather_stress_index,-2.845242500305176,outage,24h
+node/7148125258,Shri Khudadad Dungaji Government Ayurved College Hospital,91,gwl,-4.233695983886719,weather_stress_index,-2.8098673820495605,river_level,2.244724750518799,outage,24h
+node/7148125308,Government Hospital,92,gwl,-4.046034812927246,weather_stress_index,-2.9120795726776123,river_level,2.2228927612304688,outage,24h
+node/7148125312,Labhandhi Government Hospital,93,dist_to_river_km,-4.523012638092041,gwl,-3.504945755004883,weather_stress_index,-3.074829578399658,outage,24h
+node/7288964595,Shri Balaji Hospital,94,gwl,-3.8008904457092285,weather_stress_index,-2.5971412658691406,river_level,2.253356456756592,outage,24h
+node/7288964599,Jeevan Anmol Hospital,95,gwl,-3.8352530002593994,weather_stress_index,-2.6378157138824463,river_level,2.255911350250244,outage,24h
+node/7288964602,Madhumeet Hospital,96,gwl,-3.787261724472046,dist_to_river_km,-3.0382657051086426,weather_stress_index,-2.912656545639038,outage,24h
+node/7288964603,Shri Krishna Hospital,97,gwl,-4.001955986022949,weather_stress_index,-2.7466447353363037,river_level,2.292259454727173,outage,24h
+node/7288964610,Raipura Hospital,98,gwl,-3.7415337562561035,dist_to_river_km,2.4318323135375977,weather_stress_index,-2.40478777885437,outage,24h
+node/7288964613,Awasthi Hospital,99,gwl,-4.0087809562683105,weather_stress_index,-2.798611640930176,river_level,2.270571231842041,outage,24h
+node/7288964616,Om Superspeciality Hospital,100,gwl,-3.6693978309631348,dist_to_river_km,3.224414825439453,weather_stress_index,-2.262401580810547,outage,24h
+node/7288964641,Kankali Hospital Parisar,101,gwl,-4.198381423950195,weather_stress_index,-2.8016929626464844,river_level,2.252065420150757,outage,24h
+node/7288964642,Anjali Children Hospital,102,gwl,-3.8358662128448486,weather_stress_index,-2.6087725162506104,river_level,2.2275824546813965,outage,24h
+node/7288964644,We Care Super Specialty Hospital,103,gwl,-3.8573386669158936,weather_stress_index,-2.9882876873016357,dist_to_river_km,-2.6439545154571533,outage,24h
+node/7288964648,District Police Hospital,104,gwl,-3.9528377056121826,weather_stress_index,-2.7206509113311768,river_level,2.2702364921569824,outage,24h
+node/7288964653,Dr Manoj Agrwal,105,gwl,-3.875702142715454,weather_stress_index,-3.0095958709716797,dist_to_river_km,-2.4966506958007812,outage,24h
+node/7288964658,Avanti Hospital,106,gwl,-3.7761247158050537,dist_to_river_km,-2.99100923538208,weather_stress_index,-2.8972485065460205,outage,24h
+node/7288964664,Anand Shree Hospital,107,gwl,-3.917200803756714,weather_stress_index,-2.4623355865478516,river_level,2.0462324619293213,outage,24h
+node/7288964666,Life Line Hospital,108,gwl,-3.8938100337982178,weather_stress_index,-2.4662821292877197,dist_to_river_km,2.121140480041504,outage,24h
+node/7288964673,Shri Jagannath Multispeciality Hospital,109,gwl,-3.7249226570129395,dist_to_river_km,2.752723217010498,weather_stress_index,-2.308500289916992,outage,24h
+node/7288964676,Gayatri Hospital,110,gwl,-3.8005282878875732,weather_stress_index,-2.596501350402832,river_level,2.2582552433013916,outage,24h
+node/7288964679,Vijaya durga hospital,111,gwl,-4.151985168457031,weather_stress_index,-2.7905073165893555,river_level,2.274106502532959,outage,24h
+node/7288964681,Rajdhani Super Speciality Hospital,112,gwl,-3.9205265045166016,weather_stress_index,-2.4762237071990967,river_level,2.0505969524383545,outage,24h
+node/7288964683,Dr Nigam Hospital,113,gwl,-4.050391674041748,weather_stress_index,-2.857250452041626,river_level,2.2127435207366943,outage,24h
+node/7288964686,Shubham Hospital,114,gwl,-3.8954148292541504,weather_stress_index,-2.501598358154297,river_level,2.200209617614746,outage,24h
+node/7291844243,Virdi Hospital,115,gwl,-3.8716025352478027,weather_stress_index,-2.9861245155334473,river_level,2.2575817108154297,outage,24h
+node/7291844245,DKS Super Speciality Hospital,116,gwl,-3.882741689682007,weather_stress_index,-2.817474365234375,river_level,2.2493491172790527,outage,24h
+node/7291844258,Mamta Hospital,117,gwl,-3.9116275310516357,weather_stress_index,-2.724402904510498,river_level,2.2498693466186523,outage,24h
+node/7291844264,"Om Hospital , Burn Plastic & Cosmetic Surgery Center",118,gwl,-4.050041675567627,weather_stress_index,-2.78678822517395,river_level,2.2303860187530518,outage,24h
+node/7291844275,Shri Mahaveer Hospital,119,gwl,-3.6542325019836426,dist_to_river_km,-3.135761022567749,weather_stress_index,-2.893958568572998,outage,24h
+node/7291844281,Lotus Hospital & Advance Urology Center,120,gwl,-3.8720810413360596,weather_stress_index,-2.886885643005371,dist_to_river_km,-2.8449018001556396,outage,24h
+node/7291844299,Chand Rani Sardari Lal Speciality EYE And ENT Hospital,121,gwl,-3.872668504714966,dist_to_river_km,-2.9546124935150146,weather_stress_index,-2.8901522159576416,outage,24h
+node/7291844302,Petals Newborn And Children Hospital,122,gwl,-4.038032054901123,weather_stress_index,-2.9124598503112793,river_level,2.2145400047302246,outage,24h
+node/7291844307,Shashwat Hospital,123,gwl,-4.050391674041748,weather_stress_index,-2.8319802284240723,river_level,2.209200382232666,outage,24h
+node/7291844314,Sagar Multi Speciality Hospital,124,gwl,-3.6162784099578857,dist_to_river_km,-3.529928684234619,weather_stress_index,-3.031667709350586,outage,24h
+node/7291844320,Sankalp Hospital,125,gwl,-4.16762638092041,weather_stress_index,-2.786875009536743,river_level,2.269515037536621,outage,24h
+node/12276858430,"Campion School, Raipur",126,dist_to_river_km,-4.414890766143799,gwl,-3.4283859729766846,weather_stress_index,-2.8422815799713135,outage,24h
+node/3774564938,bagri nursing home,127,gwl,-4.209800720214844,weather_stress_index,-2.7946932315826416,river_level,2.248441696166992,outage,24h
+node/4445117924,Krishna Public School,128,gwl,-3.6693551540374756,dist_to_river_km,3.260103464126587,weather_stress_index,-2.251049041748047,outage,24h
+node/4445119946,Shri Ganesh Vinayak Eye Hospital,129,gwl,-3.8092780113220215,weather_stress_index,-2.419485092163086,dist_to_river_km,2.3022232055664062,outage,24h
+node/4445120486,Holy Heartseducational academy,130,gwl,-4.035926818847656,weather_stress_index,-2.8016903400421143,river_level,2.214348554611206,outage,24h
+node/4445126014,Mayoor school,131,gwl,-4.016574859619141,weather_stress_index,-2.891693115234375,river_level,2.216444253921509,outage,24h
+node/4445146001,Yashwant Hospital,132,gwl,-4.136413097381592,weather_stress_index,-2.8325016498565674,river_level,2.271594524383545,outage,24h
+node/4445158557,Bharat Mata higher secondary school,133,gwl,-3.893752336502075,weather_stress_index,-2.8959696292877197,dist_to_river_km,-2.784938097000122,outage,24h
+node/4445165297,Dronacharya public school,134,gwl,-3.8982961177825928,weather_stress_index,-2.5131406784057617,river_level,2.236428737640381,outage,24h
+node/4445176350,The Radient Way School,135,gwl,-3.9237325191497803,weather_stress_index,-2.7145988941192627,river_level,2.2865214347839355,outage,24h
+node/4445182024,Holy cross senior secondary school,136,dist_to_river_km,-4.479270935058594,gwl,-3.530272960662842,weather_stress_index,-3.085411787033081,outage,24h
+node/4445255005,Bharatiya vidya bhuvans R.K. sarda vidya mandir,137,dist_to_river_km,-4.637801647186279,gwl,-3.395892381668091,weather_stress_index,-2.836481809616089,outage,24h
+node/4445258453,MGM school,138,dist_to_river_km,-4.409884929656982,gwl,-3.530971050262451,weather_stress_index,-3.0612540245056152,outage,24h
+node/4445382462,Ryan International School,139,dist_to_river_km,-4.479938983917236,gwl,-3.530272960662842,weather_stress_index,-3.085411787033081,outage,24h
+node/4446574875,Grass Memorial Ground,140,gwl,-4.037037372589111,weather_stress_index,-2.808941125869751,river_level,2.215487480163574,outage,24h
+node/4711002386,Mittal Hospital,141,dist_to_river_km,-4.414028644561768,gwl,-3.529026746749878,weather_stress_index,-3.0635974407196045,outage,24h
+node/4994374903,primary government hospital Bangoli,142,gwl,-3.520512819290161,dist_to_river_km,3.2434144020080566,weather_stress_index,-2.045337438583374,outage,24h
+node/6283904436,Dispensary,143,gwl,-4.04917573928833,weather_stress_index,-2.7761728763580322,river_level,2.228126049041748,outage,24h
+node/7736593775,Shri Venkatesh School,144,dist_to_river_km,-4.53687858581543,gwl,-3.504945755004883,weather_stress_index,-3.068570613861084,outage,24h
+node/8322190354,Daffodils English School,145,gwl,-3.872145891189575,weather_stress_index,-3.0102975368499756,dist_to_river_km,-2.563340187072754,outage,24h
+node/10939721749,A.S.M DENTAL CLINIC,146,gwl,-3.8503007888793945,weather_stress_index,-2.555185079574585,river_level,2.2686941623687744,outage,24h
+node/10939807399,Shreevedam Dental and Aryuvedic Clinic,147,gwl,-3.8878445625305176,weather_stress_index,-2.461409330368042,dist_to_river_km,2.0883495807647705,outage,24h

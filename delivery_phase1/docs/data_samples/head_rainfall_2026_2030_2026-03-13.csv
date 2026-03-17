@@ -1,0 +1,11 @@
+SlNo,Station,Agency,State LGD Code,State,District LGD Code,District,Tehsil,Block,Village,River,Basin,Tributary,Subtributary,SubSubtributary,Local River,Latitude,Longitude,Data Acquisition Time,Telemetry Hourly Rainfall (mm)
+1,Agar_Mungeli,Chhattisgarh SW,22,Chhattisgarh,375,BILASPUR,MUNGELI,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,22.0718,81.68442,11-01-2026 15:00,0.5
+2,Amravati,Chhattisgarh SW,22,Chhattisgarh,374,BASTAR,MAKDI,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,19.60923,81.94571,07-01-2026 15:00,0.5
+3,Antagarh,Chhattisgarh SW,22,Chhattisgarh,374,BASTAR,BASTAR,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,20.10161,81.16118,03-02-2026 17:00,0.5
+4,Awapalli,Chhattisgarh SW,22,Chhattisgarh,636,BIJAPUR,USOOR,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,18.5808,80.7673,29-01-2026 14:00,4.0
+5,Bacheli,Chhattisgarh SW,22,Chhattisgarh,376,DANTEWADA,DANTEWADA,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,18.6921,81.26144,21-01-2026 15:00,0.5
+6,Bacheli,Chhattisgarh SW,22,Chhattisgarh,376,DANTEWADA,DANTEWADA,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,18.6921,81.26144,23-02-2026 17:00,3.0
+7,Bacheli,Chhattisgarh SW,22,Chhattisgarh,376,DANTEWADA,DANTEWADA,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,18.6921,81.26144,23-02-2026 18:00,22.5
+8,Bacheli,Chhattisgarh SW,22,Chhattisgarh,376,DANTEWADA,DANTEWADA,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,18.6921,81.26144,24-02-2026 12:00,0.5
+9,Bacheli,Chhattisgarh SW,22,Chhattisgarh,376,DANTEWADA,DANTEWADA,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,18.6921,81.26144,24-02-2026 18:00,1.5
+10,Badgaon,Chhattisgarh SW,22,Chhattisgarh,374,BASTAR,BASTAR,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,20.13819,80.77071,24-01-2026 13:00,1.0

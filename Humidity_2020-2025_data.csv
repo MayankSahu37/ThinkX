@@ -1,0 +1,23 @@
+-BEGIN HEADER-,,,,,,,,,,,,,,
+NASA/POWER Source Native Resolution Monthly and Annual ,,,,,,,,,,,,,,
+Dates (month/day/year): 01/01/2020 through 12/31/2025 in LST,,,,,,,,,,,,,,
+Location: Latitude  21.2415   Longitude 81.6676 ,,,,,,,,,,,,,,
+Elevation from MERRA-2: Average for 0.5 x 0.625 degree lat/lon region = 310.67 meters,,,,,,,,,,,,,,
+The value for missing source data that cannot be computed or is outside of the sources availability range: -999 ,,,,,,,,,,,,,,
+Parameter(s): ,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+RH2M            MERRA-2 Relative Humidity at 2 Meters (%) ,,,,,,,,,,,,,,
+-END HEADER-,,,,,,,,,,,,,,
+PARAMETER,YEAR,JAN,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,ANN
+RH2M,2020,75.76,67.98,64.79,39.66,41.63,71.88,84.46,89.17,85.72,82.98,80.45,70.94,
+RH2M,2021,64.61,43.02,28.18,21.12,43.88,72.6,84.35,86.54,87.83,82.03,82.29,77.18,
+RH2M,2022,75.4,57.81,37.16,26.41,35.68,52.85,83.85,87.71,87.75,82.3,75.89,74.32,
+RH2M,2023,66.89,39.16,41.17,36.98,39.47,44.35,83.16,88.21,88.2,78.74,82.81,80.95,
+RH2M,2024,75.56,57.97,43.02,37.44,33.03,54.66,83.13,89.32,88.46,84.5,78.59,79.69,
+RH2M,2025,59.56,39.44,25.74,27.75,51.4,64.98,86.95,86.69,88.41,88.18,78.45,76.37,
+,,,,,,,,,,,,,,71.32
+,,,,,,,,,,,,,,64.63
+,,,,,,,,,,,,,,64.86
+,,,,,,,,,,,,,,64.39
+,,,,,,,,,,,,,,67.19
+,,,,,,,,,,,,,,64.69

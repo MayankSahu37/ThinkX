@@ -1,0 +1,11 @@
+metric,station,district,state,latitude,longitude,timestamp,value,source_file
+gwl,Mandir Hasoud,RAIPUR,Chhattisgarh,21.22472222,81.76694444,2022-09-07 12:47:00,-6.807,GWL_2021-2025_Telementry_Hourly.xlsx
+gwl,Mandir Hasoud,RAIPUR,Chhattisgarh,21.22472222,81.76694444,2022-09-07 18:00:00,-4.772,GWL_2021-2025_Telementry_Hourly.xlsx
+gwl,Mandir Hasoud,RAIPUR,Chhattisgarh,21.22472222,81.76694444,2022-09-08 00:00:00,-3.937,GWL_2021-2025_Telementry_Hourly.xlsx
+gwl,Mandir Hasoud,RAIPUR,Chhattisgarh,21.22472222,81.76694444,2022-09-08 06:00:00,-6.563,GWL_2021-2025_Telementry_Hourly.xlsx
+gwl,Mandir Hasoud,RAIPUR,Chhattisgarh,21.22472222,81.76694444,2022-09-08 12:00:00,-5.787,GWL_2021-2025_Telementry_Hourly.xlsx
+gwl,Mandir Hasoud,RAIPUR,Chhattisgarh,21.22472222,81.76694444,2022-09-08 18:00:00,-5.339,GWL_2021-2025_Telementry_Hourly.xlsx
+gwl,Mandir Hasoud,RAIPUR,Chhattisgarh,21.22472222,81.76694444,2022-09-09 00:00:00,-4.681,GWL_2021-2025_Telementry_Hourly.xlsx
+gwl,Mandir Hasoud,RAIPUR,Chhattisgarh,21.22472222,81.76694444,2022-09-09 06:00:00,-6.623,GWL_2021-2025_Telementry_Hourly.xlsx
+gwl,Mandir Hasoud,RAIPUR,Chhattisgarh,21.22472222,81.76694444,2022-09-09 12:00:00,-6.582,GWL_2021-2025_Telementry_Hourly.xlsx
+gwl,Mandir Hasoud,RAIPUR,Chhattisgarh,21.22472222,81.76694444,2022-09-09 18:00:00,-5.715,GWL_2021-2025_Telementry_Hourly.xlsx

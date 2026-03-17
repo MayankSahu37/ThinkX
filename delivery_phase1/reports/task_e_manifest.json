@@ -1,0 +1,34 @@
+{
+  "fallback_labels_used": true,
+  "best_models": {
+    "outage": {
+      "24h": "xgb",
+      "7d": "rf"
+    },
+    "flood": {
+      "24h": "xgb",
+      "7d": "rf"
+    },
+    "water_shortage": {
+      "24h": "xgb",
+      "7d": "xgb"
+    },
+    "sanitation_failure": {
+      "24h": "xgb",
+      "7d": "rf"
+    },
+    "human_impact": {
+      "24h": "rf",
+      "7d": "xgb"
+    }
+  },
+  "outputs": {
+    "risk_24h": "C:\\Users\\ASUS\\Downloads\\ThinkX_database\\delivery_phase1\\output\\raipur_facility_outage_risk_24h.csv",
+    "risk_7d": "C:\\Users\\ASUS\\Downloads\\ThinkX_database\\delivery_phase1\\output\\raipur_facility_outage_risk_7d.csv",
+    "multi_risk": "C:\\Users\\ASUS\\Downloads\\ThinkX_database\\delivery_phase1\\output\\raipur_facility_multi_risk.csv",
+    "alerts": "C:\\Users\\ASUS\\Downloads\\ThinkX_database\\delivery_phase1\\output\\raipur_alerts_multi_risk_high.csv",
+    "metrics_table": "C:\\Users\\ASUS\\Downloads\\ThinkX_database\\delivery_phase1\\reports\\model_metrics_table.csv",
+    "model_eval": "C:\\Users\\ASUS\\Downloads\\ThinkX_database\\delivery_phase1\\reports\\model_eval.md",
+    "explanations": "C:\\Users\\ASUS\\Downloads\\ThinkX_database\\delivery_phase1\\output\\explanations"
+  }
+}

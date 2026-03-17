@@ -1,0 +1,11 @@
+facility_id,facility_name,facility_type,district,crs,risk_level,last_updated
+node/6956627669,Raipur Institute Of Medical Sciences Hospital,Hospital,RAIPUR,0.375,High,2026-03-14 02:31:42
+node/7148125239,Government hospital arang,Hospital,RAIPUR,0.375,High,2026-03-14 02:31:42
+node/7148125257,Goverment hospital Gobra Nawapara,Hospital,RAIPUR,0.375,High,2026-03-14 02:31:42
+node/12276858430,"Campion School, Raipur",School,RAIPUR,0.375,High,2026-03-14 02:31:42
+node/6965834182,Jyoti Hospital and Prasuti Griha,Hospital,RAIPUR,0.3943011502265597,High,2026-03-14 02:31:42
+node/7148125143,"Government Hospital, Tilda",Hospital,RAIPUR,0.3943011502265597,High,2026-03-14 02:31:42
+node/6966792004,Evangelical Mission Hospital,Hospital,RAIPUR,0.3943011502265597,High,2026-03-14 02:31:42
+node/6966522779,Mgm Eye Hospital,Hospital,RAIPUR,0.4012286510979435,Medium,2026-03-14 02:31:42
+node/4445255005,Bharatiya vidya bhuvans R.K. sarda vidya mandir,School,RAIPUR,0.4012286510979435,Medium,2026-03-14 02:31:42
+node/7148125120,Government Hospital Uparwara,Hospital,RAIPUR,0.4519539567843054,Medium,2026-03-14 02:31:42

@@ -1,0 +1,38 @@
+# Python environments
+.venv/
+venv/
+
+# Python bytecode/cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+
+# Local logs/temp
+*.log
+*.tmp
+
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# Generated weather snapshots may include provider API keys in payload URLs
+processed_outputs/*snapshot_*.json
+processed_outputs/openweather_snapshot_*.json
+processed_outputs/weatherstack_snapshot_*.json
+
+# Node/Vite
+Frontend/node_modules/
+Frontend/dist/
+
+# Common build outputs
+build/
+dist/

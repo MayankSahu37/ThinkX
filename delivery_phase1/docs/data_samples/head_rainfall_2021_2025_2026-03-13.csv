@@ -1,0 +1,11 @@
+SlNo,Station,Agency,State LGD Code,State,District LGD Code,District,Tehsil,Block,Village,River,Basin,Tributary,Subtributary,SubSubtributary,Local River,Latitude,Longitude,Data Acquisition Time,Telemetry Hourly Rainfall (mm)
+1,Agar_Mungeli,Chhattisgarh SW,22,Chhattisgarh,375,BILASPUR,MUNGELI,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,22.0718,81.68442,12-09-2022 06:30,0.5
+2,Agar_Mungeli,Chhattisgarh SW,22,Chhattisgarh,375,BILASPUR,MUNGELI,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,22.0718,81.68442,12-09-2022 07:30,0.5
+3,Agar_Mungeli,Chhattisgarh SW,22,Chhattisgarh,375,BILASPUR,MUNGELI,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,22.0718,81.68442,12-09-2022 08:30,1.0
+4,Agar_Mungeli,Chhattisgarh SW,22,Chhattisgarh,375,BILASPUR,MUNGELI,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,22.0718,81.68442,12-09-2022 09:30,0.5
+5,Agar_Mungeli,Chhattisgarh SW,22,Chhattisgarh,375,BILASPUR,MUNGELI,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,22.0718,81.68442,12-09-2022 11:30,0.5
+6,Agar_Mungeli,Chhattisgarh SW,22,Chhattisgarh,375,BILASPUR,MUNGELI,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,22.0718,81.68442,12-09-2022 12:30,2.5
+7,Agar_Mungeli,Chhattisgarh SW,22,Chhattisgarh,375,BILASPUR,MUNGELI,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,22.0718,81.68442,13-09-2022 19:30,0.5
+8,Agar_Mungeli,Chhattisgarh SW,22,Chhattisgarh,375,BILASPUR,MUNGELI,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,22.0718,81.68442,13-09-2022 20:30,2.0
+9,Agar_Mungeli,Chhattisgarh SW,22,Chhattisgarh,375,BILASPUR,MUNGELI,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,22.0718,81.68442,14-09-2022 07:30,0.5
+10,Agar_Mungeli,Chhattisgarh SW,22,Chhattisgarh,375,BILASPUR,MUNGELI,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,22.0718,81.68442,14-09-2022 15:30,0.5

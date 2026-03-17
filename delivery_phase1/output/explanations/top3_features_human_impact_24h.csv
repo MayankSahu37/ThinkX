@@ -1,0 +1,149 @@
+facility_id,facility_name,row_index,feature_1,shap_1,feature_2,shap_2,feature_3,shap_3,risk_type,horizon
+node/4445104811,Ramkrishna Care Hospital,0,temperature,-0.2347972895852177,load_stress,-0.16995954421518505,wind_speed,-0.021769562149782744,human_impact,24h
+node/4445112827,Narayana Hrudayalaya Mmi Hospital (Managed By Narayana Hrudayalaya Pvt Ltd - Bangalore) - Raipur,1,temperature,-0.23439419196350217,load_stress,-0.17018487570519203,wind_speed,-0.021962730191696835,human_impact,24h
+node/4445113471,Suyash Superspeciality Hospital,2,temperature,-0.23339203787493218,load_stress,-0.17065327472218664,wind_speed,-0.021575786341909736,human_impact,24h
+node/4445129008,Vardaan Hospital (Unit Of Jindal Medicare),3,temperature,-0.23286976214392124,load_stress,-0.17062642135661243,wind_speed,-0.0214875618493847,human_impact,24h
+node/4445137285,Bal Gopal Children Hospital and Research Institute,4,temperature,-0.23358155259552973,load_stress,-0.17055142935708592,wind_speed,-0.021417691560390147,human_impact,24h
+node/5556568170,Navkar Hospital and Maternity Home,5,temperature,-0.23328297982944846,load_stress,-0.17062359811141248,wind_speed,-0.02178714951951853,human_impact,24h
+node/6950645744,Karma Hospital,6,temperature,-0.23338346139711122,load_stress,-0.1706561237612688,wind_speed,-0.021575786341909736,human_impact,24h
+node/6950645749,Chhattisgarh Eye Hospital,7,temperature,-0.23340530514999472,load_stress,-0.17061737613632913,wind_speed,-0.021580853598773056,human_impact,24h
+node/6950645773,Devi Laxmi Hospital,8,temperature,-0.23328423648764707,load_stress,-0.1707462464061904,wind_speed,-0.02171726390694841,human_impact,24h
+node/6950646487,Sanjeevani Cbcc Usa Cancer Hospital,9,temperature,-0.2347972584277542,load_stress,-0.16995915535018843,wind_speed,-0.021769562149782744,human_impact,24h
+node/6953541281,Aashirwad Fertility and Endoscopy Center,10,temperature,-0.2338108667780604,load_stress,-0.1707050885685777,wind_speed,-0.02196244028401091,human_impact,24h
+node/6956627645,"Samarpan Hospital, Raipur",11,temperature,-0.23371450972733995,load_stress,-0.16988878339681526,wind_speed,-0.021397388994625937,human_impact,24h
+node/6956627650,Sai Sushrusha Hospital,12,temperature,-0.23358155259552973,load_stress,-0.17055142935708592,wind_speed,-0.021417691560390147,human_impact,24h
+node/6956627655,Sai Kalayan Hospital And Icu,13,temperature,-0.23286380590657324,load_stress,-0.17063087974965946,wind_speed,-0.02148766660638993,human_impact,24h
+node/6956627660,Sai Baba Eye Hospital,14,temperature,-0.23289735986396568,load_stress,-0.1706457882688688,wind_speed,-0.021487143793296023,human_impact,24h
+node/6956627669,Raipur Institute Of Medical Sciences Hospital,15,temperature,-0.25687476868539166,load_stress,-0.1315996957496285,crs,0.026532442924317324,human_impact,24h
+node/6956629791,Prannath Mission Hospital,16,temperature,-0.2340235577356777,load_stress,-0.16996921360185224,wind_speed,-0.021590914787570806,human_impact,24h
+node/6956629796,Piles Care Hospital,17,temperature,-0.23340537893381716,load_stress,-0.1706174254064032,wind_speed,-0.021581162372614676,human_impact,24h
+node/6956629801,Tharani Children Hospital And Dental Clinic,18,temperature,-0.233282886524075,load_stress,-0.17062359811141248,wind_speed,-0.021809434691348523,human_impact,24h
+node/6956629810,Dr. M.R. Bhagwat Memorial Hospital,19,temperature,-0.23358155259552973,load_stress,-0.17055142935708592,wind_speed,-0.021417691560390147,human_impact,24h
+node/6956629815,Kalda Plastic and Cosmetic Surgery Institute and Burn Centre,20,temperature,-0.2333038591986264,load_stress,-0.17074701395975,wind_speed,-0.021714932696243913,human_impact,24h
+node/6956629976,Vidya Hospital And Kidney Centre,21,temperature,-0.23289735986396568,load_stress,-0.1706457882688688,wind_speed,-0.021487143793296023,human_impact,24h
+node/6956655133,Shri Aurobindo Medical Research Centre,22,temperature,-0.23439308560035396,load_stress,-0.1701855822617845,wind_speed,-0.02180150055009057,human_impact,24h
+node/6956655140,Shree Sai Care Hospital,23,temperature,-0.23338658413669208,load_stress,-0.17065622867512423,wind_speed,-0.02132858400367065,human_impact,24h
+node/6956655145,Shree Medishine Hospital - Raipur,24,temperature,-0.23328119644020132,load_stress,-0.1707526619540515,wind_speed,-0.021716658090190293,human_impact,24h
+node/6956655152,Sarvodaya Hospital and Maternity Center,25,temperature,-0.23396749526577404,load_stress,-0.16915530686765656,wind_speed,-0.021432472509082725,human_impact,24h
+node/6957120029,Visharad Hospital,26,temperature,-0.2334943561511389,load_stress,-0.17060821473752313,wind_speed,-0.02158964267748354,human_impact,24h
+node/6957120034,Urmila Memorial Multispeciality Hospital,27,temperature,-0.23303020885708234,load_stress,-0.17022732913832056,wind_speed,-0.021492832507604292,human_impact,24h
+node/6957120039,"Upadhyay Hospital, Raipur",28,temperature,-0.23338658413669208,load_stress,-0.17065622867512423,wind_speed,-0.02132858400367065,human_impact,24h
+node/6957120057,Subham Hospital and Maternity Home,29,temperature,-0.23289537577648406,load_stress,-0.17064578416661974,wind_speed,-0.021489147620579206,human_impact,24h
+node/6957120062,Subba Rao Hospital,30,temperature,-0.23319032879909332,load_stress,-0.1705662805395837,wind_speed,-0.02159051637233183,human_impact,24h
+node/6957120067,Srimaa Sarada Arogyadham,31,temperature,-0.23510074397133954,load_stress,-0.16950979710027742,wind_speed,-0.021770422483154788,human_impact,24h
+node/6957120077,Sobhagya Hospital,32,temperature,-0.23371871856574183,load_stress,-0.16990154678237082,wind_speed,-0.021396322203158836,human_impact,24h
+node/6957120082,"Shri Ram Hospital, Raipur",33,temperature,-0.23328416613579073,load_stress,-0.17074617605433406,wind_speed,-0.02171550358099261,human_impact,24h
+node/6957133287,Shri Balaji Institute Of Medical Science Pvt Ltd,34,temperature,-0.2339639739441253,load_stress,-0.16914774220049686,wind_speed,-0.021423914401909844,human_impact,24h
+node/6957503647,"Pathak Hospital, Raipur",35,temperature,-0.2330300307665104,load_stress,-0.170225662247486,wind_speed,-0.021492832507604292,human_impact,24h
+node/6957503652,Gbg Kidney Care Hospital,36,temperature,-0.233282886524075,load_stress,-0.17062359811141248,wind_speed,-0.021809434691348523,human_impact,24h
+node/6965495354,Modi Hospital,37,temperature,-0.2334943561511389,load_stress,-0.17060821473752313,wind_speed,-0.02158964267748354,human_impact,24h
+node/6965495359,Jagjivan Urology Centre,38,temperature,-0.23349464270669776,load_stress,-0.1706071890048277,wind_speed,-0.02158964267748354,human_impact,24h
+node/6965495374,Sahai Hospital,39,temperature,-0.2332847331653451,load_stress,-0.17075208760997226,wind_speed,-0.021717591814140312,human_impact,24h
+node/6965495384,"Pragya Hospital, Raipur",40,temperature,-0.23338658413669208,load_stress,-0.17065622867512423,wind_speed,-0.02132858400367065,human_impact,24h
+node/6965497689,P D Jethani Memorial Hospital and Diagnostic Center,41,temperature,-0.23382075850518402,load_stress,-0.16987554249386563,wind_speed,-0.02135544480425153,human_impact,24h
+node/6965497699,Nigam Ent Hospital,42,temperature,-0.23318221725666263,load_stress,-0.1708121906163145,wind_speed,-0.021325897977812196,human_impact,24h
+node/6965497709,Ganpati Hospital (Banthia Hospital),43,temperature,-0.23340530514999472,load_stress,-0.17061737613632913,wind_speed,-0.021580853598773056,human_impact,24h
+node/6965497714,"Yashwant Hospital, Raipur",44,temperature,-0.23358155259552973,load_stress,-0.17055142935708592,wind_speed,-0.021417691560390147,human_impact,24h
+node/6965497719,"Tripathi Hospital, Raipur",45,temperature,-0.23289537577648406,load_stress,-0.17064578416661974,wind_speed,-0.021489147620579206,human_impact,24h
+node/6965497724,Jeewan Memorial Hospital For Plastic Surgery and Uro,46,temperature,-0.23289715548052686,load_stress,-0.17064578416661974,wind_speed,-0.021487099599149205,human_impact,24h
+node/6965497729,Om Netra Kendra,47,temperature,-0.23338346139711122,load_stress,-0.1706561237612688,wind_speed,-0.021575786341909736,human_impact,24h
+node/6965497734,Roopjeevan Hospital,48,temperature,-0.23289715548052686,load_stress,-0.17064578416661974,wind_speed,-0.021487099599149205,human_impact,24h
+node/6965497739,Jubesta Hospital,49,temperature,-0.23289735986396568,load_stress,-0.1706457882688688,wind_speed,-0.021487143793296023,human_impact,24h
+node/6965497744,"Jain Hospital, Raipur",50,temperature,-0.23289715548052686,load_stress,-0.1706458066101692,wind_speed,-0.021487099599149205,human_impact,24h
+node/6965497749,Dr. Rajehwari Kulkarni Surgical Hospital And Dia,51,temperature,-0.2328915197797216,load_stress,-0.17063323819018694,wind_speed,-0.02148547842379683,human_impact,24h
+node/6965497759,Ekta Institute Of Child Health,52,temperature,-0.2333869145095486,load_stress,-0.17065561452590836,wind_speed,-0.02132858400367065,human_impact,24h
+node/6965834116,Ayush Hospital and Maternity Home,53,temperature,-0.23378509632114683,load_stress,-0.16987953756908303,wind_speed,-0.02139602634376477,human_impact,24h
+node/6965834121,Ayushman Hospital and Diagnostic Institute,54,temperature,-0.2333038591986264,load_stress,-0.17074701395975,wind_speed,-0.021714932696243913,human_impact,24h
+node/6965834122,Bachpan Hospital,55,temperature,-0.23510087489913786,load_stress,-0.16950901351857323,wind_speed,-0.021770422483154795,human_impact,24h
+node/6965834136,Bhattar Hospital,56,temperature,-0.23349464270669776,load_stress,-0.17060730066233035,wind_speed,-0.021589747940356334,human_impact,24h
+node/6965834146,City Hospital And Research Centre,57,temperature,-0.23357914443328956,load_stress,-0.17055288728147924,wind_speed,-0.021415935519008902,human_impact,24h
+node/6965834156,Devkripa Hospital and Doctor Plaza,58,temperature,-0.232863813399653,load_stress,-0.17063089051098698,wind_speed,-0.02148766660638993,human_impact,24h
+node/6965834161,Dr. Jaulkar Ent Hospital,59,temperature,-0.23357914443328956,load_stress,-0.17055288728147924,wind_speed,-0.021415935519008902,human_impact,24h
+node/6965834166,Dr. Sandeep Bhagwat Orthopedic Hospital,60,temperature,-0.23338346078712086,load_stress,-0.17065622867512423,wind_speed,-0.021575756436454374,human_impact,24h
+node/6965834176,Eye and Ent Hospital,61,temperature,-0.23338658413669208,load_stress,-0.17065622867512423,wind_speed,-0.021575756436454374,human_impact,24h
+node/6965834177,"Heritage Hospital, Raipur",62,temperature,-0.2328915197797216,load_stress,-0.17063365178893447,wind_speed,-0.02148221688767651,human_impact,24h
+node/6965834182,Jyoti Hospital and Prasuti Griha,63,temperature,-0.2569133136168513,load_stress,-0.1338938166630202,crs,0.026762928765664443,human_impact,24h
+node/6965836187,K G N Surical and Maternity Centre,64,temperature,-0.23357956015389936,load_stress,-0.17055233146498677,wind_speed,-0.021416621639549764,human_impact,24h
+node/6965836192,K.M. Hospital,65,temperature,-0.23349976559347205,load_stress,-0.17060730066233035,wind_speed,-0.021589747940356334,human_impact,24h
+node/6965836197,M. M. Hospital,66,temperature,-0.23289535646839926,load_stress,-0.17064000634602156,wind_speed,-0.021488086554108724,human_impact,24h
+node/6965836202,Mahadev Hospital,67,temperature,-0.2351005360880578,load_stress,-0.1695086890377497,wind_speed,-0.02177012294593936,human_impact,24h
+node/6965836211,Mishra Speciality Hospital,68,temperature,-0.2328915197797216,load_stress,-0.17063365178893447,wind_speed,-0.02148221688767651,human_impact,24h
+node/6965836216,Matra Smriti Hospital,69,temperature,-0.23286382569865174,load_stress,-0.17063087974965946,wind_speed,-0.02148766660638993,human_impact,24h
+node/6965836221,M D Hospital and Iccu,70,temperature,-0.23349464270669776,load_stress,-0.1706071890048277,wind_speed,-0.02158964267748354,human_impact,24h
+node/6966522779,Mgm Eye Hospital,71,temperature,-0.25195094877355706,load_stress,-0.13492329901569824,crs,0.027921491157894787,human_impact,24h
+node/6966551463,Suprita Hospital,72,temperature,-0.23319032879909332,load_stress,-0.1705662805395837,wind_speed,-0.02159051637233183,human_impact,24h
+node/6966792004,Evangelical Mission Hospital,73,temperature,-0.2568176496348254,load_stress,-0.13390029079642837,crs,0.026763596098999438,human_impact,24h
+node/6966792010,Lifeworth Super Speciality Hospital,74,temperature,-0.23357914443328956,load_stress,-0.17055288728147924,wind_speed,-0.021415935519008902,human_impact,24h
+node/6966904907,Shri Manulal Memorial Medical Centre,75,temperature,-0.2332847331653451,load_stress,-0.17075243780671828,wind_speed,-0.021716262732604467,human_impact,24h
+node/6966904930,"Sahu Hospital, Raipur",76,temperature,-0.23318221725666263,load_stress,-0.1708121906163145,wind_speed,-0.021325897977812196,human_impact,24h
+node/6966904976,Agrasen Hospital,77,temperature,-0.2334943561511389,load_stress,-0.17060821473752313,wind_speed,-0.02158964267748354,human_impact,24h
+node/6968263373,Pt.J N M Medical College Hospital,78,temperature,-0.23338658413669208,load_stress,-0.17065622867512423,wind_speed,-0.021575756436454374,human_impact,24h
+node/6968280740,"Kanwar Hospital, Raipur",79,temperature,-0.23303020885708234,load_stress,-0.17022732913832056,wind_speed,-0.021492832507604292,human_impact,24h
+node/6968280745,Raipur Hospital,80,temperature,-0.23340537893381716,load_stress,-0.1706174254064032,wind_speed,-0.021581162372614676,human_impact,24h
+node/6968280774,"Sanjeewan Hospital, Raipur",81,temperature,-0.2343930977922888,load_stress,-0.1701855822617845,wind_speed,-0.02180150055009057,human_impact,24h
+node/6968280856,Arihant Netralaya,82,temperature,-0.23328297982944846,load_stress,-0.17062359811141248,wind_speed,-0.02178714951951853,human_impact,24h
+node/7148125099,Govt. T.B. Hospital,83,temperature,-0.233282886524075,load_stress,-0.17062359811141248,wind_speed,-0.021809434691348523,human_impact,24h
+node/7148125111,Government Hospital Farfoud,84,temperature,-0.24192198611540938,load_stress,-0.13454724470710025,wind_speed,-0.024039542856061677,human_impact,24h
+node/7148125120,Government Hospital Uparwara,85,temperature,-0.2474807096239409,load_stress,-0.1514595840388349,crs,0.023734857805833193,human_impact,24h
+node/7148125143,"Government Hospital, Tilda",86,temperature,-0.2569138826028671,load_stress,-0.1338907394614189,crs,0.026772191961669595,human_impact,24h
+node/7148125202,"Government hospital,Khokhopara",87,temperature,-0.23328416613579073,load_stress,-0.17074617605433406,wind_speed,-0.02171550358099261,human_impact,24h
+node/7148125239,Government hospital arang,88,temperature,-0.25826569103290714,load_stress,-0.1267100268508807,crs,0.02619722668047946,human_impact,24h
+node/7148125255,District Hospital Raipur,89,temperature,-0.23328285568933813,load_stress,-0.17075208760997226,wind_speed,-0.021716658090190293,human_impact,24h
+node/7148125257,Goverment hospital Gobra Nawapara,90,temperature,-0.2551973938046091,load_stress,-0.13022000224280483,crs,0.026532006733377942,human_impact,24h
+node/7148125258,Shri Khudadad Dungaji Government Ayurved College Hospital,91,temperature,-0.23358155259552973,load_stress,-0.17055142935708592,wind_speed,-0.021417691560390147,human_impact,24h
+node/7148125308,Government Hospital,92,temperature,-0.23349145908336663,load_stress,-0.17060821473752313,wind_speed,-0.02158964267748354,human_impact,24h
+node/7148125312,Labhandhi Government Hospital,93,temperature,-0.23378451725753638,load_stress,-0.1698816120960732,wind_speed,-0.021388625310602375,human_impact,24h
+node/7288964595,Shri Balaji Hospital,94,temperature,-0.23328416613579073,load_stress,-0.17074617605433406,wind_speed,-0.02171550358099261,human_impact,24h
+node/7288964599,Jeevan Anmol Hospital,95,temperature,-0.23328378941328817,load_stress,-0.17075208760997226,wind_speed,-0.021717591814140312,human_impact,24h
+node/7288964602,Madhumeet Hospital,96,temperature,-0.2333869145095486,load_stress,-0.17065561452590836,wind_speed,-0.02132858400367065,human_impact,24h
+node/7288964603,Shri Krishna Hospital,97,temperature,-0.2332803191748943,load_stress,-0.17076225039632667,wind_speed,-0.021716658090190293,human_impact,24h
+node/7288964610,Raipura Hospital,98,temperature,-0.2343930977922888,load_stress,-0.1701855822617845,wind_speed,-0.02180150055009057,human_impact,24h
+node/7288964613,Awasthi Hospital,99,temperature,-0.23357914443328956,load_stress,-0.17055288728147924,wind_speed,-0.021415935519008902,human_impact,24h
+node/7288964616,Om Superspeciality Hospital,100,temperature,-0.2350984200812728,load_stress,-0.16951109301069217,wind_speed,-0.021770990518262093,human_impact,24h
+node/7288964641,Kankali Hospital Parisar,101,temperature,-0.23328766206958912,load_stress,-0.17058722012461586,wind_speed,-0.022092512310338173,human_impact,24h
+node/7288964642,Anjali Children Hospital,102,temperature,-0.23328416613579073,load_stress,-0.17074617605433406,wind_speed,-0.02171550358099261,human_impact,24h
+node/7288964644,We Care Super Specialty Hospital,103,temperature,-0.23340530514999472,load_stress,-0.17061737613632913,wind_speed,-0.021580853598773056,human_impact,24h
+node/7288964648,District Police Hospital,104,temperature,-0.23328285568933813,load_stress,-0.17075208760997226,wind_speed,-0.021716658090190293,human_impact,24h
+node/7288964653,Dr Manoj Agrwal,105,temperature,-0.23340537893381716,load_stress,-0.1706174254064032,wind_speed,-0.021581162372614676,human_impact,24h
+node/7288964658,Avanti Hospital,106,temperature,-0.23318221725666263,load_stress,-0.1708121906163145,wind_speed,-0.021325897977812196,human_impact,24h
+node/7288964664,Anand Shree Hospital,107,temperature,-0.2338108667780604,load_stress,-0.1707050885685777,wind_speed,-0.02196244028401091,human_impact,24h
+node/7288964666,Life Line Hospital,108,temperature,-0.23439308560035396,load_stress,-0.1701855822617845,wind_speed,-0.02180150055009057,human_impact,24h
+node/7288964673,Shri Jagannath Multispeciality Hospital,109,temperature,-0.23510074397133954,load_stress,-0.16950979710027742,wind_speed,-0.021770422483154788,human_impact,24h
+node/7288964676,Gayatri Hospital,110,temperature,-0.23328416613579073,load_stress,-0.17074617605433406,wind_speed,-0.021717193555092055,human_impact,24h
+node/7288964679,Vijaya durga hospital,111,temperature,-0.2332803191748943,load_stress,-0.170587217372035,wind_speed,-0.022092512310338173,human_impact,24h
+node/7288964681,Rajdhani Super Speciality Hospital,112,temperature,-0.2338108667780604,load_stress,-0.1707050885685777,wind_speed,-0.02196244028401091,human_impact,24h
+node/7288964683,Dr Nigam Hospital,113,temperature,-0.2334943561511389,load_stress,-0.17060821473752313,wind_speed,-0.02158964267748354,human_impact,24h
+node/7288964686,Shubham Hospital,114,temperature,-0.2333038591986264,load_stress,-0.1707376422016344,wind_speed,-0.021714932696243913,human_impact,24h
+node/7291844243,Virdi Hospital,115,temperature,-0.233494066000972,load_stress,-0.17061744642545176,wind_speed,-0.021587725176918947,human_impact,24h
+node/7291844245,DKS Super Speciality Hospital,116,temperature,-0.233494066000972,load_stress,-0.17061744642545176,wind_speed,-0.021587725176918947,human_impact,24h
+node/7291844258,Mamta Hospital,117,temperature,-0.23349419180910713,load_stress,-0.17061707280290545,wind_speed,-0.02158854135901081,human_impact,24h
+node/7291844264,"Om Hospital , Burn Plastic & Cosmetic Surgery Center",118,temperature,-0.23349464270669776,load_stress,-0.1706071890048277,wind_speed,-0.02158964267748354,human_impact,24h
+node/7291844275,Shri Mahaveer Hospital,119,temperature,-0.23289535646839926,load_stress,-0.17064000634602156,wind_speed,-0.021488086554108724,human_impact,24h
+node/7291844281,Lotus Hospital & Advance Urology Center,120,temperature,-0.23338346139711122,load_stress,-0.1706561237612688,wind_speed,-0.021575786341909736,human_impact,24h
+node/7291844299,Chand Rani Sardari Lal Speciality EYE And ENT Hospital,121,temperature,-0.23338658413669208,load_stress,-0.17065622867512423,wind_speed,-0.02132858400367065,human_impact,24h
+node/7291844302,Petals Newborn And Children Hospital,122,temperature,-0.2334943561511389,load_stress,-0.17060821473752313,wind_speed,-0.02158964267748354,human_impact,24h
+node/7291844307,Shashwat Hospital,123,temperature,-0.23349464270669776,load_stress,-0.1706071734971623,wind_speed,-0.02158964267748354,human_impact,24h
+node/7291844314,Sagar Multi Speciality Hospital,124,temperature,-0.23286380590657324,load_stress,-0.17063087974965946,wind_speed,-0.02148766660638993,human_impact,24h
+node/7291844320,Sankalp Hospital,125,temperature,-0.233282886524075,load_stress,-0.17062359811141248,wind_speed,-0.021809434691348523,human_impact,24h
+node/12276858430,"Campion School, Raipur",126,temperature,-0.25703521416473124,load_stress,-0.13061548356430816,crs,0.02666217048326425,human_impact,24h
+node/3774564938,bagri nursing home,127,temperature,-0.23358155259552973,load_stress,-0.17055142935708592,wind_speed,-0.021417691560390147,human_impact,24h
+node/4445117924,Krishna Public School,128,temperature,-0.23615256129206436,load_stress,-0.16477143268072877,wind_speed,-0.021593264520673602,human_impact,24h
+node/4445119946,Shri Ganesh Vinayak Eye Hospital,129,temperature,-0.2343930977922888,load_stress,-0.1701855822617845,wind_speed,-0.02180150055009057,human_impact,24h
+node/4445120486,Holy Heartseducational academy,130,temperature,-0.23349464270669776,load_stress,-0.1706071734971623,wind_speed,-0.02158964267748354,human_impact,24h
+node/4445126014,Mayoor school,131,temperature,-0.233578619006969,load_stress,-0.17055288728147924,wind_speed,-0.021416433174189994,human_impact,24h
+node/4445146001,Yashwant Hospital,132,temperature,-0.23358155259552973,load_stress,-0.17055142935708592,wind_speed,-0.021417691560390147,human_impact,24h
+node/4445158557,Bharat Mata higher secondary school,133,temperature,-0.23339203787493218,load_stress,-0.17065327472218664,wind_speed,-0.021575786341909736,human_impact,24h
+node/4445165297,Dronacharya public school,134,temperature,-0.2333038591986264,load_stress,-0.17074701395975,wind_speed,-0.021714932696243913,human_impact,24h
+node/4445176350,The Radient Way School,135,temperature,-0.23328285568933813,load_stress,-0.17075212837132217,wind_speed,-0.021716658090190293,human_impact,24h
+node/4445182024,Holy cross senior secondary school,136,temperature,-0.23404153868673222,load_stress,-0.1698945670058946,wind_speed,-0.02157373813467699,human_impact,24h
+node/4445255005,Bharatiya vidya bhuvans R.K. sarda vidya mandir,137,temperature,-0.25169680884369006,load_stress,-0.13555590225853192,crs,0.027922813912402734,human_impact,24h
+node/4445258453,MGM school,138,temperature,-0.23404075652234874,load_stress,-0.16990020964548372,wind_speed,-0.021576653766147803,human_impact,24h
+node/4445382462,Ryan International School,139,temperature,-0.23406523690427916,load_stress,-0.16989784455330356,wind_speed,-0.021581423992970132,human_impact,24h
+node/4446574875,Grass Memorial Ground,140,temperature,-0.23349464270669776,load_stress,-0.1706071734971623,wind_speed,-0.02158964267748354,human_impact,24h
+node/4711002386,Mittal Hospital,141,temperature,-0.23404047108217893,load_stress,-0.1698988142957724,wind_speed,-0.021576489640387882,human_impact,24h
+node/4994374903,primary government hospital Bangoli,142,temperature,-0.24237337386950766,load_stress,-0.13209451727483207,wind_speed,-0.023564918472550784,human_impact,24h
+node/6283904436,Dispensary,143,temperature,-0.23349464270669776,load_stress,-0.1706071890048277,wind_speed,-0.02158964267748354,human_impact,24h
+node/7736593775,Shri Venkatesh School,144,temperature,-0.23398750524999015,load_stress,-0.16914783982529386,wind_speed,-0.021425253310099875,human_impact,24h
+node/8322190354,Daffodils English School,145,temperature,-0.23340537893381716,load_stress,-0.1706174254064032,wind_speed,-0.021581162372614676,human_impact,24h
+node/10939721749,A.S.M DENTAL CLINIC,146,temperature,-0.23328416613579073,load_stress,-0.17074617605433406,wind_speed,-0.02171550358099261,human_impact,24h
+node/10939807399,Shreevedam Dental and Aryuvedic Clinic,147,temperature,-0.23439419196350217,load_stress,-0.17018487570519203,wind_speed,-0.021801432608976424,human_impact,24h

@@ -1,0 +1,11 @@
+_id,SlNo,Station,Agency,State LGD Code,State,District LGD Code,District,Tehsil,Block,Village,River,Basin,Tributary,Subtributary,SubSubtributary,Local River,Latitude,Longitude,Is_DischargeDataAvailable,RL_of_zeroGauge,MeanSeaLevel,Data Acquisition Time,River Water Level Telemetry Hourly (meter)
+80190,80190,Ballar,Chhattisgarh SW,22,Chhattisgarh,387,RAIPUR,KASDOL,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,21.53257,82.48972,No,0.0,0.0,04-01-2022 01:00,298.676
+80191,80191,Ballar,Chhattisgarh SW,22,Chhattisgarh,387,RAIPUR,KASDOL,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,21.53257,82.48972,No,0.0,0.0,04-01-2022 02:00,298.676
+80192,80192,Ballar,Chhattisgarh SW,22,Chhattisgarh,387,RAIPUR,KASDOL,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,21.53257,82.48972,No,0.0,0.0,04-01-2022 04:00,298.416
+80193,80193,Ballar,Chhattisgarh SW,22,Chhattisgarh,387,RAIPUR,KASDOL,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,21.53257,82.48972,No,0.0,0.0,04-01-2022 05:00,298.416
+80194,80194,Ballar,Chhattisgarh SW,22,Chhattisgarh,387,RAIPUR,KASDOL,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,21.53257,82.48972,No,0.0,0.0,04-01-2022 06:00,298.155
+80195,80195,Ballar,Chhattisgarh SW,22,Chhattisgarh,387,RAIPUR,KASDOL,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,21.53257,82.48972,No,0.0,0.0,04-01-2022 08:00,298.155
+80196,80196,Ballar,Chhattisgarh SW,22,Chhattisgarh,387,RAIPUR,KASDOL,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,21.53257,82.48972,No,0.0,0.0,04-01-2022 10:00,298.155
+80197,80197,Ballar,Chhattisgarh SW,22,Chhattisgarh,387,RAIPUR,KASDOL,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,21.53257,82.48972,No,0.0,0.0,04-01-2022 11:00,298.155
+80198,80198,Ballar,Chhattisgarh SW,22,Chhattisgarh,387,RAIPUR,KASDOL,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,21.53257,82.48972,No,0.0,0.0,04-01-2022 12:00,298.155
+80199,80199,Ballar,Chhattisgarh SW,22,Chhattisgarh,387,RAIPUR,KASDOL,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,21.53257,82.48972,No,0.0,0.0,04-01-2022 13:00,298.416

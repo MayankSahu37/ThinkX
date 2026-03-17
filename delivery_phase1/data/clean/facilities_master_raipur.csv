@@ -1,0 +1,149 @@
+facility_id,facility_name,latitude,longitude,facility_type,district,street_address,complete_address
+node/4445104811,Ramkrishna Care Hospital,21.2130814,81.6537238,Hospital,RAIPUR,"Aurobindo Enclave, Pachpedi Naka, Dhamtari Road, NH43,","(Ramkrishna Care Medical Sciences Pvt Ltd) Aurobindo Enclave,Pachpedi Naka,Dhamatri Road"
+node/4445112827,Narayana Hrudayalaya Mmi Hospital (Managed By Narayana Hrudayalaya Pvt Ltd - Bangalore) - Raipur,21.2132613,81.657736,Hospital,RAIPUR,"Dhamtari Road, Lalpur","Dhamtari Road, Lalpur Near Pachpedi Naka"
+node/4445113471,Suyash Superspeciality Hospital,21.2584938,81.6060273,Hospital,RAIPUR,"Gudhiyari Road, Behind hotel piccadily, kota","Kota Gudhiyari Road, Behind Hotel Piccadilly"
+node/4445129008,Vardaan Hospital (Unit Of Jindal Medicare),21.2520112,81.6632415,Hospital,RAIPUR,"Infront of shankar nagargarden, main road, sector-1, shankar nagar,","Sector - 1, Shankar Nagar"
+node/4445137285,Bal Gopal Children Hospital and Research Institute,21.2349337,81.6413322,Hospital,RAIPUR,"Near mahila police thane, byron bazar road","Opposite Ashirwad Bhawan, Byron Bazar"
+node/5556568170,Navkar Hospital and Maternity Home,21.2284143,81.6545326,Hospital,RAIPUR,,"C-63, Shailendra Nagar, Near Rajendra Nagar Police Chowki"
+node/6950645744,Karma Hospital,21.2401756,81.6622585,Hospital,RAIPUR,,Telibandha
+node/6950645749,Chhattisgarh Eye Hospital,21.2392112,81.6621937,Hospital,RAIPUR,,Near Shyam Nagar
+node/6950645773,Devi Laxmi Hospital,21.2233136,81.6522994,Hospital,RAIPUR,,B-19/5 Ring Road Tagore Nagar
+node/6950646487,Sanjeevani Cbcc Usa Cancer Hospital,21.2142649,81.6503232,Hospital,RAIPUR,,"Infront Of Jain Mandir, Near Ramkrishna Care Hospital,Dawada Colony,Pachpedi Naka"
+node/6953541281,Aashirwad Fertility and Endoscopy Center,21.2346486,81.6077931,Hospital,RAIPUR,,Danganiya Near Shitla Mandir
+node/6956627645,"Samarpan Hospital, Raipur",21.2650092,81.6679336,Hospital,RAIPUR,,Om Santi Niketan School Adarsh Nagar Mowa
+node/6956627650,Sai Sushrusha Hospital,21.2352073,81.6418236,Hospital,RAIPUR,,"Behind Aashirwad Bhawan,Byron Bazar"
+node/6956627655,Sai Kalayan Hospital And Icu,21.2499934,81.6684566,Hospital,RAIPUR,,"Near Jagannath Mandir, Gayatri Nagar"
+node/6956627660,Sai Baba Eye Hospital,21.2595225,81.6370104,Hospital,RAIPUR,,"Near Choti Line, Fafadih"
+node/6956627669,Raipur Institute Of Medical Sciences Hospital,21.2419875,81.8368053,Hospital,RAIPUR,,"Bhansoj Road, N.H-6,M.M.Funcit"
+node/6956629791,Prannath Mission Hospital,21.2647055,81.6395652,Hospital,RAIPUR,,"Street No. 4, Sanmati Nagar, Near Jain Mandir, Fafadih"
+node/6956629796,Piles Care Hospital,21.2454024,81.6468099,Hospital,RAIPUR,,"Raja Talab Road, Near Ghari Chowk"
+node/6956629801,Tharani Children Hospital And Dental Clinic,21.2248204,81.6595718,Hospital,RAIPUR,,"Opposite Vijayta Complex. Main Road, New Rajendra Nagar"
+node/6956629810,Dr. M.R. Bhagwat Memorial Hospital,21.2439374,81.6145067,Hospital,RAIPUR,,"7, South Avenue, Choubey Colony"
+node/6956629815,Kalda Plastic and Cosmetic Surgery Institute and Burn Centre,21.2166146,81.6572553,Hospital,RAIPUR,,"G.E. Road,Choubey Colony"
+node/6956629976,Vidya Hospital And Kidney Centre,21.2491409,81.6617082,Hospital,RAIPUR,,Shankar Nagar Main Road
+node/6956655133,Shri Aurobindo Medical Research Centre,21.2145777,81.6542597,Hospital,RAIPUR,,"Pachmedi Naka, Dhamtari Road"
+node/6956655140,Shree Sai Care Hospital,21.2398899,81.6698393,Hospital,RAIPUR,,"Infront Of Dwarika Mandir New Tilak Society, Avanti Vihar, Telibandha Road"
+node/6956655145,Shree Medishine Hospital - Raipur,21.2200322,81.6655757,Hospital,RAIPUR,,New Rajendra Nagar Amlidih Near Drowanacharya School
+node/6956655152,Sarvodaya Hospital and Maternity Center,21.2715555,81.6710436,Hospital,RAIPUR,,"Dubey Colony, Mowa, Near Mowa Police Station"
+node/6957120029,Visharad Hospital,21.2391162,81.6413422,Hospital,RAIPUR,,Opposite Subhash Stadium
+node/6957120034,Urmila Memorial Multispeciality Hospital,21.2582818,81.6553302,Hospital,RAIPUR,,"Behind Cg Elite Building, Ashoka Gali, Pandari"
+node/6957120039,"Upadhyay Hospital, Raipur",21.2625908,81.5873668,Hospital,RAIPUR,,"Arjun Vihar Heerapur Road, Opp: Harshit Tower"
+node/6957120057,Subham Hospital and Maternity Home,21.2599874,81.6282919,Hospital,RAIPUR,,"Near Shukrari Bazar, Gudhiyari"
+node/6957120062,Subba Rao Hospital,21.2570692,81.6373428,Hospital,RAIPUR,,"Near Hotel Celebration, Bastar Bada, Bastar Bada Jail Road"
+node/6957120067,Srimaa Sarada Arogyadham,21.2308046,81.5954804,Hospital,RAIPUR,,"Madhav Rao Sapre Ward, a"
+node/6957120077,Sobhagya Hospital,21.2740474,81.6335745,Hospital,RAIPUR,,Sivanand Nagar Sector-1 Near Hawa Ghar
+node/6957120082,"Shri Ram Hospital, Raipur",21.2361049,81.6117065,Hospital,RAIPUR,,"Daganiya Road, Sundar Nagar Road"
+node/6957133287,Shri Balaji Institute Of Medical Science Pvt Ltd,21.2724251,81.6717492,Hospital,RAIPUR,,"Ekta Chow Duby Colony, Near Moina Police Station"
+node/6957503647,"Pathak Hospital, Raipur",21.264633,81.6358182,Hospital,RAIPUR,,Nand Kumar Pathak Fafadih Naka
+node/6957503652,Gbg Kidney Care Hospital,21.2259317,81.6585526,Hospital,RAIPUR,,New Rajendra Nagar
+node/6965495354,Modi Hospital,21.2462123,81.6186909,Hospital,RAIPUR,,"Samta Colony, Main Road"
+node/6965495359,Jagjivan Urology Centre,21.2461698,81.6239078,Hospital,RAIPUR,,B-4 Samta Colony Main Road
+node/6965495374,Sahai Hospital,21.2230452,81.656616,Hospital,RAIPUR,,Tagore Nagar Square
+node/6965495384,"Pragya Hospital, Raipur",21.2443828,81.6601836,Hospital,RAIPUR,,"13, Anand Nagar"
+node/6965497689,P D Jethani Memorial Hospital and Diagnostic Center,21.2789978,81.6376406,Hospital,RAIPUR,,Near Khamtarai Bazar
+node/6965497699,Nigam Ent Hospital,21.2472973,81.6568963,Hospital,RAIPUR,,Shanti Nagar
+node/6965497709,Ganpati Hospital (Banthia Hospital),21.2458836,81.6474972,Hospital,RAIPUR,,Rajatalab Road
+node/6965497714,"Yashwant Hospital, Raipur",21.2399062,81.62751,Hospital,RAIPUR,,Tatyapara
+node/6965497719,"Tripathi Hospital, Raipur",21.2495084,81.6579813,Hospital,RAIPUR,,New Shanti Nagar
+node/6965497724,Jeewan Memorial Hospital For Plastic Surgery and Uro,21.2496099,81.6580936,Hospital,RAIPUR,,New Shanti Nagar
+node/6965497729,Om Netra Kendra,21.2487035,81.6448975,Hospital,RAIPUR,,Main Road Pandri
+node/6965497734,Roopjeevan Hospital,21.2567003,81.6410096,Hospital,RAIPUR,,Sai Nagar Devendra Nagar Road
+node/6965497739,Jubesta Hospital,21.257246,81.6435068,Hospital,RAIPUR,,Devendra Nagar
+node/6965497744,"Jain Hospital, Raipur",21.2559026,81.6448666,Hospital,RAIPUR,,"B 162, Sector-1, Devendra Nagar"
+node/6965497749,Dr. Rajehwari Kulkarni Surgical Hospital And Dia,21.2573909,81.6466855,Hospital,RAIPUR,,"Sector-1, B/15, Devendra Nagar"
+node/6965497759,Ekta Institute Of Child Health,21.2471211,81.6566214,Hospital,RAIPUR,,Raipur
+node/6965834116,Ayush Hospital and Maternity Home,21.2623121,81.6739498,Hospital,RAIPUR,,"C-9 Ashoka Ratan, Vidhan Sabha Road Shankar Nagar"
+node/6965834121,Ayushman Hospital and Diagnostic Institute,21.2345823,81.6097793,Hospital,RAIPUR,,Opp:Sunder Nagar Gate Mahender Ghat Road
+node/6965834122,Bachpan Hospital,21.2293683,81.6000053,Hospital,RAIPUR,,"Mahadev Ghat Road, Ring Road Chowk"
+node/6965834136,Bhattar Hospital,21.242349,81.6395467,Hospital,RAIPUR,,"Near Mahila Thana, Aashirwad Bhawan"
+node/6965834146,City Hospital And Research Centre,21.2465523,81.6100636,Hospital,RAIPUR,,"Geeta Nagar, Choubey Colony"
+node/6965834156,Devkripa Hospital and Doctor Plaza,21.2510058,81.6685317,Hospital,RAIPUR,,"Kuehna Road, Infront Of Cseb Sub Station Shankar Nagar"
+node/6965834161,Dr. Jaulkar Ent Hospital,21.2471581,81.6123417,Hospital,RAIPUR,,"Purani Basti Thana Chowk, Kankalipara Road"
+node/6965834166,Dr. Sandeep Bhagwat Orthopedic Hospital,21.2491114,81.6453123,Hospital,RAIPUR,,"B-20, Ravi Nagar, Near Bus Stand, Pandri"
+node/6965834176,Eye and Ent Hospital,21.2495993,81.6461378,Hospital,RAIPUR,,"Near New Bus Stand, Beside Rajgharana"
+node/6965834177,"Heritage Hospital, Raipur",21.2604399,81.6429824,Hospital,RAIPUR,,"Sec-2, Devendra Nagar"
+node/6965834182,Jyoti Hospital and Prasuti Griha,21.5563958,81.8090755,Hospital,RAIPUR,,"Setpal Nagar, Tilda Neora Post"
+node/6965836187,K G N Surical and Maternity Centre,21.2342586,81.645458,Hospital,RAIPUR,,"Fawara Chowk, Byron Bazar"
+node/6965836192,K.M. Hospital,21.2438524,81.6384199,Hospital,RAIPUR,,"Behind Indian Coffee House, Banstal"
+node/6965836197,M. M. Hospital,21.2605318,81.6367264,Hospital,RAIPUR,,"Jailaxmi Complex, Main Road"
+node/6965836202,Mahadev Hospital,21.2294448,81.597827,Hospital,RAIPUR,,"Opposite Lpg Petrol Pump, Mahadev Ghat Road"
+node/6965836211,Mishra Speciality Hospital,21.2615844,81.6380407,Hospital,RAIPUR,,"Road Next To Sbi, Near Patidar Bhavan, Fafdih"
+node/6965836216,Matra Smriti Hospital,21.2686163,81.6197897,Hospital,RAIPUR,,Gondwara Road Near Chirkuti Mandir
+node/6965836221,M D Hospital and Iccu,21.2465873,81.6236986,Hospital,RAIPUR,,"358, Samta Colony"
+node/6966522779,Mgm Eye Hospital,21.2783101,81.7026642,Hospital,RAIPUR,,"5Th Mile, Vidhan Sabha Road"
+node/6966551463,Suprita Hospital,21.2564347,81.6388497,Hospital,RAIPUR,,Jail Road
+node/6966792004,Evangelical Mission Hospital,21.5540159,81.7903335,Hospital,RAIPUR,,"Tilda, Po - Neora"
+node/6966792010,Lifeworth Super Speciality Hospital,21.2456986,81.6175885,Hospital,RAIPUR,,"Main Road, Samata Colony"
+node/6966904907,Shri Manulal Memorial Medical Centre,21.2363311,81.6213289,Hospital,RAIPUR,,"Lakhe Nagar Chowk, Opposite Mai Ki Bagiya, Lakhe Nagar"
+node/6966904930,"Sahu Hospital, Raipur",21.2554704,81.6406797,Hospital,RAIPUR,,"7150, Devendra Nagar, Near Sai Mandir"
+node/6966904976,Agrasen Hospital,21.2454224,81.6245992,Hospital,RAIPUR,,Opp: Krishna Talkies Ramanath Bhimsen Bhawan
+node/6968263373,Pt.J N M Medical College Hospital,21.251975,81.6391427,Hospital,RAIPUR,,"Pt.Jawaharlal Nehru Memorial Medical College, Jail Road"
+node/6968280740,"Kanwar Hospital, Raipur",21.2532719,81.6651843,Hospital,RAIPUR,,"Gaushala Road, Near Telephone Exchange"
+node/6968280745,Raipur Hospital,21.2468461,81.6415286,Hospital,RAIPUR,,Kutchery Chowk
+node/6968280774,"Sanjeewan Hospital, Raipur",21.2208074,81.6410136,Hospital,RAIPUR,,"Near Postal Colony, Sanjay Nagar"
+node/6968280856,Arihant Netralaya,21.2359599,81.6381209,Hospital,RAIPUR,,"Bijali Office Chowk, Bhudha Para"
+node/7148125099,Govt. T.B. Hospital,21.2346921,81.6389363,Hospital,RAIPUR,,"Kali Badi chowk, Raipur"
+node/7148125111,Government Hospital Farfoud,21.2743757,81.9506788,Hospital,RAIPUR,,"Farhada Road, High School"
+node/7148125120,Government Hospital Uparwara,21.117467,81.764341,Hospital,RAIPUR,,NEAR THE Government H S SCHOOL UPARWARA
+node/7148125143,"Government Hospital, Tilda",21.5498742,81.7969593,Hospital,RAIPUR,,Railway Station Road
+node/7148125202,"Government hospital,Khokhopara",21.23239,81.6223248,Hospital,RAIPUR,,"Chandwada, Patel Para, Raipur"
+node/7148125239,Government hospital arang,21.1940118,81.9703912,Hospital,RAIPUR,,"Ward No 07, Near Police Station"
+node/7148125255,District Hospital Raipur,21.2317387,81.6401796,Hospital,RAIPUR,,"Janta Colony, Raipur,"
+node/7148125257,Goverment hospital Gobra Nawapara,20.9675515,81.8588705,Hospital,RAIPUR,,"Gobra, NEAR THE NAGAR PALIKA"
+node/7148125258,Shri Khudadad Dungaji Government Ayurved College Hospital,21.244933,81.605817,Hospital,RAIPUR,,"Great Eastern Road, Near NIt College, opposite to Central Library, Raipur"
+node/7148125308,Government Hospital,21.2300217,81.6598785,Hospital,RAIPUR,,"Kashiram Nagar, Sai Vihar Colony, Raipur"
+node/7148125312,Labhandhi Government Hospital,21.244877,81.703673,Hospital,RAIPUR,,Behind of labhandi School
+node/7288964595,Shri Balaji Hospital,21.2261487,81.6397097,Hospital,RAIPUR,,"Raipur Road, RDA Colony, Tikrapara"
+node/7288964599,Jeevan Anmol Hospital,21.2250565,81.6531985,Hospital,RAIPUR,,"Near MLA Guest House, Tagore Nagar, Raipur, Chhattisgarh"
+node/7288964602,Madhumeet Hospital,21.2401655,81.6698864,Hospital,RAIPUR,,"Shiv Mandir Chowk, Avanti Vihar Road, near Radha Krishna Mandir, Shankar Nagar, Raipur"
+node/7288964603,Shri Krishna Hospital,21.223641,81.660207,Hospital,RAIPUR,,"Main Road, Sector 2, Priyadarshini Nagar Colony, New Rajendra Nagar, Raipur"
+node/7288964610,Raipura Hospital,21.2321504,81.6035435,Hospital,RAIPUR,,"Mahadev Ghat Road, Maitri Nagar, Sunder Nagar, Raipur"
+node/7288964613,Awasthi Hospital,21.231624,81.6540067,Hospital,RAIPUR,,"Katora Talab Main Road, Janta Colony, Raipur, Chhattisgarh"
+node/7288964616,Om Superspeciality Hospital,21.2292542,81.5986728,Hospital,RAIPUR,,"Vikas Vihar Colony, Changurabhata, Raipur, Chhattisgarh"
+node/7288964641,Kankali Hospital Parisar,21.23854,81.62784,Hospital,RAIPUR,,"Shop Number 7, Kankali hospital Parisar, Tatyapara, Kankalipara Chowk"
+node/7288964642,Anjali Children Hospital,21.22115,81.649675,Hospital,RAIPUR,,"Telibandha Ring Road, Near Panchmukhi Hanuman Temple, Pachpedi Naka, Raipur"
+node/7288964644,We Care Super Specialty Hospital,21.235399,81.668942,Hospital,RAIPUR,,"Ring Road, Besides Airtel Office, Mahaveer Nagar Road, Shatabdi Nagar, Telibandha, Raipur"
+node/7288964648,District Police Hospital,21.2307216,81.6449518,Hospital,RAIPUR,,"Janta Colony,Raipur"
+node/7288964653,Dr Manoj Agrwal,21.2437894,81.6504829,Hospital,RAIPUR,,"Indravati Colony, Raipur"
+node/7288964658,Avanti Hospital,21.2408235,81.6696319,Hospital,RAIPUR,,"Shankar Nagar, Raipur"
+node/7288964664,Anand Shree Hospital,21.233519,81.604322,Hospital,RAIPUR,,"Daganiya, Amanaka, Raipur"
+node/7288964666,Life Line Hospital,21.2328853,81.605519,Hospital,RAIPUR,,"Mahadev Ghat Road, Maitri Nagar, Sunder Nagar, Raipur"
+node/7288964673,Shri Jagannath Multispeciality Hospital,21.22998,81.600057,Hospital,RAIPUR,,"csidc, Mahadev Ghat Road, Raipura Chowk Road, near Raipur"
+node/7288964676,Gayatri Hospital,21.239345,81.6038105,Hospital,RAIPUR,,"Rohinipuram, Behind Ralas Enclave, Daganiya, Raipur"
+node/7288964679,Vijaya durga hospital,21.235824,81.63491,Hospital,RAIPUR,,"Budhapara, Raipur"
+node/7288964681,Rajdhani Super Speciality Hospital,21.2190325,81.6483451,Hospital,RAIPUR,,"Pachpedi Naka Road, Laxmi Nagar, Postal Colony, Pachpedi Naka, Raipur, Chhattisgarh"
+node/7288964683,Dr Nigam Hospital,21.2350371,81.6517301,Hospital,RAIPUR,,"Raipur, Katora Talab, Civil Lines, Raipur"
+node/7288964686,Shubham Hospital,21.23422,81.610285,Hospital,RAIPUR,,"Sunder Nagar, Raipur"
+node/7291844243,Virdi Hospital,21.2496368,81.628347,Hospital,RAIPUR,,"Moudhapara Link Road, near Gurunanak Chowk, Raipur"
+node/7291844245,DKS Super Speciality Hospital,21.2449632,81.6412379,Hospital,RAIPUR,,"Ghadi chowk, Chhattisgarh"
+node/7291844258,Mamta Hospital,21.246905,81.631597,Hospital,RAIPUR,,"ramnani gali, Jawahar Nagar, Raipur"
+node/7291844264,"Om Hospital , Burn Plastic & Cosmetic Surgery Center",21.2451108,81.6301308,Hospital,RAIPUR,,"Badaipara, Jawahar Nagar, Raipur"
+node/7291844275,Shri Mahaveer Hospital,21.25007,81.6625026,Hospital,RAIPUR,,"Kachna Pahuch Marg, Geetanjali Colony, Shankar Nagar, Raipur"
+node/7291844281,Lotus Hospital & Advance Urology Center,21.2468938,81.6485864,Hospital,RAIPUR,,"Govind Nagar, Raipur"
+node/7291844299,Chand Rani Sardari Lal Speciality EYE And ENT Hospital,21.2463682,81.6546202,Hospital,RAIPUR,,"Fafadih, shantinagar, Raipur"
+node/7291844302,Petals Newborn And Children Hospital,21.245081,81.6245086,Hospital,RAIPUR,,"Bhimsen bhawan marg, Samta Colony, Raipur"
+node/7291844307,Shashwat Hospital,21.244077,81.630207,Hospital,RAIPUR,,"Badhai Para Road, Ramya Para, Jorapara, Jawahar Nagar, Raipur"
+node/7291844314,Sagar Multi Speciality Hospital,21.249743,81.667901,Hospital,RAIPUR,,"Gayatri Nagar, Geetanjali Colony, Shankar Nagar, Raipur"
+node/7291844320,Sankalp Hospital,21.2467743,81.5723744,Hospital,RAIPUR,,"Salasara Green, Ring Road Number 1, Sarona"
+node/12276858430,"Campion School, Raipur",21.2878259,81.7170313,School,RAIPUR,"Vidhan Sabha Road, Amaseoni","Vidhan Sabha Road, Amaseoni, Raipur, Raipur,  49311.0"
+node/3774564938,bagri nursing home,21.2414376,81.6232005,Hospital,RAIPUR,,
+node/4445117924,Krishna Public School,21.1943876,81.6635818,School,RAIPUR,,
+node/4445119946,Shri Ganesh Vinayak Eye Hospital,21.2131689,81.6561777,Hospital,RAIPUR,,
+node/4445120486,Holy Heartseducational academy,21.2374171,81.6480843,School,RAIPUR,,
+node/4445126014,Mayoor school,21.2349537,81.6495081,School,RAIPUR,,
+node/4445146001,Yashwant Hospital,21.2403202,81.6293508,Hospital,RAIPUR,,
+node/4445158557,Bharat Mata higher secondary school,21.2604534,81.5742895,School,RAIPUR,,
+node/4445165297,Dronacharya public school,21.2188586,81.6522695,School,RAIPUR,,
+node/4445176350,The Radient Way School,21.2451205,81.5880403,School,RAIPUR,,
+node/4445182024,Holy cross senior secondary school,21.2617556,81.6602541,School,RAIPUR,,
+node/4445255005,Bharatiya vidya bhuvans R.K. sarda vidya mandir,21.2885051,81.7017642,School,RAIPUR,,
+node/4445258453,MGM school,21.2515714,81.6704839,School,RAIPUR,,
+node/4445382462,Ryan International School,21.2474275,81.6883917,School,RAIPUR,,
+node/4446574875,Grass Memorial Ground,21.2385713,81.6450914,School,RAIPUR,,
+node/4711002386,Mittal Hospital,21.260362,81.6587146,Hospital,RAIPUR,,
+node/4994374903,primary government hospital Bangoli,21.4005479,81.8506453,Hospital,RAIPUR,,
+node/6283904436,Dispensary,21.2514868,81.6023593,Hospital,RAIPUR,,
+node/7736593775,Shri Venkatesh School,21.2783652,81.6748896,School,RAIPUR,,
+node/8322190354,Daffodils English School,21.2574871,81.6049235,School,RAIPUR,,
+node/10939721749,A.S.M DENTAL CLINIC,21.2371135,81.5978925,Hospital,RAIPUR,,
+node/10939807399,Shreevedam Dental and Aryuvedic Clinic,21.2345837,81.5954368,Hospital,RAIPUR,,

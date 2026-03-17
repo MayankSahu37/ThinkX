@@ -1,0 +1,106 @@
+SlNo,Station,Agency,State LGD Code,State,District LGD Code,District,Tehsil,Block,Village,River,Basin,Tributary,Subtributary,SubSubtributary,Local River,Latitude,Longitude,Data Acquisition Time,Telemetry Hourly Rainfall (mm)
+1,Agar_Mungeli,Chhattisgarh SW,22,Chhattisgarh,375,BILASPUR,MUNGELI,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,22.0718,81.68442,11-01-2026 15:00,0.5
+2,Amravati,Chhattisgarh SW,22,Chhattisgarh,374,BASTAR,MAKDI,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,19.60923,81.94571,07-01-2026 15:00,0.5
+3,Antagarh,Chhattisgarh SW,22,Chhattisgarh,374,BASTAR,BASTAR,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,20.10161,81.16118,03-02-2026 17:00,0.5
+4,Awapalli,Chhattisgarh SW,22,Chhattisgarh,636,BIJAPUR,USOOR,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,18.5808,80.7673,29-01-2026 14:00,4.0
+5,Bacheli,Chhattisgarh SW,22,Chhattisgarh,376,DANTEWADA,DANTEWADA,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,18.6921,81.26144,21-01-2026 15:00,0.5
+6,Bacheli,Chhattisgarh SW,22,Chhattisgarh,376,DANTEWADA,DANTEWADA,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,18.6921,81.26144,23-02-2026 17:00,3.0
+7,Bacheli,Chhattisgarh SW,22,Chhattisgarh,376,DANTEWADA,DANTEWADA,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,18.6921,81.26144,23-02-2026 18:00,22.5
+8,Bacheli,Chhattisgarh SW,22,Chhattisgarh,376,DANTEWADA,DANTEWADA,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,18.6921,81.26144,24-02-2026 12:00,0.5
+9,Bacheli,Chhattisgarh SW,22,Chhattisgarh,376,DANTEWADA,DANTEWADA,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,18.6921,81.26144,24-02-2026 18:00,1.5
+10,Badgaon,Chhattisgarh SW,22,Chhattisgarh,374,BASTAR,BASTAR,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,20.13819,80.77071,24-01-2026 13:00,1.0
+11,Ballar,Chhattisgarh SW,22,Chhattisgarh,387,RAIPUR,KASDOL,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,21.53257,82.48972,26-01-2026 15:00,0.5
+12,Banskot,Chhattisgarh SW,22,Chhattisgarh,374,BASTAR,Visrampuree,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,19.99861111,81.84472222,19-01-2026 14:00,0.5
+13,Benoor,Chhattisgarh SW,22,Chhattisgarh,637,NARAYANPUR,NARAYANPUR,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,19.65888889,81.42777778,31-01-2026 14:00,0.5
+14,Benoor,Chhattisgarh SW,22,Chhattisgarh,637,NARAYANPUR,NARAYANPUR,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,19.65888889,81.42777778,23-02-2026 17:00,1.0
+15,Bhiramgarh,Chhattisgarh SW,22,Chhattisgarh,636,BIJAPUR,BHAIRAMGARH,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,19.00411,81.0558,01-01-2026 14:00,0.5
+16,Bhiramgarh,Chhattisgarh SW,22,Chhattisgarh,636,BIJAPUR,BHAIRAMGARH,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,19.00411,81.0558,20-01-2026 17:00,0.5
+17,Bijapur_cg,Chhattisgarh SW,22,Chhattisgarh,636,BIJAPUR,BIJAPUR,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,18.78666667,80.81527778,29-01-2026 16:00,0.5
+18,Chaki,Chhattisgarh SW,22,Chhattisgarh,389,SURGUJA,RAMANUJNAGAR,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,23.80094,83.50627,07-01-2026 14:00,0.5
+19,Chaki,Chhattisgarh SW,22,Chhattisgarh,389,SURGUJA,RAMANUJNAGAR,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,23.80094,83.50627,23-02-2026 17:00,5.0
+20,Chhura,Chhattisgarh SW,22,Chhattisgarh,387,RAIPUR,CHHURA,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,20.80882,82.20646,30-01-2026 12:00,1.5
+21,Devpahri,Chhattisgarh SW,22,Chhattisgarh,383,KORBA,KORBA,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,22.63585,82.8081,05-01-2026 08:00,0.5
+22,Dhurwakari,Chhattisgarh SW,22,Chhattisgarh,375,BILASPUR,MASTURI,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,21.84233,82.26555,02-01-2026 18:00,0.5
+23,Durgkondal,Chhattisgarh SW,22,Chhattisgarh,374,BASTAR,BASTAR,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,20.22153,80.94705,23-01-2026 17:00,0.5
+24,Garhfuljhar,Chhattisgarh SW,22,Chhattisgarh,385,MAHASAMUND,BASNA,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,21.20978,82.84518,16-01-2026 13:00,4.5
+25,Gej_Gouripur,Chhattisgarh SW,22,Chhattisgarh,389,SURGUJA,PREMNAGAR,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,23.04514,82.6113,10-01-2026 18:00,1.0
+26,Hasdeo_Kodgar,Chhattisgarh SW,22,Chhattisgarh,383,KORBA,PONDI UPRORA,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,23.01678,82.33337,23-02-2026 15:00,8.5
+27,Indravati Barsur,Chhattisgarh SW,22,Chhattisgarh,376,DANTEWADA,GEEDAM,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,19.1225,81.38361111,13-01-2026 15:00,0.5
+28,Jaijaipur,Chhattisgarh SW,22,Chhattisgarh,379,JANJGIR - CHAMPA,JAIJAIPUR,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,21.84185,82.8336,17-01-2026 17:00,0.5
+29,Jonk_Paraswani,Chhattisgarh SW,22,Chhattisgarh,385,MAHASAMUND,BASNA,-,-,Mahanadi,Mahanadi,Jonk,-,-,Jonk,21.20833333,82.6475,15-01-2026 15:00,2.5
+30,Kalma Barrage,Chhattisgarh SW,22,Chhattisgarh,386,RAIGARH,BARAMKELA,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,21.68663,83.26933,03-01-2026 13:00,0.5
+31,Kapot,Chhattisgarh SW,22,Chhattisgarh,383,KORBA,PALI,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,22.42538,82.3771,21-01-2026 14:00,0.5
+32,Kaya,Chhattisgarh SW,22,Chhattisgarh,386,RAIGARH,GHARGHODA,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,22.34361,83.38561,06-01-2026 07:00,1.0
+33,Kaya,Chhattisgarh SW,22,Chhattisgarh,386,RAIGARH,GHARGHODA,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,22.34361,83.38561,26-01-2026 10:00,1.0
+34,Kaya,Chhattisgarh SW,22,Chhattisgarh,386,RAIGARH,GHARGHODA,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,22.34361,83.38561,26-01-2026 11:00,2.0
+35,Kedar Nalla,Chhattisgarh SW,22,Chhattisgarh,386,RAIGARH,SARANGARH,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,21.56416667,82.97333333,22-01-2026 14:00,1.0
+36,Kelo Reservoir,Chhattisgarh SW,22,Chhattisgarh,386,RAIGARH,RAIGARH,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,21.95055556,83.39194444,02-01-2026 16:00,1.0
+37,Kelo Reservoir,Chhattisgarh SW,22,Chhattisgarh,386,RAIGARH,RAIGARH,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,21.95055556,83.39194444,29-01-2026 17:00,0.5
+38,Kelo Reservoir,Chhattisgarh SW,22,Chhattisgarh,386,RAIGARH,RAIGARH,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,21.95055556,83.39194444,13-02-2026 12:00,0.5
+39,Kharang,Chhattisgarh SW,22,Chhattisgarh,375,BILASPUR,KOTA,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,22.28888889,82.21888889,07-01-2026 14:00,0.5
+40,Kharkhara,Chhattisgarh SW,22,Chhattisgarh,378,DURG,DONDILOHARA,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,20.83541,80.98688,05-01-2026 15:00,0.5
+41,Kharkhara,Chhattisgarh SW,22,Chhattisgarh,378,DURG,DONDILOHARA,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,20.83541,80.98688,23-02-2026 12:00,0.5
+42,Kharun_Amdi,Chhattisgarh SW,22,Chhattisgarh,387,RAIPUR,ABHANPUR,-,-,Mahanadi,Mahanadi,Seonath,kharun,kharun,kharun,21.09888889,81.57694444,20-01-2026 18:00,0.5
+43,Kharun_Amdi,Chhattisgarh SW,22,Chhattisgarh,387,RAIPUR,ABHANPUR,-,-,Mahanadi,Mahanadi,Seonath,kharun,kharun,kharun,21.09888889,81.57694444,23-01-2026 11:00,0.5
+44,Kinkari Nalla,Chhattisgarh SW,22,Chhattisgarh,386,RAIGARH,BARAMKELA,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,21.45651,83.29697,07-01-2026 15:00,1.0
+45,Kisdi,Chhattisgarh SW,22,Chhattisgarh,385,MAHASAMUND,SARAIPALI,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,21.23139,83.03174,16-01-2026 12:00,3.5
+46,Kodar,Chhattisgarh SW,22,Chhattisgarh,385,MAHASAMUND,MAHASAMUND,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,21.19325,82.181,03-02-2026 14:00,1.5
+47,Konta_1,Chhattisgarh SW,22,Chhattisgarh,642,SUKMA,KONTA,-,-,Godavari,Godavari,Sabari,---,--,Sabari,17.80555556,81.38611111,05-02-2026 13:00,0.5
+48,Konta_1,Chhattisgarh SW,22,Chhattisgarh,642,SUKMA,KONTA,-,-,Godavari,Godavari,Sabari,---,--,Sabari,17.80555556,81.38611111,23-02-2026 21:00,1.5
+49,Kosarteda,Chhattisgarh SW,22,Chhattisgarh,374,BASTAR,Bhanpuri,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,19.44499,81.86547,08-01-2026 16:00,0.5
+50,Kunwarpur,Chhattisgarh SW,22,Chhattisgarh,389,SURGUJA,LAKHANPUR,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,22.96333,83.02488,01-01-2026 17:00,0.5
+51,Kunwarpur,Chhattisgarh SW,22,Chhattisgarh,389,SURGUJA,LAKHANPUR,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,22.96333,83.02488,16-01-2026 16:00,0.5
+52,Kusmi,Chhattisgarh SW,22,Chhattisgarh,389,SURGUJA,KUSMI,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,23.27953,83.90351,09-01-2026 15:00,1.0
+53,Lai,Chhattisgarh SW,22,Chhattisgarh,384,KORIYA,MANENDRAGARH,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,23.29076,82.32768,23-02-2026 17:00,0.5
+54,Lodam,Chhattisgarh SW,22,Chhattisgarh,380,JASHPUR,JASHPUR,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,22.95434,84.36464,29-01-2026 18:00,1.5
+55,Madder,Chhattisgarh SW,22,Chhattisgarh,385,MAHASAMUND,MAHASAMUND,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,18.774167,80.539167,28-01-2026 18:00,1.0
+56,Madian,Chhattisgarh SW,22,Chhattisgarh,388,RAJNANDGAON,DONGARGARH,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,21.15367,80.65534,23-02-2026 09:00,0.5
+57,Mahanadi_ Arang,Chhattisgarh SW,22,Chhattisgarh,387,RAIPUR,ARANG,ARANG,Arang,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,21.16194444,82.01972222,14-01-2026 13:00,1.5
+58,Mahanadi_ Sarangpal,Chhattisgarh SW,22,Chhattisgarh,381,KANKER,KANKER,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,20.29694444,81.53861111,21-01-2026 11:00,0.5
+59,Mahanadi_ Sarangpal,Chhattisgarh SW,22,Chhattisgarh,381,KANKER,KANKER,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,20.29694444,81.53861111,21-01-2026 14:00,0.5
+60,Mahanadi_ Sarangpal,Chhattisgarh SW,22,Chhattisgarh,381,KANKER,KANKER,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,20.29694444,81.53861111,23-01-2026 09:00,0.5
+61,Manpur,Chhattisgarh SW,22,Chhattisgarh,388,RAJNANDGAON,MANPUR,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,20.3691,80.72144,03-02-2026 12:00,0.5
+62,Marwahi,Chhattisgarh SW,22,Chhattisgarh,734,Gaurella Pendra Marwahi,MARWAHI,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,23.00632,82.05911,04-02-2026 06:00,0.5
+63,Mayana,Chhattisgarh SW,22,Chhattisgarh,374,BASTAR,BASTAR,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,20.41981,81.28205,23-01-2026 11:00,0.5
+64,Mogra Bar.,Chhattisgarh SW,22,Chhattisgarh,388,RAJNANDGAON,AMBAGARH CHOWKI,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,20.75596,80.66594,06-01-2026 15:00,0.5
+65,Mogra Bar.,Chhattisgarh SW,22,Chhattisgarh,388,RAJNANDGAON,AMBAGARH CHOWKI,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,20.75596,80.66594,11-01-2026 08:00,0.5
+66,Mohandi,Chhattisgarh SW,22,Chhattisgarh,377,DHAMTARI,MAGARLOD,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,20.73185,81.80864,29-01-2026 14:00,0.5
+67,Moran_Wadrafnagar,Chhattisgarh SW,22,Chhattisgarh,389,SURGUJA,ODGI,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,23.78988,82.83762,01-01-2026 05:00,0.5
+68,Moran_Wadrafnagar,Chhattisgarh SW,22,Chhattisgarh,389,SURGUJA,ODGI,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,23.78988,82.83762,13-01-2026 07:00,0.5
+69,Moran_Wadrafnagar,Chhattisgarh SW,22,Chhattisgarh,389,SURGUJA,ODGI,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,23.78988,82.83762,23-01-2026 13:00,0.5
+70,Pairi_Nahargaon,Chhattisgarh SW,22,Chhattisgarh,377,DHAMTARI,MAGARLOD,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,20.65488,82.09876,06-01-2026 09:00,0.5
+71,Pairi_Nahargaon,Chhattisgarh SW,22,Chhattisgarh,377,DHAMTARI,MAGARLOD,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,20.65488,82.09876,14-01-2026 09:00,0.5
+72,Pairi_Nahargaon,Chhattisgarh SW,22,Chhattisgarh,377,DHAMTARI,MAGARLOD,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,20.65488,82.09876,19-01-2026 09:00,0.5
+73,Pidiyal,Chhattisgarh SW,22,Chhattisgarh,378,DURG,DONDILOHARA,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,20.67314,80.90161,06-01-2026 17:00,0.5
+74,Pidiyal,Chhattisgarh SW,22,Chhattisgarh,378,DURG,DONDILOHARA,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,20.67314,80.90161,23-02-2026 13:00,5.5
+75,Pipariya Nalla,Chhattisgarh SW,22,Chhattisgarh,388,RAJNANDGAON,CHHUIKHADAN,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,21.54453,80.92858,24-02-2026 15:00,9.5
+76,Puta,Chhattisgarh SW,22,Chhattisgarh,383,KORBA,PONDI UPRORA,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,22.80759,82.71114,20-01-2026 13:00,6.5
+77,Puta,Chhattisgarh SW,22,Chhattisgarh,383,KORBA,PONDI UPRORA,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,22.80759,82.71114,20-01-2026 16:00,0.5
+78,Ramchandrapur_1,Chhattisgarh SW,22,Chhattisgarh,389,SURGUJA,RAMANUJNAGAR,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,23.93599,83.49926,06-01-2026 05:00,0.5
+79,Ramchandrapur_1,Chhattisgarh SW,22,Chhattisgarh,389,SURGUJA,RAMANUJNAGAR,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,23.93599,83.49926,07-01-2026 16:00,1.0
+80,Rihand_Surajpur,Chhattisgarh SW,22,Chhattisgarh,389,SURGUJA,ODGI,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,23.85486,82.77832,23-01-2026 16:00,1.0
+81,Ruse,Chhattisgarh SW,22,Chhattisgarh,388,RAJNANDGAON,KHAIRAGARH,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,21.27763,80.9622,02-01-2026 15:00,0.5
+82,Ruse,Chhattisgarh SW,22,Chhattisgarh,388,RAJNANDGAON,KHAIRAGARH,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,21.27763,80.9622,13-02-2026 08:00,0.5
+83,Sakri (Bilaspur),Chhattisgarh SW,22,Chhattisgarh,375,BILASPUR,TAKHATPUR,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,22.11555556,82.0675,29-01-2026 16:00,0.5
+84,Sakri (Bilaspur),Chhattisgarh SW,22,Chhattisgarh,375,BILASPUR,TAKHATPUR,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,22.11555556,82.0675,02-02-2026 16:00,0.5
+85,Sanawal,Chhattisgarh SW,22,Chhattisgarh,389,SURGUJA,RAMANUJNAGAR,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,24.03916,83.38251,21-01-2026 14:00,0.5
+86,Sandi,Chhattisgarh SW,22,Chhattisgarh,387,RAIPUR,PALARI,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,21.45456,82.07037,08-01-2026 10:00,0.5
+87,Sanna,Chhattisgarh SW,22,Chhattisgarh,380,JASHPUR,BAGICHA,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,23.08575,83.80936,12-01-2026 14:00,0.5
+88,Saroda,Chhattisgarh SW,22,Chhattisgarh,383,KORBA,KORBA,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,21.97687,81.14063,03-01-2026 11:00,1.0
+89,Seonath_Singdai,Chhattisgarh SW,22,Chhattisgarh,382,KAWARDHA,Rajnandgaon,-,-,Mahanadi,Mahanadi,Seonath,-,-,Seonath,21.05388889,81.04805556,07-01-2026 17:00,0.5
+90,Shankargarh,Chhattisgarh SW,22,Chhattisgarh,389,SURGUJA,SHANKARGARH,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,23.30142,83.60604,23-02-2026 18:00,0.5
+91,Shardapur,Chhattisgarh SW,22,Chhattisgarh,389,SURGUJA,WADRAFNAGAR,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,23.83238,83.30709,02-01-2026 15:00,0.5
+92,Shardapur,Chhattisgarh SW,22,Chhattisgarh,389,SURGUJA,WADRAFNAGAR,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,23.83238,83.30709,03-01-2026 08:00,0.5
+93,Shardapur,Chhattisgarh SW,22,Chhattisgarh,389,SURGUJA,WADRAFNAGAR,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,23.83238,83.30709,26-01-2026 16:00,0.5
+94,Shardapur,Chhattisgarh SW,22,Chhattisgarh,389,SURGUJA,WADRAFNAGAR,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,23.83238,83.30709,23-02-2026 17:00,4.5
+95,Silphili,Chhattisgarh SW,22,Chhattisgarh,389,SURGUJA,SURAJPUR,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,23.17812,83.0628,24-02-2026 05:00,0.5
+96,Sondur,Chhattisgarh SW,22,Chhattisgarh,387,RAIPUR,DEOBHOG,-,-,Mahanadi,Mahanadi,Pairi,Pairi,Pairi,Sondur,20.23333333,82.1,05-02-2026 14:00,1.0
+97,Sukha Nalla Barr,Chhattisgarh SW,22,Chhattisgarh,388,RAJNANDGAON,DONGARGAON,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,20.99722222,80.79,06-01-2026 11:00,0.5
+98,Surdongar,Chhattisgarh SW,22,Chhattisgarh,374,BASTAR,KESHKAL,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,20.09889,81.59064,04-02-2026 15:00,0.5
+99,Talora,Chhattisgarh SW,22,Chhattisgarh,380,JASHPUR,MANORA,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,23.05493,83.98704,27-01-2026 14:00,1.5
+100,Talora,Chhattisgarh SW,22,Chhattisgarh,380,JASHPUR,MANORA,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,23.05493,83.98704,27-01-2026 17:00,0.5
+101,Talora,Chhattisgarh SW,22,Chhattisgarh,380,JASHPUR,MANORA,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,23.05493,83.98704,23-02-2026 19:00,0.5
+102,Tirathgarh,Chhattisgarh SW,22,Chhattisgarh,376,DANTEWADA,DANTEWADA,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,18.9099,81.85448,09-02-2026 04:00,2.0
+103,Tirathgarh,Chhattisgarh SW,22,Chhattisgarh,376,DANTEWADA,DANTEWADA,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,18.9099,81.85448,23-02-2026 21:00,0.5
+104,Turripanni,Chhattisgarh SW,22,Chhattisgarh,384,KORIYA,SONHAT,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,23.63276,82.44992,03-02-2026 16:00,15.0
+105,Uraba,Chhattisgarh SW,22,Chhattisgarh,386,RAIGARH,TAMNAR,-,-,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,Mahanadi,22.21469,83.53974,06-01-2026 16:00,0.5

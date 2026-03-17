@@ -1,0 +1,149 @@
+facility_id,facility_name,row_index,feature_1,shap_1,feature_2,shap_2,feature_3,shap_3,risk_type,horizon
+node/4445104811,Ramkrishna Care Hospital,0,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/4445112827,Narayana Hrudayalaya Mmi Hospital (Managed By Narayana Hrudayalaya Pvt Ltd - Bangalore) - Raipur,1,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/4445113471,Suyash Superspeciality Hospital,2,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/4445129008,Vardaan Hospital (Unit Of Jindal Medicare),3,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/4445137285,Bal Gopal Children Hospital and Research Institute,4,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/5556568170,Navkar Hospital and Maternity Home,5,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/6950645744,Karma Hospital,6,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/6950645749,Chhattisgarh Eye Hospital,7,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/6950645773,Devi Laxmi Hospital,8,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/6950646487,Sanjeevani Cbcc Usa Cancer Hospital,9,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/6953541281,Aashirwad Fertility and Endoscopy Center,10,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/6956627645,"Samarpan Hospital, Raipur",11,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/6956627650,Sai Sushrusha Hospital,12,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/6956627655,Sai Kalayan Hospital And Icu,13,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/6956627660,Sai Baba Eye Hospital,14,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/6956627669,Raipur Institute Of Medical Sciences Hospital,15,month,-1.930234432220459,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/6956629791,Prannath Mission Hospital,16,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/6956629796,Piles Care Hospital,17,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/6956629801,Tharani Children Hospital And Dental Clinic,18,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/6956629810,Dr. M.R. Bhagwat Memorial Hospital,19,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/6956629815,Kalda Plastic and Cosmetic Surgery Institute and Burn Centre,20,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/6956629976,Vidya Hospital And Kidney Centre,21,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/6956655133,Shri Aurobindo Medical Research Centre,22,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/6956655140,Shree Sai Care Hospital,23,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/6956655145,Shree Medishine Hospital - Raipur,24,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/6956655152,Sarvodaya Hospital and Maternity Center,25,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/6957120029,Visharad Hospital,26,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/6957120034,Urmila Memorial Multispeciality Hospital,27,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/6957120039,"Upadhyay Hospital, Raipur",28,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/6957120057,Subham Hospital and Maternity Home,29,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/6957120062,Subba Rao Hospital,30,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/6957120067,Srimaa Sarada Arogyadham,31,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/6957120077,Sobhagya Hospital,32,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/6957120082,"Shri Ram Hospital, Raipur",33,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/6957133287,Shri Balaji Institute Of Medical Science Pvt Ltd,34,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/6957503647,"Pathak Hospital, Raipur",35,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/6957503652,Gbg Kidney Care Hospital,36,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/6965495354,Modi Hospital,37,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/6965495359,Jagjivan Urology Centre,38,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/6965495374,Sahai Hospital,39,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/6965495384,"Pragya Hospital, Raipur",40,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/6965497689,P D Jethani Memorial Hospital and Diagnostic Center,41,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/6965497699,Nigam Ent Hospital,42,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/6965497709,Ganpati Hospital (Banthia Hospital),43,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/6965497714,"Yashwant Hospital, Raipur",44,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/6965497719,"Tripathi Hospital, Raipur",45,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/6965497724,Jeewan Memorial Hospital For Plastic Surgery and Uro,46,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/6965497729,Om Netra Kendra,47,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/6965497734,Roopjeevan Hospital,48,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/6965497739,Jubesta Hospital,49,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/6965497744,"Jain Hospital, Raipur",50,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/6965497749,Dr. Rajehwari Kulkarni Surgical Hospital And Dia,51,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/6965497759,Ekta Institute Of Child Health,52,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/6965834116,Ayush Hospital and Maternity Home,53,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/6965834121,Ayushman Hospital and Diagnostic Institute,54,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/6965834122,Bachpan Hospital,55,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/6965834136,Bhattar Hospital,56,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/6965834146,City Hospital And Research Centre,57,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/6965834156,Devkripa Hospital and Doctor Plaza,58,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/6965834161,Dr. Jaulkar Ent Hospital,59,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/6965834166,Dr. Sandeep Bhagwat Orthopedic Hospital,60,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/6965834176,Eye and Ent Hospital,61,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/6965834177,"Heritage Hospital, Raipur",62,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/6965834182,Jyoti Hospital and Prasuti Griha,63,month,-1.930234432220459,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/6965836187,K G N Surical and Maternity Centre,64,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/6965836192,K.M. Hospital,65,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/6965836197,M. M. Hospital,66,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/6965836202,Mahadev Hospital,67,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/6965836211,Mishra Speciality Hospital,68,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/6965836216,Matra Smriti Hospital,69,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/6965836221,M D Hospital and Iccu,70,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/6966522779,Mgm Eye Hospital,71,month,-1.930234432220459,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/6966551463,Suprita Hospital,72,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/6966792004,Evangelical Mission Hospital,73,month,-1.930234432220459,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/6966792010,Lifeworth Super Speciality Hospital,74,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/6966904907,Shri Manulal Memorial Medical Centre,75,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/6966904930,"Sahu Hospital, Raipur",76,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/6966904976,Agrasen Hospital,77,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/6968263373,Pt.J N M Medical College Hospital,78,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/6968280740,"Kanwar Hospital, Raipur",79,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/6968280745,Raipur Hospital,80,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/6968280774,"Sanjeewan Hospital, Raipur",81,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/6968280856,Arihant Netralaya,82,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/7148125099,Govt. T.B. Hospital,83,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/7148125111,Government Hospital Farfoud,84,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727173805236816,human_impact,7d
+node/7148125120,Government Hospital Uparwara,85,month,-1.930234432220459,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/7148125143,"Government Hospital, Tilda",86,month,-1.930234432220459,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/7148125202,"Government hospital,Khokhopara",87,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/7148125239,Government hospital arang,88,month,-1.930234432220459,temperature,-1.5008461475372314,rainfall,-1.3727173805236816,human_impact,7d
+node/7148125255,District Hospital Raipur,89,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/7148125257,Goverment hospital Gobra Nawapara,90,month,-1.930234432220459,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/7148125258,Shri Khudadad Dungaji Government Ayurved College Hospital,91,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/7148125308,Government Hospital,92,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/7148125312,Labhandhi Government Hospital,93,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/7288964595,Shri Balaji Hospital,94,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/7288964599,Jeevan Anmol Hospital,95,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/7288964602,Madhumeet Hospital,96,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/7288964603,Shri Krishna Hospital,97,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/7288964610,Raipura Hospital,98,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/7288964613,Awasthi Hospital,99,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/7288964616,Om Superspeciality Hospital,100,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/7288964641,Kankali Hospital Parisar,101,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/7288964642,Anjali Children Hospital,102,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/7288964644,We Care Super Specialty Hospital,103,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/7288964648,District Police Hospital,104,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/7288964653,Dr Manoj Agrwal,105,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/7288964658,Avanti Hospital,106,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/7288964664,Anand Shree Hospital,107,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/7288964666,Life Line Hospital,108,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/7288964673,Shri Jagannath Multispeciality Hospital,109,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/7288964676,Gayatri Hospital,110,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/7288964679,Vijaya durga hospital,111,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/7288964681,Rajdhani Super Speciality Hospital,112,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/7288964683,Dr Nigam Hospital,113,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/7288964686,Shubham Hospital,114,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/7291844243,Virdi Hospital,115,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/7291844245,DKS Super Speciality Hospital,116,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/7291844258,Mamta Hospital,117,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/7291844264,"Om Hospital , Burn Plastic & Cosmetic Surgery Center",118,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/7291844275,Shri Mahaveer Hospital,119,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/7291844281,Lotus Hospital & Advance Urology Center,120,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/7291844299,Chand Rani Sardari Lal Speciality EYE And ENT Hospital,121,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/7291844302,Petals Newborn And Children Hospital,122,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/7291844307,Shashwat Hospital,123,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/7291844314,Sagar Multi Speciality Hospital,124,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/7291844320,Sankalp Hospital,125,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/12276858430,"Campion School, Raipur",126,month,-1.930234432220459,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/3774564938,bagri nursing home,127,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/4445117924,Krishna Public School,128,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727173805236816,human_impact,7d
+node/4445119946,Shri Ganesh Vinayak Eye Hospital,129,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/4445120486,Holy Heartseducational academy,130,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/4445126014,Mayoor school,131,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/4445146001,Yashwant Hospital,132,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/4445158557,Bharat Mata higher secondary school,133,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/4445165297,Dronacharya public school,134,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/4445176350,The Radient Way School,135,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/4445182024,Holy cross senior secondary school,136,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/4445255005,Bharatiya vidya bhuvans R.K. sarda vidya mandir,137,month,-1.930234432220459,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/4445258453,MGM school,138,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/4445382462,Ryan International School,139,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/4446574875,Grass Memorial Ground,140,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/4711002386,Mittal Hospital,141,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/4994374903,primary government hospital Bangoli,142,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727173805236816,human_impact,7d
+node/6283904436,Dispensary,143,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/7736593775,Shri Venkatesh School,144,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/8322190354,Daffodils English School,145,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/10939721749,A.S.M DENTAL CLINIC,146,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d
+node/10939807399,Shreevedam Dental and Aryuvedic Clinic,147,month,-1.933717966079712,temperature,-1.5008461475372314,rainfall,-1.3727493286132812,human_impact,7d

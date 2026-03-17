@@ -1,0 +1,17 @@
+# Ignore raw historical data and analytics scripts from Vercel Serverless Function build
+*.xlsx
+*.ipynb
+delivery_phase1/
+processed_outputs/weather_realtime.py
+supabase/
+GWL_*.csv
+Humidity_*.csv
+Riverwater_level_*.csv
+rainfall_*.csv
+riverwater_level_*.csv
+temprature_*.csv
+windSpeed_*.csv
+all_outages_*.csv
+live_outages.csv
+combined_outages.csv
+export.csv

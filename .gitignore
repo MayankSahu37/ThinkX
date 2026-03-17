@@ -11,28 +11,29 @@ __pycache__/
 # Jupyter
 .ipynb_checkpoints/
 
-# OS/editor
-.DS_Store
-Thumbs.db
+# Dependencies
+node_modules/
+Frontend/node_modules/
 
-# Local logs/temp
-*.log
-*.tmp
+# Build output
+dist/
+Frontend/dist/
+build/
 
-# Local environment files
+# Local env
 .env
 .env.*
 !.env.example
+
+# Logs/temp
+*.log
+*.tmp
+
+# OS/editor
+.DS_Store
+Thumbs.db
 
 # Generated weather snapshots may include provider API keys in payload URLs
 processed_outputs/*snapshot_*.json
 processed_outputs/openweather_snapshot_*.json
 processed_outputs/weatherstack_snapshot_*.json
-
-# Node/Vite
-Frontend/node_modules/
-Frontend/dist/
-
-# Common build outputs
-build/
-dist/

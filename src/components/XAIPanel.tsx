@@ -7,7 +7,7 @@ import { xaiService } from '../services/api'
 import type { XAIExplanation, XAIFactor } from '../utils/types'
 
 // ── Icon map ──────────────────────────────────────────────────────────────────
-const ICON_MAP: Record<string, React.ComponentType<{ className?: string }>> = {
+const ICON_MAP: Record<string, any> = {
     'cloud-rain': CloudRain,
     'waves': Waves,
     'droplets': Droplets,
@@ -17,7 +17,7 @@ const ICON_MAP: Record<string, React.ComponentType<{ className?: string }>> = {
     'sun': Sun,
 }
 const FactorIcon = ({ name, className, style }: { name: string; className?: string; style?: React.CSSProperties }) => {
-    const Comp = ICON_MAP[name] || ShieldAlert as any
+    const Comp = ICON_MAP[name] || ShieldAlert
     return <Comp className={className} style={style} />
 }
 
